@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
   const [seleccionada, setSeleccionada] = useState(null);
   const [respondida, setRespondida] = useState(false);
+  const [opcionesMezcladas, setOpcionesMezcladas] = useState([]);
 
   const getMateriaColorClasses = (color) => {
     const colorMap = {
@@ -17,11 +18,27 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
     return colorMap[color] || colorMap.gray;
   };
 
+  // Función para mezclar las opciones aleatoriamente
+  const mezclarOpciones = (opciones) => {
+    const opcionesCopia = [...opciones];
+    for (let i = opcionesCopia.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [opcionesCopia[i], opcionesCopia[j]] = [opcionesCopia[j], opcionesCopia[i]];
+    }
+    return opcionesCopia;
+  };
+
   // Este useEffect se ejecuta cada vez que cambia la pregunta
-  // y resetea el estado del componente
+  // y resetea el estado del componente y mezcla las opciones
   useEffect(() => {
     setSeleccionada(null);
     setRespondida(false);
+    
+    // Mezclar las opciones cada vez que cambia la pregunta
+    if (pregunta && pregunta.opciones) {
+      const opcionesMezcladasNuevas = mezclarOpciones(pregunta.opciones);
+      setOpcionesMezcladas(opcionesMezcladasNuevas);
+    }
   }, [pregunta, questionNumber]); // Resetea cuando cambia la pregunta
 
   const handleSeleccion = (opcion) => {
@@ -33,6 +50,13 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
       // if (onAnswer) {
       //   onAnswer(opcion);
       // }
+    }
+  };
+
+  const remezclarOpciones = () => {
+    if (!respondida && pregunta && pregunta.opciones) {
+      const nuevasOpcionesMezcladas = mezclarOpciones(pregunta.opciones);
+      setOpcionesMezcladas(nuevasOpcionesMezcladas);
     }
   };
 
@@ -150,11 +174,29 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
 
         {/* Opciones */}
         <div className="p-4 sm:p-6">
+          {/* Indicador y control de opciones mezcladas */}
+          <div className="mb-4 flex items-center justify-between">
+            <span className="inline-flex items-center px-2 py-1 rounded-full text-xs bg-blue-50 text-blue-600 border border-blue-200">
+              🔀 Opciones mezcladas aleatoriamente
+            </span>
+            
+            {!respondida && (
+              <button
+                onClick={remezclarOpciones}
+                className="inline-flex items-center px-3 py-1 text-xs bg-gray-100 text-gray-600 rounded-full hover:bg-gray-200 transition-colors duration-200"
+                title="Volver a mezclar opciones"
+              >
+                🎲 Remezclar
+              </button>
+            )}
+          </div>
+          
           <div className="space-y-3">
-            {pregunta.opciones.map((opcion, index) => (
+            {opcionesMezcladas.map((opcion, index) => (
               <div
                 key={`${pregunta.id || questionNumber}-${opcion.id || index}`} // Key único para cada pregunta
-                className={getOptionClasses(opcion)}
+                className={`${getOptionClasses(opcion)} animate-fadeIn`}
+                style={{ animationDelay: `${index * 0.1}s` }}
                 onClick={() => handleSeleccion(opcion)}
               >
                 {/* Efecto de hover */}
