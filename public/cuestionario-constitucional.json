@@ -750,8 +750,8 @@
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Cuando se niega la solicitud de actualización, corrección, eliminación de datos que fueren erróneos o afecten sus derechos", "es_correcta": false },
-        { "id": 2, "texto": "Cuando se niega la solicitud de actualización, rectificación, eliminación o supresión de datos que fueren erróneos o afecten sus derechos", "es_correcta": true },
-        { "id": 3, "texto": "Cuando se niega la solicitud de actualización, rectificación, eliminación o anulación de datos que fueren erróneos o afecten sus derechos", "es_correcta": false },
+        { "id": 2, "texto": "Cuando se niega la solicitud de actualización, rectificación, eliminación o supresión de datos que fueren erróneos o afecten sus derechos", "es_correcta": false },
+        { "id": 3, "texto": "Cuando se niega la solicitud de actualización, rectificación, eliminación o anulación de datos que fueren erróneos o afecten sus derechos", "es_correcta": true },
         { "id": 4, "texto": "Cuando se niega la atención de actualización, rectificación, eliminación o anulación de datos que fueren erróneos o afecten sus garantias", "es_correcta": false }
       ]
     },
