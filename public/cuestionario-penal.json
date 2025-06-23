@@ -282,7 +282,7 @@
       "texto": "En el sistema oral, en qué casos se puede utilizar documentos",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Siempre que no reemplacen a peritos y testigos ", "es_correcta": false },
+        { "id": 1, "texto": "Siempre que no reemplacen a peritos y testigos ", "es_correcta": true },
         { "id": 2, "texto": "Cuando sustituye a un peritaje ", "es_correcta": false },
         { "id": 3, "texto": "Cuando se agrega en las audiencias ", "es_correcta": false }
       ]
