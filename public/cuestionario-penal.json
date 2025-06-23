@@ -1,0 +1,586 @@
+{
+  "materia": {
+    "nombre": "Derecho Penal",
+    "id": "penal"
+  },
+  "cuestionario": {
+    "titulo": "Reactivos Materia Derecho Penal"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "Llega una denuncia en contra de Pedro Luis por un presunto delito de abuso de confianza, ¿cuánto tiempo tiene el fiscal para indagar durante la fase preprocesal de investigación previa?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "1 año, 2 años", "es_correcta": true },
+        { "id": 2, "texto": "6 meses, 1 año", "es_correcta": false },
+        { "id": 3, "texto": "90 días", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "El fiscal ha reunido los elementos de convicción para establecer que Luis Alberto es el presunto autor de un delito de abuso sexual, ¿con qué audiencia se debe dar inicio a la primera etapa del proceso penal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Audiencia de Presentación y sustentación de Dictamen", "es_correcta": false },
+        { "id": 2, "texto": "Audiencia de Juicio Directo", "es_correcta": false },
+        { "id": 3, "texto": "Audiencia de Formulación de Cargos", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "Se formula cargos en contra de María Juana por un presunto delito de Trata de Personas, ¿qué medidas cautelares sobre los bienes de María Juana puede solicitar el fiscal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Incautación, retención, embargo y prohibición de enajenar", "es_correcta": true },
+        { "id": 2, "texto": "Prohibición de enajenar, transformación, incautación, retención", "es_correcta": false },
+        { "id": 3, "texto": "Clausura provisional de locales o establecimientos. Suspensión temporal de actividades de la persona jurídica. Intervención por parte del ente público de control competente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "Juan es representante legal de la Compañía 'Compras', quien está siendo procesado por un delito de estafa, ¿qué medidas cautelares personales para la compañía puede solicitar el fiscal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Prohibición de ausentarse del país. Obligación de presentarse periódicamente ante la o el juzgador que conoce el proceso o ante la autoridad o institución que designe. Arresto domiciliario. Dispositivo de vigilancia electrónica. Detención. Prisión preventiva", "es_correcta": false },
+        { "id": 2, "texto": "Clausura provisional de locales o establecimientos. Suspensión temporal de actividades de la persona jurídica. Intervención por parte del ente público de control competente", "es_correcta": false },
+        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "El Fiscal Manuel ha investigado a Mario por un delito de violación y solicita al juez se otorgue la prisión preventiva; ¿con qué finalidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Recolectar elementos de convicción de cargo y descargo", "es_correcta": false },
+        { "id": 2, "texto": "Garantizar la comparecencia del procesado con el proceso", "es_correcta": true },
+        { "id": 3, "texto": "Detener al procesado para dictar sentencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "Juan es fiscal de la unidad de flagrancia, ¿sobre qué delitos no le corresponde avocar conocimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Violación, peculado, femicidio", "es_correcta": false },
+        { "id": 2, "texto": "Estupro, calumnia, usurpación, lesiones que no superen los 30 días de incapacidad", "es_correcta": true },
+        { "id": 3, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "El fiscal Juan durante la audiencia de evaluación y preparatoria a juicio podrá presentar los siguientes dictámenes:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Acusatorio, Abstentivo y Mixto", "es_correcta": true },
+        { "id": 2, "texto": "Acusatorio, Absolutorio y Mixto", "es_correcta": false },
+        { "id": 3, "texto": "Condenatorio, Absolutorio y Mixto", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "Luis Alberto es investigado por un presunto delito de extorsión durante la audiencia de evaluación y preparatoria a juicio, el juez considera que el dictamen fiscal no reúne los requisitos necesarios, ¿qué resolución tomará?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Auto de llamamiento a juicio", "es_correcta": false },
+        { "id": 2, "texto": "Sobreseimiento", "es_correcta": true },
+        { "id": 3, "texto": "Sentencia Absolutoria", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "Pedro Luis cometió un delito Contra la Propiedad, acepta su responsabilidad y desea acogerse al procedimiento abreviado, ¿cuándo puede solicitarlo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Desde la audiencia de formulación de cargos hasta la audiencia de juicio", "es_correcta": false },
+        { "id": 2, "texto": "En la audiencia de Evaluación y Preparatoria de Juicio", "es_correcta": false },
+        { "id": 3, "texto": "Desde la audiencia de formulación de cargos hasta la audiencia de evaluación y preparatoria de juicio", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "¿Cuáles son las clases de procedimientos especiales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Apelación, Casación, Revisión, De hecho", "es_correcta": false },
+        { "id": 2, "texto": "Directo, Abreviado, Expedito, Acción Privada", "es_correcta": true },
+        { "id": 3, "texto": "Denuncia, Querella, Acusación Particular", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "Llega a conocimiento del fiscal Manuel una denuncia por un presunto delito de Hurto en contra de María, empleada doméstica en la casa de Luisa, solicita al señor juez la aplicación del principio de oportunidad, ¿con qué finalidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Extinguir el ejercicio de la acción penal", "es_correcta": true },
+        { "id": 2, "texto": "Extinguir la pena", "es_correcta": false },
+        { "id": 3, "texto": "Prescripción de la pena", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "En la audiencia de juzgamiento en contra de Juan de los Palotes, por un delito de Asesinato, ¿qué medios de prueba debe presentar el fiscal y la defensa?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Versiones, armas, documentos, testigos", "es_correcta": false },
+        { "id": 2, "texto": "Testimonial, documental, pericia", "es_correcta": true },
+        { "id": 3, "texto": "Versiones, informes periciales, denuncia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "Durante el interrogatorio, el fiscal Manuel, ¿qué clase de preguntas podrá formular a Pedro Luis acusado por un delito de Violación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Capciosas, sugestivas, impertinentes", "es_correcta": false },
+        { "id": 2, "texto": "Abiertas, cerradas, introducción, transición", "es_correcta": true },
+        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "El juez Pablo ha dictado el sobreseimiento a favor de Danilo Núñez, ¿cuáles son los efectos de esta resolución?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Revocar toda medida cautelar y de protección", "es_correcta": true },
+        { "id": 2, "texto": "Señalar día y hora para la audiencia de juicio", "es_correcta": false },
+        { "id": 3, "texto": "Dictar sentencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "Se dictó sentencia condenatoria de dos años de pena privativa de libertad en contra de Luis el 20 de enero del 2015. ¿Para el cómputo del tiempo de la sentencia se contarán?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Plazo", "es_correcta": true },
+        { "id": 2, "texto": "Término", "es_correcta": false },
+        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "Juan es aprehendido por haber asesinado a su amigo Luis en delito flagrante y es puesto a órdenes de la autoridad, en la audiencia de control de constitucionalidad y flagrancia. ¿Qué le corresponde hacer al fiscal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Presentar dictamen acusatorio", "es_correcta": false },
+        { "id": 2, "texto": "Presentar solicitud de procedimiento abreviado", "es_correcta": false },
+        { "id": 3, "texto": "Dar inicio a la etapa de instrucción fiscal", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "¿Cuándo un fiscal puede solicitar la aplicación del procedimiento directo en contra de Pedro Luis?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La persona procesada acepta el hecho fáctico y acuerda con el fiscal la pena a aplicar", "es_correcta": false },
+        { "id": 2, "texto": "En delitos que tengan pena privativa de libertad hasta 10 años", "es_correcta": false },
+        { "id": 3, "texto": "En delitos flagrantes con pena privativa de libertad hasta 5 años", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "El recurso de hecho procede:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cuando no se está conforme con una sentencia dictada en primera instancia", "es_correcta": false },
+        { "id": 2, "texto": "Cuando se ha negado un recurso interpuesto oportunamente", "es_correcta": true },
+        { "id": 3, "texto": "Cuando se ha violado un derecho", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "El fiscal Mauricio inició la etapa de instrucción por 90 días en contra de Martha, ¿con qué finalidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Determinar elementos de convicción, de cargo y descargo, que permitan formular o no una acusación en contra de la persona procesada", "es_correcta": true },
+        { "id": 2, "texto": "Sentenciar a la persona procesada", "es_correcta": false },
+        { "id": 3, "texto": "Establecer el tiempo de la pena para la persona procesada", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "En un proceso penal, ¿cuáles son los sujetos procesales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Víctima, persona procesada, fiscalía, defensa", "es_correcta": true },
+        { "id": 2, "texto": "Denunciante, persona procesada, fiscalía, defensa", "es_correcta": false },
+        { "id": 3, "texto": "Fiscalía, Juez de Garantías Penales, denunciante, persona procesada", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "Juan en una fiesta agrede a su hermano Pedro causándole una incapacidadde 15 días, que tipo de acción penal es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Privada", "es_correcta": false },
+        { "id": 2, "texto": "Pública", "es_correcta": true },
+        { "id": 3, "texto": "Particular", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "¿El principio de legalidad significa que?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Nadie puede sufrir una pena que no esté establecida en la ley ", "es_correcta": true },
+        { "id": 2, "texto": "Nadie es culpable sin sentencia ejecutoriada", "es_correcta": false },
+        { "id": 3, "texto": "No se puede ser juzgado por jueces de excepción ", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "¿El principio de juicio previo establece que?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Que el acto debe estar descrito como infracción en la ley penal", "es_correcta": false },
+        { "id": 2, "texto": "Que no se puede ser sentenciado sin probarse los hechos en un juicio", "es_correcta": true },
+        { "id": 3, "texto": "Que se presume su responsabilidad hasta demostrar lo contrario ", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 24,
+      "texto": "¿El principio de presunción de inocencia significa que?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El acto ilícito debe estar descrito en una ley ", "es_correcta": false },
+        { "id": 2, "texto": "Que la infracción debe ser declarada con anterioridad al acto ", "es_correcta": false },
+        { "id": 3, "texto": "Que todo imputado es inocente hasta que se lo declare culpable en una sentencia", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "El principio de contradicción establece que",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las partes deben estar presente en el juicio ", "es_correcta": false },
+        { "id": 2, "texto": "Las partes pueden conocer y controvertir las pruebas ", "es_correcta": true },
+        { "id": 3, "texto": " Las partes no pueden interrogar a testigos sino solo los jueces ", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "El principio de oralidad se aplica",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo en la audiencia de juzgamiento", "es_correcta": true },
+        { "id": 2, "texto": "Solo en la etapa intermedia ", "es_correcta": false },
+        { "id": 3, "texto": "En todas las etapas del proceso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "Toda resolución judicial que afecte los derechos de las partes debe adoptarse",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por escrito ", "es_correcta": true },
+        { "id": 2, "texto": "Mediante audiencias", "es_correcta": true },
+        { "id": 3, "texto": "Con testigos.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "En el sistema oral, en qué casos se puede utilizar documentos",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Siempre que no reemplacen a peritos y testigos ", "es_correcta": false },
+        { "id": 2, "texto": "Cuando sustituye a un peritaje ", "es_correcta": false },
+        { "id": 3, "texto": "Cuando se agrega en las audiencias ", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "En materia procesal penal se puede juzgar?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo los días hábiles, porque sábados y domingos no se trabaja ", "es_correcta": true },
+        { "id": 2, "texto": "Solo los sábados y domingos ", "es_correcta": false },
+        { "id": 3, "texto": "En cualquier día y a cualquier hora ", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "¿Los órganos de jurisdicción penal son:?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La Fiscalía General del Estado", "es_correcta": true },
+        { "id": 2, "texto": "La defensoría pública", "es_correcta": false },
+        { "id": 3, "texto": "Los jueces establecidos por la ley para el efecto", "es_correcta": false }
+      ]
+    },
+    {
+  "id": 31,
+  "texto": "¿Cuál de las siguientes opciones describe mejor los elementos esenciales que componen una argumentación?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Argumentos: Razones que justifican una opinión; Conclusión: Resumen de los puntos principales; Contexto: Situación en la que se presenta la argumentación; Receptor: Persona a la que se dirige la argumentación.", "es_correcta": false },
+    { "id": 2, "texto": "Argumentos: Razones que justifican una opinión; Conclusión: Lo que se deriva de los argumentos; Topos o base argumentativa: Regla que relaciona los argumentos, un conocimiento compartido; Fuente: Origen de los argumentos y conclusiones.", "es_correcta": true },
+    { "id": 3, "texto": "Tesis: Idea central que se defiende; Desarrollo: Explicación detallada de la tesis; Conclusión: Refuerzo de la tesis; Contraargumentos: Objeciones a la tesis.", "es_correcta": false },
+    { "id": 4, "texto": "Premisas: Suposiciones iniciales; Deducción: Proceso lógico para llegar a una conclusión; Inducción: Generalización a partir de casos particulares; Falacias: Errores en el razonamiento.", "es_correcta": false }
+  ]
+},
+{
+  "id": 32,
+  "texto": "¿Cuál es el principal objetivo de la cadena de custodia aplicada a los elementos de prueba?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Agilizar el proceso judicial mediante la valoración de los elementos probatorios denominados indicios.", "es_correcta": false },
+    { "id": 2, "texto": "Garantizar la autenticidad de los elementos, acreditando su identidad y estado original, así como el registro de su manejo.", "es_correcta": true },
+    { "id": 3, "texto": "Determinar la responsabilidad o inocencia de los sospechosos a través de análisis rápidos conforme al Art. 76 numeral 4 de la Constitución de la República del Ecuador.", "es_correcta": false },
+    { "id": 4, "texto": "Limitar el acceso a las pruebas únicamente al personal del Sistema especializado integral de investigación para evitar contaminación de los indicios.", "es_correcta": false }
+  ]
+},
+{
+  "id": 33,
+  "texto": "¿Quiénes son responsables de la aplicación de la cadena de custodia?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Únicamente el personal del Sistema especializado integral de investigación y de medicina legal y ciencias forenses.", "es_correcta": false },
+    { "id": 2, "texto": "Exclusivamente los fiscales a cargo del caso y con la colaboración de servidores públicos, particulares que tengan relación con los elementos e incluso personal de servicios de salud.", "es_correcta": false },
+    { "id": 3, "texto": "El personal del Sistema especializado integral de investigación, de medicina legal y ciencias forenses, personal de tránsito, servidores públicos, particulares que tengan relación con los elementos e incluso personal de servicios de salud.", "es_correcta": true },
+    { "id": 4, "texto": "Solo los peritos forenses que realizan los análisis en los laboratorios.", "es_correcta": false }
+  ]
+},
+{
+  "id": 34,
+  "texto": "¿En qué caso una persona queda exenta de responsabilidad penal por la infracción tentada?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Cuando la infracción se comete bajo coacción o amenaza.", "es_correcta": false },
+    { "id": 2, "texto": "Cuando se demuestra que no hubo intención de cometer el delito desde el principio.", "es_correcta": false },
+    { "id": 3, "texto": "Cuando voluntariamente evita la consumación del delito o impide la producción del resultado.", "es_correcta": true },
+    { "id": 4, "texto": "Cuando los actos ejecutados no generan daño alguno.", "es_correcta": false }
+  ]
+},
+{
+  "id": 35,
+  "texto": "En delitos de tránsito la instrucción concluirá dentro del plazo máximo de cuarenta y cinco días y se podrá extender treinta días más cuando de las investigaciones asoma otra persona que el accidente de tránsito actuó en calidad de cómplice. ¿Procede la solicitud de vinculación?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Si procede, porque el art. Art. 593 del COIP, establece que \"si hasta antes del vencimiento del plazo de la instrucción fiscal, aparecen datos de los que se presume la autoría o la participación de una o varias personas en el hecho objeto de la instrucción, la o el fiscal solicitará su vinculación a la instrucción\"", "es_correcta": false },
+    { "id": 2, "texto": "Si procede, porque \"en la etapa de instrucción, los resultados de la investigación hacen variar justificadamente la calificación jurídica de la imputación hecha en la formulación de cargos\".", "es_correcta": false },
+    { "id": 3, "texto": "No procede, porque el plazo máximo de duración de la instrucción fiscal en delitos de tránsito es solo de 45 días.", "es_correcta": false },
+    { "id": 4, "texto": "Ninguna de las opciones de respuestas.", "es_correcta": true}
+  ]
+},
+{
+  "id": 36,
+  "texto": "En el marco del principio de motivación de las decisiones judiciales y según el COIP, ¿cuál de los siguientes escenarios supondría una sentencia nula por falta de cumplimiento de sus requisitos esenciales?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "La sentencia que omite citar las disposiciones legales aplicadas, pero detalla con claridad la conducta punible y las pruebas valoradas.", "es_correcta": false },
+    { "id": 2, "texto": "La sentencia que no contiene un análisis de responsabilidad penal ni referencia motivada de las pruebas de descargo o atenuación.", "es_correcta": true },
+    { "id": 3, "texto": "La sentencia que contiene firma de todos los jueces, relato circunstanciado del hecho punible, y expresa la pena impuesta, pero no desarrolla las razones por las cuales se desestima la prueba de descargo.", "es_correcta": false },
+    { "id": 4, "texto": "La sentencia que menciona la reparación integral pero no cuantifica los daños, dejando ese aspecto para ejecución.", "es_correcta": false }
+  ]
+},
+{
+  "id": 37,
+  "texto": "¿Cuál de las siguientes afirmaciones describe mejor el principio de \"Libertad probatoria\"?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "La libertad probatoria permite que solo se acepten pruebas que hayan sido producidas durante la audiencia de juicio, excluyendo cualquier prueba obtenida antes de este momento.", "es_correcta": false },
+    { "id": 2, "texto": "La libertad probatoria establece que todos los hechos y circunstancias pertinentes al caso pueden ser probados por cualquier medio, siempre que se respete la Constitución y las normas internacionales ratificadas por el Estado.", "es_correcta": true },
+    { "id": 3, "texto": "Según el principio de libertad probatoria, las partes deben tener la oportunidad de presentar cualquier tipo de prueba, sin restricciones sobre su relevancia o conexión con el caso.", "es_correcta": false },
+    { "id": 4, "texto": "El principio de libertad probatoria se limita a la presentación de pruebas testimoniales y no permite el uso de medios de prueba alternativos, como documentos o pericias.", "es_correcta": false }
+  ]
+},
+{
+  "id": 38,
+  "texto": "¿Cuál de las siguientes afirmaciones describe mejor la finalidad de la fase de investigación previa en este caso?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "La fase de investigación previa tiene como única finalidad reunir pruebas que demuestren la culpabilidad del proveedor, y la opinión de este no se considera relevante en el proceso.", "es_correcta": false },
+    { "id": 2, "texto": "En la fase de investigación previa, el fiscal debe reunir elementos de convicción que permitan decidir sobre la imputación, considerando tanto los elementos de pruebas que apoyan la imputación como aquellas que podrían desestimar el caso.", "es_correcta": true },
+    { "id": 3, "texto": "La finalidad de la fase de investigación previa es únicamente identificar y capturar al autor del delito, sin necesidad de evaluar las pruebas de descargo presentadas por el investigado.", "es_correcta": false },
+    { "id": 4, "texto": "La fase de investigación previa tiene como objetivo establecer un caso sólido en contra del proveedor, ignorando las circunstancias o móviles que puedan haber llevado a la supuesta comisión del delito.", "es_correcta": false }
+  ]
+},
+{
+  "id": 39,
+  "texto": "En el contexto de la etapa de evaluación y preparatoria a juicio, ¿cuál de las siguientes afirmaciones refleja correctamente los objetivos y procedimientos de esta etapa procesal?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "La etapa de evaluación y preparatoria a juicio se centra únicamente en determinar la culpabilidad o inocencia del imputado, sin considerar la validez de los elementos de convicción presentados por la acusación.", "es_correcta": false },
+    { "id": 2, "texto": "Esta etapa, se evalúa la procedibilidad y la competencia, se excluyen los elementos de convicción ilegales y se establece un marco claro para los temas a debatirse en el juicio oral, incluyendo la validación de las pruebas anunciadas por las partes.", "es_correcta": true },
+    { "id": 3, "texto": "La finalidad principal de esta etapa es exclusivamente la delimitación de los acuerdos probatorios, sin que se contemple la valoración de los elementos de convicción ni la resolución sobre cuestiones de prejudicialidad.", "es_correcta": false },
+    { "id": 4, "texto": "En esta fase, solo se consideran los elementos de convicción presentados por la defensa, ya que la acusación fiscal no tiene relevancia en la valoración de pruebas y la determinación de la procedibilidad.", "es_correcta": false }
+  ]
+},
+{
+  "id": 40,
+  "texto": "En el proceso penal, la acusación fiscal debe cumplir con ciertos requisitos establecidos para asegurar su validez y claridad. ¿Cuál de las siguientes afirmaciones describe correctamente los elementos que debe incluir una acusación fiscal?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "La acusación fiscal puede omitir la individualización de los acusados siempre que se incluya una descripción general de los hechos, y no es necesario especificar los medios de prueba que se presentarán en juicio.", "es_correcta": false },
+    { "id": 2, "texto": "Es fundamental que la acusación fiscal individualice a cada acusado y detalle su grado de participación en la infracción, así como proporcionar una relación comprensible de los hechos, los preceptos legales aplicables y los elementos de prueba que sustentan la acusación.", "es_correcta": true },
+    { "id": 3, "texto": "La acusación puede basarse en hechos no incluidos en la formulación de cargos, siempre que la fiscalía considere que son relevantes para la comprensión del caso y que la defensa no se oponga a su inclusión.", "es_correcta": false },
+    { "id": 4, "texto": "Si se presentan pruebas testimoniales o periciales, no es necesario individualizar a los testigos o peritos en la acusación, ya que su relevancia se determina en el juicio mismo.", "es_correcta": false }
+  ]
+},
+{
+  "id": 41,
+  "texto": "¿Cuál de las siguientes afirmaciones es correcta respecto a los medios de prueba y su regulación en COIP?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Todos los medios de prueba son considerados iguales en su valor probatorio, independientemente de la regulación específica que establezca la ley para cada uno.", "es_correcta": false },
+    { "id": 2, "texto": "La ley únicamente establece los medios de prueba admisibles, sin regular el procedimiento que debe seguir el juez para evaluarlos.", "es_correcta": false },
+    { "id": 3, "texto": "Cada medio de prueba tiene una regulación específica en la ley penal, la cual no solo determina su admisibilidad, sino también el procedimiento que debe seguir el juez para su evaluación y consideración en el proceso.", "es_correcta": true },
+    { "id": 4, "texto": "Los medios de prueba son irrelevantes en el proceso penal, ya que el juez puede basar su decisión únicamente en su criterio personal y experiencias previas.", "es_correcta": false }
+  ]
+},
+{
+  "id": 42,
+  "texto": "¿Cuál es la diferencia principal entre perjurio y falso testimonio?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "El perjurio se comete al faltar a la verdad bajo juramento, mientras que el falso testimonio se comete sin juramento.", "es_correcta": true },
+    { "id": 2, "texto": "El perjurio se sanciona únicamente en procesos judiciales, mientras que el falso testimonio aplica a cualquier tipo de declaración.", "es_correcta": false },
+    { "id": 3, "texto": "El falso testimonio es más grave que el perjurio porque implica engañar a una autoridad competente.", "es_correcta": false },
+    { "id": 4, "texto": "No existe diferencia entre perjurio y falso testimonio, ya que ambos son sancionados con la misma pena.", "es_correcta": false }
+  ]
+},
+{
+  "id": 43,
+  "texto": "Uno de los derechos de las personas privadas de libertad es:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "El sufragio, únicamente para quienes se encuentren privados de libertad por medidas cautelares personales, pero no para quienes tienen sentencia condenatoria ejecutoriada.", "es_correcta": true },
+    { "id": 2, "texto": "No tienen derecho al sufragio, independientemente si se encuentran privadas de su libertad por medidas cautelares o por sentencia ejecutoriada.", "es_correcta": false },
+    { "id": 3, "texto": "El sufragio, únicamente para las personas sobre quienes pesa una medida cautelar personal que no sea la prisión preventiva, por ejemplo, el arresto domiciliario.", "es_correcta": false },
+    { "id": 4, "texto": "El sufragio, para todos, sin distinción de encontrarse privados de libertad por una medida cautelar o por sentencia condenatoria. El sufragio es un derecho constitucional del cual no pueden ser privados estas personas.", "es_correcta": false }
+  ]
+},
+{
+  "id": 44,
+  "texto": "El computo de la pena se aplicará desde:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Al momento que es privado de libertad con medida cautelar. (prisión preventiva)", "es_correcta": true },
+    { "id": 2, "texto": "Desde que se le declara culpable mediante sentencia ejecutoriada.", "es_correcta": false },
+    { "id": 3, "texto": "Desde que Juez declara responsabilidad penal por el cometimiento del delito juzgado.", "es_correcta": false },
+    { "id": 4, "texto": "Existe sentencia condenatoria y es detenido para el cumplimiento de la pena.", "es_correcta": false }
+  ]
+},
+{
+  "id": 45,
+  "texto": "Dentro de las categorías dogmáticas del delito se encuentra la culpabilidad la cual implica que:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Todas las pruebas de fiscalía señalen que la persona procesada cometió el hecho punible.", "es_correcta": false },
+    { "id": 2, "texto": "Que la persona a quien se le atribuye el hecho punible sea imputable y haya actuado con conocimiento de la antijuridicidad de la conducta.", "es_correcta": true },
+    { "id": 3, "texto": "Que la persona a quien se le atribuye el hecho punible sea imputable y conozca los elementos objetivos del tipo penal.", "es_correcta": false },
+    { "id": 4, "texto": "Que los jueces no tengan duda razonable sobre los testimonios rendidos en audiencia, que han sido claros, unívocos y concordantes para establecer que el procesado fue quien realizó el acto, típico y antijurídico, por tanto, es culpable.", "es_correcta": false }
+  ]
+},
+{
+  "id": 46,
+  "texto": "Desde una perspectiva garantista, ¿cómo se articula el principio de inmediación con la actuación del juez durante la etapa de juicio, y qué implicaciones tiene su vulneración según el COIP?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "La inmediación permite que el juez delegue la valoración de pruebas, siempre que se documenten adecuadamente.", "es_correcta": false },
+    { "id": 2, "texto": "La vulneración de la inmediación puede subsanarse con una revisión documental exhaustiva en segunda instancia.", "es_correcta": false },
+    { "id": 3, "texto": "El principio de inmediación solo aplica a la sentencia, no a la actuación probatoria, porque en la presentación de la prueba únicamente se respeta el principio de contradicción y concentración.", "es_correcta": false },
+    { "id": 4, "texto": "La inmediación exige que el juez esté presente en la audiencia para la práctica de pruebas, y su inobservancia compromete la validez del proceso y el derecho de defensa.", "es_correcta": true }
+  ]
+},
+{
+  "id": 47,
+  "texto": "La Fiscalía investiga a un ciudadano por el delito de tráfico de migrantes, sancionado con una pena privativa de libertad de 7 a 10 años. Durante la instrucción fiscal, el procesado sufre un accidente grave que le deja con movilidad reducida, lo cual es invocado por el fiscal para solicitar la aplicación del principio de oportunidad, alegando que el estado de salud del imputado le impide llevar una vida normal. El juez convoca a audiencia y evalúa la solicitud. La víctima no comparece, pero fue notificada conforme a la ley. El defensor del procesado respalda la solicitud, y el fiscal insiste en la extinción de la acción penal por razones humanitarias. ¿Cuál es la actuación correcta del juez conforme al Art. 412 del COIP en este caso?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Aceptar la solicitud, ya que el estado de salud del procesado encuadra dentro de los supuestos del principio de oportunidad.", "es_correcta": false },
+    { "id": 2, "texto": "Declarar la extinción de la acción penal solo si la víctima renuncia expresamente a su derecho de reparación integral.", "es_correcta": false },
+    { "id": 3, "texto": "Devolver la solicitud al fiscal superior para que ratifique o revoque la decisión inicial.", "es_correcta": false },
+    { "id": 4, "texto": "Rechazar la solicitud, porque el principio de oportunidad no se puede aplicar en delitos como el tráfico de migrantes.", "es_correcta": true }
+  ]
+},
+{
+  "id": 48,
+  "texto": "¿Qué consecuencias legales podrían derivarse si el acusador particular no comparece personalmente a la audiencia de juicio en un proceso penal según el COIP?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "La acusación particular será declarada temeraria, y el proceso se archivará automáticamente.", "es_correcta": false },
+    { "id": 2, "texto": "La acusación particular será abandonada, pero el fiscal continuará con el impulso del proceso.", "es_correcta": true },
+    { "id": 3, "texto": "La o el juzgador no podrá dictar ninguna resolución, lo que suspenderá el proceso indefinidamente.", "es_correcta": false },
+    { "id": 4, "texto": "La persona procesada será absuelta por falta de acusación válida y el juicio terminará sin posibilidad de reanudación.", "es_correcta": false }
+  ]
+},
+{
+  "id": 49,
+  "texto": "¿Cuál de las siguientes afirmaciones describe correctamente el principio dispositivo en el contexto del derecho procesal penal ecuatoriano?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "El juez tiene la facultad de iniciar y dirigir el proceso sin necesidad de que las partes lo soliciten.", "es_correcta": false },
+    { "id": 2, "texto": "Las partes son responsables de aportar las pruebas y decidir el alcance y contenido del litigio, mientras el juez actúa como un árbitro imparcial.", "es_correcta": true },
+    { "id": 3, "texto": "El proceso es impulsado de oficio por el juez, quien también tiene la responsabilidad de recolectar y presentar las pruebas necesarias.", "es_correcta": false },
+    { "id": 4, "texto": "Las decisiones judiciales se basan exclusivamente en las pruebas aportadas por el juez durante el proceso.", "es_correcta": false }
+  ]
+},
+{
+  "id": 50,
+  "texto": "¿Cuál de las siguientes afirmaciones describe correctamente el ámbito de la jurisdicción penal en Ecuador según el Código Orgánico Integral Penal?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Solo los ciudadanos ecuatorianos pueden ser juzgados en Ecuador, sin importar dónde cometan la infracción.", "es_correcta": false },
+    { "id": 2, "texto": "La jurisdicción penal ecuatoriana se extiende a ecuatorianos y extranjeros que cometan delitos en el territorio nacional o en naves de bandera ecuatoriana, pero excluye los delitos cometidos en el extranjero.", "es_correcta": false },
+    { "id": 3, "texto": "Ecuador tiene jurisdicción penal sobre ecuatorianos y extranjeros que cometan delitos en su territorio, en naves o aeronaves de su bandera, y en ciertos casos de crímenes internacionales, salvo excepciones diplomáticas.", "es_correcta": true },
+    { "id": 4, "texto": "Los representantes diplomáticos acreditados en Ecuador pueden ser juzgados en el país sin restricciones cuando cometan delitos dentro del territorio ecuatoriano.", "es_correcta": false }
+  ]
+},
+{
+  "id": 51,
+  "texto": "¿Qué entiende por el Principio de Inmediación?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Consiste en el contacto directo que deben tener los procesados y defensores con el fiscal acusador a efectos de controvertir la prueba que se presenta.", "es_correcta": false },
+    { "id": 2, "texto": "Significa que las partes procesales tienen derecho a estar presentes en todos los actos procesales que desarrolla la fiscalía en la investigación penal.", "es_correcta": false },
+    { "id": 3, "texto": "Este principio permite al juzgador apreciar y valorar la prueba de manera directa y personal, así como escuchar de viva voz los argumentos de las partes procesales para que el juez llegue a la verdad procesal.", "es_correcta": true },
+    { "id": 4, "texto": "Quiere decir que el juzgador tiene derecho a intervenir en la producción de prueba en el proceso penal.", "es_correcta": false }
+  ]
+},
+{
+  "id": 52,
+  "texto": "¿Cuál de las siguientes afirmaciones mejor refleja el aspecto clave del principio de mínima intervención penal en el derecho penal?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "El derecho penal debe intervenir en todos los casos de conflicto para garantizar que se cumplan las leyes y se castigue a los infractores.", "es_correcta": false },
+    { "id": 2, "texto": "La intervención penal debe ser utilizada como el primer recurso para resolver cualquier tipo de conflicto o problema legal.", "es_correcta": false },
+    { "id": 3, "texto": "El derecho penal debe intervenir únicamente cuando otros mecanismos extrapenales han fallado y la intervención es estrictamente necesaria para proteger a las personas.", "es_correcta": true },
+    { "id": 4, "texto": "La intervención penal debe ser proporcional al daño causado, sin necesidad de evaluar otros mecanismos previos de resolución.", "es_correcta": false }
+  ]
+},
+{
+  "id": 53,
+  "texto": "Con base a uno de los principios reconocido tanto en la jurisprudencia de la Corte Interamericana de Derechos Humanos como en la Constitución ecuatoriana, analice si resulta jurídicamente válido que un juez de garantías penales ordene prisión preventiva únicamente por la gravedad del delito imputado, sin valorar otros elementos del caso concreto. ¿Cuál de las siguientes posturas interpreta de forma más adecuada la aplicación de un principio?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Es jurídicamente válido que el juez ordene prisión preventiva solo por la gravedad del delito, ya que esto permite asegurar el cumplimiento de la eventual sentencia y evitar la impunidad en delitos graves.", "es_correcta": false },
+    { "id": 2, "texto": "La prisión preventiva debe aplicarse automáticamente en delitos sancionados con pena privativa de libertad mayor a un año, por lo que el análisis de los principios de necesidad o proporcionalidad es irrelevante en estos casos.", "es_correcta": false },
+    { "id": 3, "texto": "No es jurídicamente válida la imposición de prisión preventiva solo por la gravedad del delito, pues ello contradice el principio de excepcionalidad y convierte la medida en una sanción anticipada, vulnerando el derecho a la presunción de inocencia y la libertad personal.", "es_correcta": true },
+    { "id": 4, "texto": "El juez puede imponer prisión preventiva por la gravedad del delito si existen precedentes nacionales que avalen dicha práctica, aunque no se analicen expresamente los requisitos de necesidad ni proporcionalidad.", "es_correcta": false }
+  ]
+},
+{
+  "id": 54,
+  "texto": "Un funcionario Público en un proceso de Contratación Pública, en beneficio propio, se apropia de dineros públicos (Peculado). Respecto de este ilícito penal, para poder iniciar la Investigación previa, bajo este contexto, nace la siguiente pregunta: ¿Fiscalía necesariamente debe esperar la Noticia del Delito (informe con indicios de responsabilidad penal emitido por la Contraloría General del Estado, por presuntos hechos constitutivos de los delitos contra la administración pública)?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Sí, porque debe conocer el cómo se dio la relación circunstanciada de la infracción constante en el informe con indicios de responsabilidad penal emitido por la Contraloría General del Estado, por presuntos hechos constitutivos de los delitos contra la administración pública.", "es_correcta": false },
+    { "id": 2, "texto": "Sí, porque es una forma de conocer la infracción penal conforme el Art. 581.2 del COIP: \"Los informes de supervisión con indicios de responsabilidad penal que efectúan los órganos de control, ya sean estos previos, concurrentes y/o posteriores deberán ser remitidos directa e inmediatamente a la Fiscalía General del Estado\".", "es_correcta": false },
+    { "id": 3, "texto": "En ningún caso estos informes constituyen un requisito de admisibilidad o procedibilidad para el ejercicio de la acción penal por parte de la Fiscalía.", "es_correcta": true },
+    { "id": 4, "texto": "Ninguna opción de respuesta.", "es_correcta": false }
+  ]
+},
+{
+  "id": 55,
+  "texto": "Las grabaciones de audio, los videos y las fotografías son evidencias válidas únicamente cuando tienen autorización judicial previa. De las opciones dadas, SOLO UNA de ellas es lícita y legal y no requiere de autorización del juez penal. Escoja una opción.",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Es evidencia legítima cuando son grabadas por cámaras policiales ubicadas en los domicilios privados.", "es_correcta": false },
+    { "id": 2, "texto": "Es evidencia válida cuando son grabadas espontáneamente por cámaras de seguridad y medios de comunicación social.", "es_correcta": true },
+    { "id": 3, "texto": "Cuando las grabaciones son realizadas por un tercero que no participa en las escenas grabadas.", "es_correcta": false },
+    { "id": 4, "texto": "Cuando son realizadas por orden de la fiscalía, con base a su atribución establecida en el art. 5.21 COIP.", "es_correcta": false }
+  ]
+}
+  ]
+}

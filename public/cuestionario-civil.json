@@ -1,0 +1,341 @@
+{
+  "materia": {
+    "nombre": "Derecho Civil",
+    "id": "civil"
+  },
+  "cuestionario": {
+    "titulo": "Reactivos Materia Derecho Civil"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "¿Cuál es el efecto jurídico principal de la declaración de ausencia judicial?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Extinción de la personalidad jurídica", "es_correcta": false },
+        { "id": 2, "texto": "Reversión de bienes al Estado", "es_correcta": false },
+        { "id": 3, "texto": "Nombramiento de un curador", "es_correcta": true },
+        { "id": 4, "texto": "Anulación de actos jurídicos del ausente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "Respecto al domicilio, ¿cuál de los siguientes enunciados es correcto?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La persona no puede tener más de un domicilio", "es_correcta": false },
+        { "id": 2, "texto": "El domicilio contractual prevalece sobre el legal", "es_correcta": false },
+        { "id": 3, "texto": "El domicilio legal se impone al contractual en caso de conflicto", "es_correcta": true },
+        { "id": 4, "texto": "El domicilio conyugal se presume con carácter de irrevocable", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "La capacidad de ejercicio puede restringirse por:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Minoría de edad, declaración judicial o decisión administrativa", "es_correcta": false },
+        { "id": 2, "texto": "Solo por decisión judicial o ley", "es_correcta": false },
+        { "id": 3, "texto": "Exclusivamente por ley", "es_correcta": false },
+        { "id": 4, "texto": "Enfermedad, minoría de edad o decisión judicial", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "¿Cuál de los siguientes casos extingue la personalidad jurídica de una persona natural?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Declaración de incapacidad", "es_correcta": false },
+        { "id": 2, "texto": "Declaración judicial de muerte presunta", "es_correcta": false },
+        { "id": 3, "texto": "Muerte natural o judicialmente declarada", "es_correcta": true },
+        { "id": 4, "texto": "Inhabilitación civil", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "En cuanto a las personas jurídicas de derecho privado, el acto constitutivo debe contener:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo los fines sociales", "es_correcta": false },
+        { "id": 2, "texto": "El domicilio, capital y estatuto", "es_correcta": true },
+        { "id": 3, "texto": "La voluntad de los socios solamente", "es_correcta": false },
+        { "id": 4, "texto": "El nombre y tipo de persona jurídica únicamente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "Respecto a la accesión de inmueble a inmueble, ¿cuál es un ejemplo típico?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Aluvión", "es_correcta": true },
+        { "id": 2, "texto": "Tesoro", "es_correcta": false },
+        { "id": 3, "texto": "Ocupación", "es_correcta": false },
+        { "id": 4, "texto": "Usucapión", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "En caso de que una persona construya en terreno ajeno de buena fe, el propietario:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Puede destruir la construcción sin responsabilidad", "es_correcta": false },
+        { "id": 2, "texto": "Está obligado a pagar el valor de lo edificado", "es_correcta": true },
+        { "id": 3, "texto": "Está obligado a restituir el terreno", "es_correcta": false },
+        { "id": 4, "texto": "Puede expropiar sin pagar indemnización", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "El derecho de uso se diferencia del usufructo en que:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Permite arrendar el bien", "es_correcta": false },
+        { "id": 2, "texto": "No confiere posesión", "es_correcta": false },
+        { "id": 3, "texto": "Solo se refiere a cosas muebles", "es_correcta": false },
+        { "id": 4, "texto": "Se limita a lo necesario para el usuario y su familia", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "¿Cuál de las siguientes es una característica del derecho de superficie?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se transmite por herencia exclusivamente", "es_correcta": false },
+        { "id": 2, "texto": "No puede ser objeto de hipoteca", "es_correcta": false },
+        { "id": 3, "texto": "Confiere facultad de edificar en suelo ajeno", "es_correcta": true },
+        { "id": 4, "texto": "Es un derecho real sobre bienes muebles", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "La posesión viciosa se caracteriza por:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ser de buena fe", "es_correcta": false },
+        { "id": 2, "texto": "Ser clandestina o violenta", "es_correcta": true },
+        { "id": 3, "texto": "Ser siempre legítima", "es_correcta": false },
+        { "id": 4, "texto": "Provenir de contrato", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "¿Cuál es un requisito esencial para la usucapión ordinaria?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Buena fe y justo título", "es_correcta": true },
+        { "id": 2, "texto": "Inscripción registral", "es_correcta": false },
+        { "id": 3, "texto": "Declaración judicial", "es_correcta": false },
+        { "id": 4, "texto": "Prueba de origen dominical", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "En cuanto a la sucesión intestada, ¿qué orden de herederos establece el Código Civil?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Descendientes, cónyuge, ascendientes, colaterales", "es_correcta": true },
+        { "id": 2, "texto": "Cónyuge, descendientes, ascendientes, hermanos", "es_correcta": false },
+        { "id": 3, "texto": "Ascendientes, descendientes, colaterales, Estado", "es_correcta": false },
+        { "id": 4, "texto": "Descendientes, ascendientes, cónyuge, hermanos", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "El legado de cosa ajena es válido si:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El testador ignoraba que no era suya", "es_correcta": false },
+        { "id": 2, "texto": "El legatario es coheredero", "es_correcta": false },
+        { "id": 3, "texto": "El testador la adquiere posteriormente", "es_correcta": true },
+        { "id": 4, "texto": "Es aprobado por el notario", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "¿Cuál es el plazo mínimo para la usucapión extraordinaria de un inmueble?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "5 años", "es_correcta": false },
+        { "id": 2, "texto": "10 años", "es_correcta": false },
+        { "id": 3, "texto": "15 años", "es_correcta": true },
+        { "id": 4, "texto": "30 años", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "En la prescripción adquisitiva, la posesión debe ser:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "De mala fe", "es_correcta": false },
+        { "id": 2, "texto": "Continua, pacífica y pública", "es_correcta": true },
+        { "id": 3, "texto": "Exclusiva y judicial", "es_correcta": false },
+        { "id": 4, "texto": "Consentida por el titular registral", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "En las obligaciones alternativas, si una de las prestaciones se torna imposible sin culpa del deudor:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se extingue la obligación", "es_correcta": false },
+        { "id": 2, "texto": "El acreedor elige la restante", "es_correcta": true },
+        { "id": 3, "texto": "El deudor queda liberado", "es_correcta": false },
+        { "id": 4, "texto": "Debe pagar el equivalente en dinero", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "En las obligaciones solidarias activas, ¿quién puede exigir el cumplimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cualquiera de los acreedores", "es_correcta": true },
+        { "id": 2, "texto": "Todos conjuntamente", "es_correcta": false },
+        { "id": 3, "texto": "Solo el acreedor principal", "es_correcta": false },
+        { "id": 4, "texto": "Solo el acreedor designado por el juez", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "El pago con subrogación tiene como efecto principal:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Extinguir la obligación", "es_correcta": false },
+        { "id": 2, "texto": "Transmitir el crédito al tercero que paga", "es_correcta": true },
+        { "id": 3, "texto": "Crear una nueva obligación", "es_correcta": false },
+        { "id": 4, "texto": "Suspender el plazo de la deuda", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "La culpa in contrahendo se refiere a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Incumplimiento contractual", "es_correcta": false },
+        { "id": 2, "texto": "Responsabilidad en la formación del contrato", "es_correcta": true },
+        { "id": 3, "texto": "Culpa del acreedor", "es_correcta": false },
+        { "id": 4, "texto": "Fraude en el contrato", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "La novación extintiva implica:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La modificación parcial de la obligación", "es_correcta": false },
+        { "id": 2, "texto": "Sustituir al deudor sin extinguir la deuda", "es_correcta": false },
+        { "id": 3, "texto": "La extinción de la obligación anterior y creación de una nueva", "es_correcta": true },
+        { "id": 4, "texto": "La incorporación de una cláusula penal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "El reconocimiento de hijo puede ser revocado:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En ningún caso", "es_correcta": false },
+        { "id": 2, "texto": "Por testamento posterior", "es_correcta": false },
+        { "id": 3, "texto": "Si se prueba falsedad", "es_correcta": true },
+        { "id": 4, "texto": "Por declaración judicial del padre", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "El régimen de separación de patrimonios:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se aplica solo en caso de divorcio", "es_correcta": false },
+        { "id": 2, "texto": "Excluye la formación de masa ganancial", "es_correcta": true },
+        { "id": 3, "texto": "Exige declaración judicial previa", "es_correcta": false },
+        { "id": 4, "texto": "No permite bienes propios", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "¿Qué efecto tiene la nulidad del matrimonio?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Extingue la patria potestad", "es_correcta": false },
+        { "id": 2, "texto": "Disuelve la sociedad de gananciales", "es_correcta": true },
+        { "id": 3, "texto": "Impide la sucesión intestada", "es_correcta": false },
+        { "id": 4, "texto": "Invalida automáticamente todos los actos civiles anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 24,
+      "texto": "El deber de cohabitación entre cónyuges:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Es renunciable", "es_correcta": false },
+        { "id": 2, "texto": "Se impone aún separados legalmente", "es_correcta": false },
+        { "id": 3, "texto": "Cesa con la separación de hecho", "es_correcta": true },
+        { "id": 4, "texto": "Persiste durante la nulidad matrimonial", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "Respecto a la adopción, es correcto afirmar que:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo puede realizarla un matrimonio", "es_correcta": false },
+        { "id": 2, "texto": "El adoptado pierde todo vínculo con la familia biológica", "es_correcta": true },
+        { "id": 3, "texto": "Requiere siempre el consentimiento del adoptado", "es_correcta": false },
+        { "id": 4, "texto": "No confiere apellido al adoptado", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "El régimen patrimonial del matrimonio puede modificarse:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En cualquier momento, incluso sin escritura pública", "es_correcta": false },
+        { "id": 2, "texto": "Mediante escritura pública e inscripción registral", "es_correcta": true },
+        { "id": 3, "texto": "Solo judicialmente", "es_correcta": false },
+        { "id": 4, "texto": "Con la simple voluntad de los cónyuges", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "La responsabilidad civil extracontractual exige:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Culpa leve del autor", "es_correcta": false },
+        { "id": 2, "texto": "Relación de causalidad, daño y conducta antijurídica", "es_correcta": true },
+        { "id": 3, "texto": "Prueba de enriquecimiento ilícito", "es_correcta": false },
+        { "id": 4, "texto": "Daño material exclusivamente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "La nulidad de pleno derecho de un acto jurídico se produce cuando:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El acto fue simulado", "es_correcta": false },
+        { "id": 2, "texto": "Falta uno de sus elementos esenciales", "es_correcta": true },
+        { "id": 3, "texto": "Existe cláusula penal", "es_correcta": false },
+        { "id": 4, "texto": "Se produjo bajo error común", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "El usufructuario debe constituir garantía:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Siempre que se trate de bienes muebles", "es_correcta": false },
+        { "id": 2, "texto": "Solo si el nudo propietario lo solicita", "es_correcta": false },
+        { "id": 3, "texto": "En todos los casos, salvo dispensa del constituyente", "es_correcta": true },
+        { "id": 4, "texto": "Nunca, por tratarse de derecho real", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "En la colación hereditaria, se presume que los bienes donados:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Son siempre parte de la legítima", "es_correcta": false },
+        { "id": 2, "texto": "No se incluyen en la herencia", "es_correcta": false },
+        { "id": 3, "texto": "Se imputan a la parte disponible", "es_correcta": false },
+        { "id": 4, "texto": "Se imputan a la legítima, salvo disposición en contrario", "es_correcta": true }
+      ]
+    }
+  ]
+}

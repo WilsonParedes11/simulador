@@ -1,0 +1,561 @@
+{
+  "materia": {
+    "nombre": "Derecho Laboral y Seguridad Social",
+    "id": "laboral"
+  },
+  "cuestionario": {
+    "titulo": "Reactivos Materia Derecho Laboral y Seguridad Social"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "¿Para la prevención de riesgos laborales, qué institución está facultada para otorgar el certificado médico?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El Instituto Ecuatoriano de Seguridad Social", "es_correcta": true },
+        { "id": 2, "texto": "Un médico general", "es_correcta": false },
+        { "id": 3, "texto": "El Ministerio de Trabajo", "es_correcta": false },
+        { "id": 4, "texto": "Por el departamento de seguridad e higiene del trabajo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "Los derechos del trabajador son:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Individuales e imprescriptibles", "es_correcta": false },
+        { "id": 2, "texto": "Tácitas y expresas", "es_correcta": false },
+        { "id": 3, "texto": "Irrenunciables", "es_correcta": true },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "¿Ante qué autoridad se debe presentar un proyecto de contrato colectivo de trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ante el empleador", "es_correcta": false },
+        { "id": 2, "texto": "Ante el Inspector de Trabajo respectivo", "es_correcta": true },
+        { "id": 3, "texto": "Ante el dirigente sindical", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "¿Qué es un contrato colectivo de trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Convenio celebrado entre uno o más empleadores o asociaciones empleadoras y una o más asociaciones de trabajadores legalmente constituidas", "es_correcta": true },
+        { "id": 2, "texto": "Pacto de voluntades celebrado individualmente que crean efectos jurídicos individuales", "es_correcta": false },
+        { "id": 3, "texto": "Acuerdo de dos o más representantes legales que crean efectos jurídicos ilegales", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "¿Cuál de las siguientes es una prohibición al empleador estipulada en el Código de Trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Tratar a los trabajadores con la debida consideración, no infiriéndoles maltratos de palabra o de obra", "es_correcta": false },
+        { "id": 2, "texto": "Retener más del diez por ciento (10%) de la remuneración por concepto de multas", "es_correcta": true },
+        { "id": 3, "texto": "Atender a las reclamaciones de los trabajadores", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "¿A qué tipo de jornada de trabajo corresponde el siguiente concepto: Jornada de trabajo que se realiza entre las 19:00 y las 06:00 del día siguiente, podrá tener la misma duración y dará derecho a igual remuneración de la diurna, aumentada en un veinticinco por ciento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Jornada especial", "es_correcta": false },
+        { "id": 2, "texto": "Jornada prolongada de trabajo", "es_correcta": false },
+        { "id": 3, "texto": "Jornada nocturna", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "¿Cuál de las siguientes es causal para la terminación de un contrato de trabajo de los empleados privados?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cuando llegue tarde al lugar de trabajo", "es_correcta": false },
+        { "id": 2, "texto": "Cuando el empleado revela secretos o haga divulgaciones que ocasionen perjuicio al empleador", "es_correcta": true },
+        { "id": 3, "texto": "Cuando no ha hecho el respectivo pago del seguro social", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "El desahucio es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El aviso de manera oral con el que una persona trabajadora le hace saber a la parte empleadora que su voluntad es la de dar por terminada el contrato de trabajo", "es_correcta": false },
+        { "id": 2, "texto": "El aviso por un sumario administrativo con el que varias personas trabajadoras le hace saber a la parte empleadora que su voluntad es la de dar por terminada el contrato", "es_correcta": false },
+        { "id": 3, "texto": "El aviso por escrito con el que una persona trabajadora le hace saber a la parte empleadora que su voluntad es la de dar por terminada el contrato de trabajo", "es_correcta": true },
+        { "id": 4, "texto": "El acto por el cual el trabajador pide al empleador que le suspenda de las relaciones laborales", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "El trabajador que sin causa justificada y sin dejar reemplazo aceptado por el empleador, abandonare intempestivamente el trabajo, esto es sin previo desahucio, pagará al empleador una suma equivalente a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Quince días de remuneración", "es_correcta": true },
+        { "id": 2, "texto": "Cinco días de remuneración", "es_correcta": false },
+        { "id": 3, "texto": "Veinte días de remuneración", "es_correcta": false },
+        { "id": 4, "texto": "Trece días de remuneración", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "El servicio doméstico es el que se presta, mediante remuneración:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "A una persona que busca fines de lucro", "es_correcta": false },
+        { "id": 2, "texto": "A una persona que tenga su propia empresa", "es_correcta": false },
+        { "id": 3, "texto": "A una persona que no persigue fin de lucro", "es_correcta": true },
+        { "id": 4, "texto": "A una fundación sin fines de lucro", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "La edad mínima para el trabajo doméstico es de:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "16 años", "es_correcta": false },
+        { "id": 2, "texto": "15 años", "es_correcta": true },
+        { "id": 3, "texto": "17 años", "es_correcta": false },
+        { "id": 4, "texto": "18 años", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "¿Cuáles son los días de descanso obligatorio para el trabajador?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los sábados, domingos, 1 de enero, Viernes Santo, 1 y 24 de mayo, 10 de agosto, 9 de octubre, 2 y 3 de noviembre, 25 de diciembre", "es_correcta": false },
+        { "id": 2, "texto": "1 de enero, Viernes Santo, 24 de mayo, 10 de agosto, 9 de octubre, 2 y 3 de noviembre, 25 de diciembre y los días lunes y martes de carnaval", "es_correcta": false },
+        { "id": 3, "texto": "Los sábados, domingos, 1 de enero, Viernes Santo, 1 y 24 de mayo, 10 de agosto, 9 de octubre, 2 y 3 de noviembre, 25 de diciembre y los días lunes y martes de carnaval", "es_correcta": true },
+        { "id": 4, "texto": "10 de enero, Viernes Santo, 1 y 24 de mayo, 23 de agosto, 9 de octubre, 2 y 3 de noviembre, 25 de diciembre y los días lunes y martes de carnaval", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "¿Cuál es la jornada de trabajo que cumple un trabajador adolescente?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "6 horas diarias y 30 horas semanales", "es_correcta": true },
+        { "id": 2, "texto": "4 horas diarias y 16 horas semanales", "es_correcta": false },
+        { "id": 3, "texto": "6 horas diarias y 20 horas semanales", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "¿Si el empleador por cualquier razón o medio obstaculice el derecho a la educación de un adolescente, será sancionado por?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Directores regionales de trabajo o por los inspectores de trabajo", "es_correcta": true },
+        { "id": 2, "texto": "Jueces", "es_correcta": false },
+        { "id": 3, "texto": "Ministerio de Comercio Exterior", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "Además de las causas puntualizadas en el artículo 172 del Código del Trabajo, son faltas graves que autorizan el despido de los conductores, maquinistas, fogoneros, guardavías, guardabarreras, guardagujas y, en general, del personal que tenga a su cargo funciones análogas a las de éstos, las siguientes:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Desempeñar el servicio bajo la influencia de bebidas alcohólicas o de alucinógenos o de sustancias estupefacientes o psicotrópicas", "es_correcta": false },
+        { "id": 2, "texto": "Faltar a su trabajo sin previo aviso y sin causa justificada, por más de veinticuatro horas", "es_correcta": false },
+        { "id": 3, "texto": "El retraso sin causa justa al servicio, cuando se repita por más de tres veces en el mes. La inobservancia de los reglamentos de tránsito y de los especiales de la empresa, legalmente aprobados, en lo que se refiere a evitar accidentes", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "¿En los casos de huelga de los trabajadores de transporte, qué fijará el Tribunal de Conciliación y Arbitraje?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Fijará el número de los que deben continuar sus labores, cuando la importancia y urgencia del servicio hagan necesaria esta medida", "es_correcta": true },
+        { "id": 2, "texto": "Fijará el número de los que no deben continuar sus labores, cuando la importancia y urgencia del servicio hagan necesaria", "es_correcta": false },
+        { "id": 3, "texto": "Fijará el número de los que deben continuar sus labores cuando no sea de suma importancia y necesaria esta medida", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "¿En qué documento se hará constar la clase o clases de trabajo que debe cumplir el trabajador?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En el rol de pagos", "es_correcta": false },
+        { "id": 2, "texto": "En el certificado de fondo de reserva", "es_correcta": false },
+        { "id": 3, "texto": "En el contrato", "es_correcta": true },
+        { "id": 4, "texto": "En el acta de finiquito", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "¿El trabajador podrá no hacer uso de las vacaciones hasta por",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Tres años consecutivos, a fin de acumularlas en el cuarto año", "es_correcta": true },
+        { "id": 2, "texto": "Cinco meses consecutivos, a fin de acumularlas en el cuarto año", "es_correcta": false },
+        { "id": 3, "texto": "Dos días consecutivos, a fin de acumularlas en el cuarto año", "es_correcta": false },
+        { "id": 4, "texto": "Veinte semanas consecutivas, a fin de acumularlas en el cuarto año", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "¿Por cuánto tiempo se suspende el contrato de trabajo una vez declarada la huelga?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La huelga suspende el contrato de trabajo por todo un mes, sin terminar ni extinguir los derechos y obligaciones provenientes del mismo", "es_correcta": false },
+        { "id": 2, "texto": "La huelga solo suspende el contrato de trabajo por todo el tiempo que ella dure, sin terminar ni extinguir los derechos y obligaciones provenientes del mismo", "es_correcta": true },
+        { "id": 3, "texto": "La huelga puede suspender el contrato de trabajo por todo el tiempo que ella dure, sin terminar, ni extinguir los derechos y obligaciones provenientes del mismo", "es_correcta": false },
+        { "id": 4, "texto": "La huelga suspende el contrato de trabajo por todo el tiempo que ella dure, sin terminar ni extinguir los derechos y deberes provenientes del mismo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "¿Cuándo se considera ilícita la huelga?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La huelga se considera ilícita, solo cuando los huelguistas ejecutaren actos violentos contra las personas o causaren perjuicios de consideración a las propiedades", "es_correcta": true },
+        { "id": 2, "texto": "La huelga se considera ilícita, solo cuando los huelguistas ejecutaren actos contra las personas o causaren perjuicios de consideración a las propiedades", "es_correcta": false },
+        { "id": 3, "texto": "La huelga se considera ilícita, solo cuando los huelguistas ejecutaren actos violentos contra los empleadores o causaren perjuicios de consideración a las propiedades", "es_correcta": false },
+        { "id": 4, "texto": "La huelga se considera ilícita, solo cuando los huelguistas ejecutaren actos violentos contra las personas y empleadores o causaren perjuicios de consideración a las propiedades", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "¿Cuál es el porcentaje que el empleador podrá otorgar como pensión vitalicia al trabajador que ha sufrido alguna enfermedad o accidente laboral?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Será equivalente al 40% de la última remuneración percibida por el trabajador", "es_correcta": true },
+        { "id": 2, "texto": "Será equivalente al 20% de la última remuneración percibida por el trabajador", "es_correcta": false },
+        { "id": 3, "texto": "Será equivalente al 15% de la última remuneración percibida por el trabajador", "es_correcta": false },
+        { "id": 4, "texto": "Será equivalente al 50% de la última remuneración percibida por el trabajador", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "¿Quién podrá reducir prudencialmente el monto de la indemnización por accidentes de trabajo o enfermedades profesionales cuando se ha llegado a comprobar que las condiciones económicas del empleador no le permiten cubrir la indemnización legal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El Inspector de Trabajo", "es_correcta": false },
+        { "id": 2, "texto": "El empleador", "es_correcta": false },
+        { "id": 3, "texto": "El juez", "es_correcta": true },
+        { "id": 4, "texto": "Por mutuo acuerdo entre las partes", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "¿Por cuál de las siguientes causas se da la terminación de la huelga según el art. 502 del Código de Trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por acuerdo unilateral del empleador", "es_correcta": false },
+        { "id": 2, "texto": "Por resolución emitida por un Juez de lo Civil", "es_correcta": false },
+        { "id": 3, "texto": "Por acuerdo entre las partes, mediante el Tribunal de Conciliación y Arbitraje", "es_correcta": true },
+        { "id": 4, "texto": "Por decisión tomada por el dirigente sindical", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 24,
+      "texto": "¿Determine quienes son responsables por los actos de violencia en una huelga de acuerdo a el art. 510 del Código de trabajo",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los actos violentos contra las personas o propiedades, harán civil y penalmente responsables a sus autores, cómplices o encubridores", "es_correcta": true },
+        { "id": 2, "texto": "Los actos violentos contra las personas o propiedades harán civil y penalmente responsables a los trabajadores y empleadores", "es_correcta": false },
+        { "id": 3, "texto": "Los actos violentos contra las personas o propiedades, harán civil y penalmente responsables a los transeúntes y moradores del sector", "es_correcta": false },
+        { "id": 4, "texto": "Los actos violentos contra las personas o propiedades, harán civil y penalmente responsables a los huelguistas", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "¿A quién corresponde realizar la declaratoria de huelga?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La huelga no podrá declararse sino por el comité de la empresa, donde lo hubiere, o por la mitad más uno de los trabajadores de la empresa o fábrica", "es_correcta": true },
+        { "id": 2, "texto": "La huelga está prohibida declararse por el comité de la empresa", "es_correcta": false },
+        { "id": 3, "texto": "La huelga se establece por la mitad de los trabajadores", "es_correcta": false },
+        { "id": 4, "texto": "La huelga puede declararse por el comité de trabajadores de la empresa", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "Dentro de las atribuciones de las direcciones regionales del trabajo se destaca la siguiente:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No tiene competencia con los trabajadores de una jurisdicción, no puede absolver reclamos", "es_correcta": false },
+        { "id": 2, "texto": "Absolver las consultas de las autoridades y funcionarios del trabajo y de las empresas y trabajadores de su jurisdicción en todo lo que se relacione a las leyes y reglamentos del trabajo", "es_correcta": true },
+        { "id": 3, "texto": "No controlar ni supervisar las oficinas de su dependencia ni visitar las inspectorías de trabajo", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "¿La jurisdicción del Inspector de Trabajo es?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cantonal", "es_correcta": false },
+        { "id": 2, "texto": "Parroquial", "es_correcta": false },
+        { "id": 3, "texto": "Provincial", "es_correcta": true },
+        { "id": 4, "texto": "Regional", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "En qué casos se puede suspender temporalmente los contratos colectivos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Falta de materiales", "es_correcta": false },
+        { "id": 2, "texto": "Falta de energía para la actividad", "es_correcta": false },
+        { "id": 3, "texto": "Falta de materiales o de falta de energía para la actividad de la explotación", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "¿Cómo deben estar integradas las directivas de las asociaciones de trabajadores?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Personas mayores de 40", "es_correcta": false },
+        { "id": 2, "texto": "Personas mayores de 18 años", "es_correcta": false },
+        { "id": 3, "texto": "Únicamente por trabajadores propios de la empresa a la que pertenecen", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "Toda mujer embarazada tiene derecho a una licencia con remuneración por el nacimiento de un hijo con permiso de:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "4 semanas", "es_correcta": false },
+        { "id": 2, "texto": "8 semanas", "es_correcta": false },
+        { "id": 3, "texto": "12 semanas", "es_correcta": true },
+        { "id": 4, "texto": "10 semanas", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 31,
+      "texto": "A qué se refiere la protección laboral en caso de embarazo:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No se podrá dar por terminado el contrato de trabajo por causa de embarazo", "es_correcta": true },
+        { "id": 2, "texto": "Se podrá dar por terminado el contrato de trabajo por causa de embarazo", "es_correcta": false },
+        { "id": 3, "texto": "Se podrá dar por terminado el contrato de trabajo definitivo por causa de embarazo", "es_correcta": false },
+        { "id": 4, "texto": "No se podrá dar por terminado el contrato de trabajo por causa de enfermedad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 32,
+      "texto": "En atención a la disposición del artículo 192, cuando un trabajador es cambiado de ocupación, sin su consentimiento por parte del empleador, esta orden se entenderá cómo:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Desahucio", "es_correcta": false },
+        { "id": 2, "texto": "Despido ineficaz", "es_correcta": false },
+        { "id": 3, "texto": "Despido intempestivo", "es_correcta": true },
+        { "id": 4, "texto": "Visto bueno", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 33,
+      "texto": "En caso de despido de un dirigente sindical, se podrá deducir un reclamo por:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Despido intempestivo", "es_correcta": false },
+        { "id": 2, "texto": "Despido ineficaz", "es_correcta": true },
+        { "id": 3, "texto": "Visto bueno", "es_correcta": false },
+        { "id": 4, "texto": "Cualquiera de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 34,
+      "texto": "Mientras dure el paro de los empleadores, se quedará en suspenso:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El derecho a la remuneración", "es_correcta": false },
+        { "id": 2, "texto": "Los contratos de trabajo", "es_correcta": false },
+        { "id": 3, "texto": "Los contratos de trabajo y no tendrán derecho a remuneración", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 35,
+      "texto": "¿Bajo qué dependencia se encuentran las Direcciones Regionales del Trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El Ministerio de Educación", "es_correcta": false },
+        { "id": 2, "texto": "El Ministerio de Trabajo y Empleo", "es_correcta": true },
+        { "id": 3, "texto": "El Ministerio de Comercio Exterior", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 36,
+      "texto": "¿Cuáles son los días en que se prohíbe trabajar a los adolescentes?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Todos los días", "es_correcta": false },
+        { "id": 2, "texto": "Los sábados y domingos", "es_correcta": false },
+        { "id": 3, "texto": "Los sábados, domingos y en los de descanso obligatorio", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 37,
+      "texto": "De acuerdo al Código de Trabajo del Ecuador, ¿quién tendrá derecho a percibir los fondos de reserva si fallece el trabajador?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El empleador", "es_correcta": false },
+        { "id": 2, "texto": "Los compañeros de trabajo", "es_correcta": false },
+        { "id": 3, "texto": "Su jefe inmediato", "es_correcta": false },
+        { "id": 4, "texto": "Sus deudos", "es_correcta": true }
+      ]
+    },
+    {
+  "id": 38,
+  "texto": "¿Qué se entiende por un jornalero?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Aquel que ejecuta labores agrícolas para otro", "es_correcta": false },
+    { "id": 2, "texto": "El que se dedica por cuenta propia al cultivo de la tierra", "es_correcta": false },
+    { "id": 3, "texto": "Aquel que trabaja por unidades de obra", "es_correcta": false },
+    { "id": 4, "texto": "El que presta servicios agrícolas mediante jornal diario", "es_correcta": true }
+  ]
+},
+{
+  "id": 39,
+  "texto": "¿En qué casos se da la reducción del salario por alimentación para el jornalero?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "En caso de que según el jornalero tenga derecho a la alimentación según el contrato", "es_correcta": true },
+    { "id": 2, "texto": "En caso de que el jornalero no posea derechohabientes", "es_correcta": false },
+    { "id": 3, "texto": "En caso de que el jornalero sea de la tercera edad", "es_correcta": false },
+    { "id": 4, "texto": "En caso de que las estipulaciones contractuales lo determinen de este modo", "es_correcta": false }
+  ]
+},
+{
+  "id": 40,
+  "texto": "Se entiende por salario básico unificado a:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "El diario que se paga por cumplir una jornada de trabajo, por unidades de obra", "es_correcta": false },
+    { "id": 2, "texto": "El valor que se paga a un trabajador en virtud de una obra", "es_correcta": false },
+    { "id": 3, "texto": "La retribución económica mínima que debe recibir una persona por su trabajo, por parte de su empleador", "es_correcta": true },
+    { "id": 4, "texto": "El valor diario que recibe un trabajador", "es_correcta": false }
+  ]
+},
+    {
+      "id": 41,
+      "texto": "¿Cuál es el plazo para pagos de sueldos y salarios?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Menor a una semana", "es_correcta": false },
+        { "id": 2, "texto": "En un mes", "es_correcta": false },
+        { "id": 3, "texto": "Diario", "es_correcta": false },
+        { "id": 4, "texto": "El salario no podrá ser mayor a una semana y el sueldo no mayor de un mes", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 42,
+      "texto": "¿Cuáles son las prohibiciones a los empleadores agrícolas?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Obligar a los obreros agrícolas a vender los animales que posean y los productos de estos", "es_correcta": false },
+        { "id": 2, "texto": "Obligar a los obreros agrícolas a que abonen con sus animales los terrenos de la heredad", "es_correcta": false },
+        { "id": 3, "texto": "Constreñirles a efectuar cualquier trabajo suplementario no remunerado", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 43,
+      "texto": "¿Quién es el encargado de las reclamaciones motivadas que no tienen necesidad de juicio en el trabajo agrícola?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El inspector de trabajo", "es_correcta": true },
+        { "id": 2, "texto": "El juez", "es_correcta": false },
+        { "id": 3, "texto": "El procurador judicial", "es_correcta": false },
+        { "id": 4, "texto": "El presidente de la república", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 44,
+      "texto": "A falta del inspector de trabajo, ¿quién puede conocer las reclamaciones?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El juez o cualquier autoridad del ramo", "es_correcta": true },
+        { "id": 2, "texto": "El secretario judicial", "es_correcta": false },
+        { "id": 3, "texto": "El ministro de trabajo", "es_correcta": false },
+        { "id": 4, "texto": "El abogado", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 45,
+      "texto": "¿Ante qué autoridad se puede apelar las resoluciones del inspector de trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Dirección regional del trabajo en relación al trabajo agrícola", "es_correcta": true },
+        { "id": 2, "texto": "Dirección regional del consejo de la judicatura", "es_correcta": false },
+        { "id": 3, "texto": "Ante el ministerio de Trabajo", "es_correcta": false },
+        { "id": 4, "texto": "Ante el juzgado competente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 46,
+      "texto": "¿Qué son los riesgos de trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Son las eventualidades dañosas a que está sometido el trabajador", "es_correcta": true },
+        { "id": 2, "texto": "Son las carencias de medidas de seguridad", "es_correcta": false },
+        { "id": 3, "texto": "Son las consecuencias de actividades lesivas", "es_correcta": false },
+        { "id": 4, "texto": "Son las determinaciones emitidas por el ministerio del ramo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 47,
+      "texto": "¿La acción para reclamar indemnizaciones prescribe en?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cinco años, contados desde que sobrevino el accidente o enfermedad", "es_correcta": false },
+        { "id": 2, "texto": "Tres años, contados desde que sobrevino el accidente o enfermedad", "es_correcta": true },
+        { "id": 3, "texto": "Dos años, contados desde que sobrevino el accidente o enfermedad", "es_correcta": false },
+        { "id": 4, "texto": "Seis años, contados desde que sobrevino el accidente o enfermedad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 48,
+      "texto": "¿De cuánto será la indemnización que el empleador deberá pagar por incapacidad temporal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Setenta y cinco por ciento de la remuneración que tenía el trabajador al momento del accidente", "es_correcta": true },
+        { "id": 2, "texto": "Veinte y cinco por ciento de la remuneración que tenía el trabajador al momento del accidente", "es_correcta": false },
+        { "id": 3, "texto": "Ochenta por ciento de la remuneración que tenía el trabajador al momento del accidente", "es_correcta": false },
+        { "id": 4, "texto": "Diez por ciento de la remuneración que tenía el trabajador al momento del accidente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 49,
+      "texto": "¿En caso de fallecimiento del trabajador a consecuencia del accidente o enfermedad profesional, tendrán derecho a las indemnizaciones?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los amigos del fallecido en el orden, proporción y límites fijados en las normas civiles que regulan la sucesión intestada", "es_correcta": false },
+        { "id": 2, "texto": "Los parientes del fallecido en el orden, proporción y límites fijados en las normas civiles que regulan la sucesión intestada", "es_correcta": false },
+        { "id": 3, "texto": "Los familiares del fallecido en el orden, proporción y límites fijados en las normas civiles que regulan la sucesión intestada", "es_correcta": false },
+        { "id": 4, "texto": "Los herederos del fallecido en el orden, proporción y límites fijados en las normas civiles que regulan la sucesión intestada", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 50,
+      "texto": "El empleador o empresa, ¿qué porcentaje de las utilidades líquidas reconocerá a los trabajadores?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El 25% de las utilidades líquidas", "es_correcta": false },
+        { "id": 2, "texto": "El 15% de las utilidades líquidas", "es_correcta": true },
+        { "id": 3, "texto": "El 35% de las utilidades líquidas", "es_correcta": false },
+        { "id": 4, "texto": "El 10% de las utilidades líquidas", "es_correcta": false }
+      ]
+    }
+  ]
+}

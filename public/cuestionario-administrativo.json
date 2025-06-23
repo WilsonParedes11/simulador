@@ -1,0 +1,550 @@
+{
+  "materia": {
+    "nombre": "Derecho Administrativo",
+    "id": "administrativo"
+  },
+  "cuestionario": {
+    "titulo": "Reactivos Materia Administrativo"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "¿Cuál de las siguientes opciones describe un acto administrativo que puede ser impugnado?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Acto administrativo definitivo", "es_correcta": true },
+        { "id": 2, "texto": "Hecho administrativo", "es_correcta": false },
+        { "id": 3, "texto": "Acto administrativo informativo", "es_correcta": false },
+        { "id": 4, "texto": "Acto de simple administración", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "¿En qué caso se suspende el procedimiento administrativo por causa de la no participación de la persona interesada?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Abandono", "es_correcta": true },
+        { "id": 2, "texto": "Caducidad", "es_correcta": false },
+        { "id": 3, "texto": "Terminación convencional", "es_correcta": false },
+        { "id": 4, "texto": "Suspensión temporal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "¿Qué tipo de procedimiento administrativo se refiere al recurso que puede interponer una persona contra un acto administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Recurso de apelación", "es_correcta": true },
+        { "id": 2, "texto": "Procedimiento sancionador", "es_correcta": false },
+        { "id": 3, "texto": "Procedimiento judicial", "es_correcta": false },
+        { "id": 4, "texto": "Recurso extraordinario", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "¿Cuál es el efecto de la no interposición de un recurso de apelación en un procedimiento administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Caducidad del procedimiento", "es_correcta": false },
+        { "id": 2, "texto": "El acto administrativo no causa estado", "es_correcta": false },
+        { "id": 3, "texto": "El acto administrativo causa estado", "es_correcta": true },
+        { "id": 4, "texto": "Suspensión del procedimiento", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "¿Qué principio establece que las administraciones públicas deben actuar conforme a los principios de juridicidad e igualdad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de imparcialidad", "es_correcta": false },
+        { "id": 2, "texto": "Principio de interdicción de la arbitrariedad", "es_correcta": true },
+        { "id": 3, "texto": "Principio de transparencia", "es_correcta": false },
+        { "id": 4, "texto": "Principio de eficiencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "¿Cuál es el principio que obliga a las administraciones públicas a actuar con rectitud, lealtad y honestidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de ética y probidad", "es_correcta": true },
+        { "id": 2, "texto": "Principio de control", "es_correcta": false },
+        { "id": 3, "texto": "Principio de proporcionalidad", "es_correcta": false },
+        { "id": 4, "texto": "Principio de eficiencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "¿Qué principio establece que los servidores públicos deben tomar decisiones autónomas y evitar conflictos de interés?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de ética", "es_correcta": false },
+        { "id": 2, "texto": "Principio de imparcialidad e independencia", "es_correcta": true },
+        { "id": 3, "texto": "Principio de buena fe", "es_correcta": false },
+        { "id": 4, "texto": "Principio de interdicción de la arbitrariedad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "¿Qué principio implica que las administraciones públicas deben proporcionar acceso y participación a las personas en los controles administrativos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de transparencia", "es_correcta": false },
+        { "id": 2, "texto": "Principio de control", "es_correcta": true},
+        { "id": 3, "texto": "Principio de calidad", "es_correcta": false },
+        { "id": 4, "texto": "Principio de confianza legitima", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "¿Qué define la competencia en el contexto administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La capacidad de un órgano para obrar dentro de sus fines", "es_correcta": true },
+        { "id": 2, "texto": "La responsabilidad de la administración pública", "es_correcta": false },
+        { "id": 3, "texto": "La delegación de funciones", "es_correcta": false },
+        { "id": 4, "texto": "La organización interna de la administración", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "Cuando la ley asigna una competencia a una administración pública sin especificar el órgano que la ejercerá, ¿quién debe determinar el órgano encargado?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El presidente", "es_correcta": false },
+        { "id": 2, "texto": "La máxima autoridad de la administración pública", "es_correcta": true },
+        { "id": 3, "texto": "El ministerio correspondiente", "es_correcta": false },
+        { "id": 4, "texto": "El consejo de ministros", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "El ejercicio de las competencias atribuidas a los órganos administrativos incluye, además de lo expresamente definido en la ley, ¿qué más?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Lo necesario para el cumplimiento de sus funciones", "es_correcta": true },
+        { "id": 2, "texto": "El cumplimiento de directrices internacionales", "es_correcta": false },
+        { "id": 3, "texto": "La delegación de funciones", "es_correcta": false },
+        { "id": 4, "texto": "La comunicación con otras administraciones", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "¿Qué implica la transferencia de competencias?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La renuncia a las competencias originales", "es_correcta": false },
+        { "id": 2, "texto": "El ejercicio por otro órgano o entidad", "es_correcta": true },
+        { "id": 3, "texto": "La delegación temporal", "es_correcta": false },
+        { "id": 4, "texto": "La desconcentración de funciones", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "¿Cuál de las siguientes opciones describe correctamente la delegación de competencias?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La transferencia de competencias entre administraciones autónomas", "es_correcta": false },
+        { "id": 2, "texto": "La cesión total de una competencia", "es_correcta": false },
+        { "id": 3, "texto": "El ejercicio de competencias por un órgano dependiente", "es_correcta": true },
+        { "id": 4, "texto": "La subrogación temporal de competencias", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "Cuando un órgano administrativo delega competencias a otro, ¿qué debe especificar el acto de delegación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El nombre del delegado", "es_correcta": false },
+        { "id": 2, "texto": "El plazo de ejecución", "es_correcta": false },
+        { "id": 3, "texto": "La responsabilidad compartida", "es_correcta": false },
+        { "id": 4, "texto": "Las competencias específicas delegadas", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "¿Qué es la suplencia de competencias?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El ejercicio de competencias por otro órgano superior", "es_correcta": false },
+        { "id": 2, "texto": "El traspaso de competencias entre administraciones", "es_correcta": false },
+        { "id": 3, "texto": "El ejercicio de competencias por un órgano en caso de ausencia temporal", "es_correcta": true },
+        { "id": 4, "texto": "La subrogación temporal de competencias", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "En el contexto del ejercicio de competencias, ¿qué es la subrogación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La transferencia temporal de competencias", "es_correcta": false },
+        { "id": 2, "texto": "El ejercicio de competencias por un órgano jerárquicamente inferior", "es_correcta": true },
+        { "id": 3, "texto": "La delegación de funciones", "es_correcta": false },
+        { "id": 4, "texto": "La descentralización de competencias", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "¿Qué diferencia existe entre descentralización y desconcentración en el ejercicio de competencias?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La descentralización implica la transferencia de competencias con recursos; la desconcentración no.", "es_correcta": true },
+        { "id": 2, "texto": "La descentralización es temporal y la desconcentración es permanente.", "es_correcta": false },
+        { "id": 3, "texto": "La descentralización no implica la transferencia de recursos, solo de funciones.", "es_correcta": false },
+        { "id": 4, "texto": "Ambas son iguales en su ejecución.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "Cuando un acto administrativo nulo es revisado de oficio, ¿qué ocurre si no se resuelve dentro del plazo legal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se considera caducado", "es_correcta": true },
+        { "id": 2, "texto": "El procedimiento se suspende", "es_correcta": false },
+        { "id": 3, "texto": "El acto se ratifica", "es_correcta": false },
+        { "id": 4, "texto": "El procedimiento se archiva", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "¿Qué debe hacer un órgano administrativo cuando detecta la nulidad de un acto administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Informar a la parte interesada", "es_correcta": false },
+        { "id": 2, "texto": "Anular el acto administrativo sin necesidad de procedimiento", "es_correcta": false },
+        { "id": 3, "texto": "Ejercer su potestad reglamentaria", "es_correcta": false },
+        { "id": 4, "texto": "Iniciar el procedimiento de revisión de oficio", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "¿Cuál de las siguientes situaciones no está permitida por las administraciones públicas que tienen competencia normativa?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Emitir actos que restrinjan derechos constitucionales", "es_correcta": true },
+        { "id": 2, "texto": "Regular asuntos internos del órgano administrativo", "es_correcta": false },
+        { "id": 3, "texto": "Aprobar reformas en la estructura administrativa", "es_correcta": false },
+        { "id": 4, "texto": "Regular materias de competencia de otras administraciones", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "¿Qué establece el Código Orgánico Administrativo respecto a las competencias normativas de la máxima autoridad administrativa?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Son ilimitadas dentro de la administración pública", "es_correcta": false },
+        { "id": 2, "texto": "Solo pueden regular los asuntos internos del órgano", "es_correcta": true },
+        { "id": 3, "texto": "Pueden delegarse a otros órganos", "es_correcta": false },
+        { "id": 4, "texto": "Son competencia exclusiva del poder ejecutivo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "¿Qué ocurre cuando se ejercen competencias normativas fuera del ámbito que la ley lo permita?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Son inválidas", "es_correcta": true },
+        { "id": 2, "texto": "Son ratificadas por la autoridad superior", "es_correcta": false },
+        { "id": 3, "texto": "Son inaplicables", "es_correcta": false },
+        { "id": 4, "texto": "Son corregidas mediante revisión judicial", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "Cuando un órgano administrativo utiliza su potestad reglamentaria, ¿qué debe hacer para garantizar la transparencia?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Publicar los actos reglamentarios en la página web del órgano", "es_correcta": true },
+        { "id": 2, "texto": "Enviar un informe al ministerio correspondiente", "es_correcta": false },
+        { "id": 3, "texto": "Consultar con otras administraciones públicas", "es_correcta": false },
+        { "id": 4, "texto": "No es necesario hacer público el acto", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 24,
+      "texto": "¿Qué debe hacer la administración pública cuando se detecta un acto administrativo nulo, aunque no haya reclamaciones?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Anular el acto sin necesidad de procedimiento", "es_correcta": false },
+        { "id": 2, "texto": "Solicitar autorización judicial", "es_correcta": false },
+        { "id": 3, "texto": "Iniciar un proceso de revisión de oficio", "es_correcta": true },
+        { "id": 4, "texto": "Notificar al interesado", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "En el caso de que un acto administrativo sea impugnado, ¿qué efecto tiene la caducidad del procedimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El acto se considera firme", "es_correcta": true },
+        { "id": 2, "texto": "El acto se revoca automáticamente", "es_correcta": false },
+        { "id": 3, "texto": "Se considera nulo", "es_correcta": false },
+        { "id": 4, "texto": "El procedimiento se reabre", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "¿Cómo se determina si un procedimiento administrativo iniciado por la administración caducará?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por el transcurso del tiempo desde la interposición", "es_correcta": false },
+        { "id": 2, "texto": "Por la inexistencia de un acto administrativo dentro de los plazos", "es_correcta": true },
+        { "id": 3, "texto": "Por decisión del juez administrativo", "es_correcta": false },
+        { "id": 4, "texto": "Por el vencimiento del recurso de apelación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "¿Qué mecanismo puede emplear una administración pública para evitar la caducidad de un procedimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Desistir del procedimiento", "es_correcta": false },
+        { "id": 2, "texto": "Imponer una sanción administrativa", "es_correcta": false },
+        { "id": 3, "texto": "Emitir una resolución dentro del plazo legal", "es_correcta": true },
+        { "id": 4, "texto": "Suspender el procedimiento temporalmente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "Cuando el procedimiento administrativo se encuentra en caducidad, ¿quién puede reanudarlo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El administrador del órgano correspondiente", "es_correcta": false },
+        { "id": 2, "texto": "El presidente de la República", "es_correcta": false },
+        { "id": 3, "texto": "El órgano competente si no ha caducado su potestad", "es_correcta": true },
+        { "id": 4, "texto": "Nadie, el procedimiento queda cerrado", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "¿Qué hace la administración cuando detecta que ha prescrito un derecho de acción en un procedimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Lo notifica a las partes interesadas", "es_correcta": false },
+        { "id": 2, "texto": "Lo considera extinguido y cierra el expediente", "es_correcta": true },
+        { "id": 3, "texto": "Lo remite al juez", "es_correcta": false },
+        { "id": 4, "texto": "Inicia una revisión de oficio", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "¿Qué principio regula la necesidad de resolver los conflictos de competencias entre órganos administrativos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El principio de autonomía", "es_correcta": false },
+        { "id": 2, "texto": "El principio de eficiencia", "es_correcta": false },
+        { "id": 3, "texto": "El principio de transparencia", "es_correcta": false },
+        { "id": 4, "texto": "El principio de jerarquía", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 31,
+      "texto": "¿En qué situaciones se puede revocar un acto administrativo desfavorable?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo cuando lo disponga el juez", "es_correcta": false },
+        { "id": 2, "texto": "Cuando no contravenga el principio de igualdad", "es_correcta": false },
+        { "id": 3, "texto": "Cuando no sea contrario al interés público", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 32,
+      "texto": "¿Cuál es la competencia de la máxima autoridad administrativa respecto a la revocatoria de actos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Actuar siempre en consenso con otros órganos", "es_correcta": false },
+        { "id": 2, "texto": "No puede revocar ningún acto administrativo", "es_correcta": false },
+        { "id": 3, "texto": "Revocar actos desfavorables a los interesados", "es_correcta": true },
+        { "id": 4, "texto": "Iniciar procedimientos de nulidad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 33,
+      "texto": "¿Cómo se considera un acto de simple administración?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Como un acto normativo de carácter general", "es_correcta": false },
+        { "id": 2, "texto": "Una declaración de voluntad interna", "es_correcta": true },
+        { "id": 3, "texto": "Un acto que requiere la firma del presidente", "es_correcta": false },
+        { "id": 4, "texto": "Un acto de jurisdicción administrativa", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 34,
+      "texto": "¿Qué efecto tiene la instrucción, orden de servicio o sumilla en el ámbito administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Es vinculante, pero no afecta la validez del acto", "es_correcta": true },
+        { "id": 2, "texto": "No tiene efectos jurídicos", "es_correcta": false },
+        { "id": 3, "texto": "Solo se utiliza en situaciones de emergencia", "es_correcta": false },
+        { "id": 4, "texto": "Genera efectos jurídicos inmediatos", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 35,
+      "texto": "¿Qué tipo de documentos pueden ser utilizados como parte del procedimiento administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Dictámenes", "es_correcta": false },
+        { "id": 2, "texto": "Informes", "es_correcta": false },
+        { "id": 3, "texto": "Ambos", "es_correcta": true },
+        { "id": 4, "texto": "Solo informes", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 36,
+      "texto": "¿Cuál es la función principal de los dictámenes o informes dentro de un procedimiento administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Aportar elementos de juicio para la formación de la voluntad administrativa", "es_correcta": true },
+        { "id": 2, "texto": "Obligar a la autoridad a tomar una decisión", "es_correcta": false },
+        { "id": 3, "texto": "Determinación de la nulidad de un acto administrativo", "es_correcta": false },
+        { "id": 4, "texto": "Informar a los ciudadanos sobre las políticas públicas", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 37,
+      "texto": "¿Qué características debe tener un dictamen o informe emitido en el marco de un procedimiento administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Debe incluir una recomendación final", "es_correcta": false },
+        { "id": 2, "texto": "Debe ser imparcial", "es_correcta": false },
+        { "id": 3, "texto": "Debe detallar el procedimiento con pruebas", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 38,
+      "texto": "¿Qué es un contrato administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Un acuerdo de voluntades entre dos entidades privadas", "es_correcta": false },
+        { "id": 2, "texto": "Un acuerdo entre una entidad pública y un particular", "es_correcta": true },
+        { "id": 3, "texto": "Un acuerdo entre dos órganos administrativos", "es_correcta": false },
+        { "id": 4, "texto": "Un acuerdo entre un organismo internacional y una entidad pública", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 39,
+      "texto": "¿Cuál es el proceso a seguir cuando existe una controversia en un contrato administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Recurre al tribunal contencioso administrativo", "es_correcta": false },
+        { "id": 2, "texto": "Solución amigable entre las partes", "es_correcta": false },
+        { "id": 3, "texto": "Mediación y arbitraje en derecho", "es_correcta": true },
+        { "id": 4, "texto": "El órgano administrativo decide unilateralmente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 40,
+      "texto": "¿Qué es un hecho administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Una actividad material ejecutada por un órgano administrativo", "es_correcta": true },
+        { "id": 2, "texto": "Una norma que regula la actividad administrativa", "es_correcta": false },
+        { "id": 3, "texto": "Un acto de carácter jurídico que requiere aprobación judicial", "es_correcta": false },
+        { "id": 4, "texto": "Un acto administrativo que requiere notificación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 41,
+      "texto": "¿Cuál es el efecto de un hecho administrativo contrario a un acto administrativo presunto?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Es considerado ilícito", "es_correcta": true },
+        { "id": 2, "texto": "Es aceptable si se notifica", "es_correcta": false },
+        { "id": 3, "texto": "Se reestablece el procedimiento", "es_correcta": false },
+        { "id": 4, "texto": "No tiene efecto jurídico", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 42,
+      "texto": "¿Qué se requiere para que un acto administrativo sea considerado 'lesivo' para el interés público?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Que sea favorable para la parte interesada", "es_correcta": false },
+        { "id": 2, "texto": "Que tenga efectos beneficiosos sobre el mercado", "es_correcta": false },
+        { "id": 3, "texto": "Que se haya demostrado que genera un perjuicio a la sociedad o al orden público", "es_correcta": true },
+        { "id": 4, "texto": "Que afecte la competitividad del sector privado", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 43,
+      "texto": "¿Qué recurso se puede interponer cuando se detecta un error material en un acto administrativo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Recurso de apelación", "es_correcta": false },
+        { "id": 2, "texto": "Recurso extraordinario de revisión", "es_correcta": true },
+        { "id": 3, "texto": "Recurso de reconsideración", "es_correcta": false },
+        { "id": 4, "texto": "Recurso contencioso administrativo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 44,
+      "texto": "¿En qué plazo debe resolverse el recurso extraordinario de revisión?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Dentro de 10 días", "es_correcta": false },
+        { "id": 2, "texto": "Dentro de 15 días", "es_correcta": false },
+        { "id": 3, "texto": "Dentro de un mes", "es_correcta": true },
+        { "id": 4, "texto": "Dentro de tres meses", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 45,
+      "texto": "Si la administración pública no se pronuncia dentro del plazo establecido para el recurso extraordinario de revisión, ¿qué sucede?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El recurso se considera aprobado", "es_correcta": false },
+        { "id": 2, "texto": "El recurso se considera desestimado", "es_correcta": true },
+        { "id": 3, "texto": "Se reabre el expediente", "es_correcta": false },
+        { "id": 4, "texto": "El recurso se eleva a la corte", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 46,
+      "texto": "¿Qué ocurre si un recurso no es admitido por la administración pública?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se archiva automáticamente", "es_correcta": false },
+        { "id": 2, "texto": "Se puede apelar ante el Tribunal Constitucional", "es_correcta": false },
+        { "id": 3, "texto": "El recurso se desestima", "es_correcta": true },
+        { "id": 4, "texto": "Se concede un plazo adicional para resolver", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 47,
+      "texto": "En el ejercicio de ejecución forzosa, ¿qué derecho debe respetarse siempre?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Derechos laborales", "es_correcta": false },
+        { "id": 2, "texto": "Derechos constitucionales", "es_correcta": true },
+        { "id": 3, "texto": "Derechos civiles", "es_correcta": false },
+        { "id": 4, "texto": "Derechos de propiedad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 48,
+      "texto": "Cuando se aplica la ejecución forzosa, ¿qué principio debe ser respetado?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de equidad", "es_correcta": false },
+        { "id": 2, "texto": "Principio de proporcionalidad", "es_correcta": true },
+        { "id": 3, "texto": "Principio de defensa", "es_correcta": false },
+        { "id": 4, "texto": "Principio de autoridad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 49,
+      "texto": "¿Qué debe hacer la administración pública si para ejecutar un acto administrativo es necesario ingresar al domicilio del afectado?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Obtener el consentimiento del afectado", "es_correcta": true },
+        { "id": 2, "texto": "Realizar la ejecución sin previo aviso", "es_correcta": false },
+        { "id": 3, "texto": "Solicitar una orden judicial", "es_correcta": false },
+        { "id": 4, "texto": "Notificar a la policía", "es_correcta": false }
+      ]
+    }
+  ]
+}

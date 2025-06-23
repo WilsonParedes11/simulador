@@ -1,0 +1,49 @@
+{
+  "materias_disponibles": [
+    {
+      "id": "constitucional",
+      "nombre": "Derecho Constitucional",
+      "archivo": "cuestionario-constitucional.json",
+      "icon": "⚖️",
+      "color": "blue",
+      "total_preguntas": 70,
+      "descripcion": "Fundamentos de la Constitución y organización del Estado"
+    },
+    {
+      "id": "laboral",
+      "nombre": "Derecho Laboral",
+      "archivo": "cuestionario-laboral.json",
+      "icon": "👷",
+      "color": "red",
+      "total_preguntas": 49,
+      "descripcion": "Relaciones laborales, derechos y obligaciones de trabajadores y empleadores"
+    },
+    {
+      "id": "penal",
+      "nombre": "Derecho Penal",
+      "archivo": "cuestionario-penal.json",
+      "icon": "🔫",
+      "color": "green",
+      "total_preguntas": 55,
+      "descripcion": "Contratos, obligaciones y derechos reales"
+    },
+    {
+      "id": "administrativo",
+      "nombre": "Derecho Administrativo",
+      "archivo": "cuestionario-administrativo.json",
+      "icon": "🏢",
+      "color": "purple",
+      "total_preguntas": 49,
+      "descripcion": "Administración pública y procedimientos administrativos"
+    },
+    {
+      "id": "civil",
+      "nombre": "Derecho Civil",
+      "archivo": "cuestionario-civil.json",
+      "icon": "📜",
+      "color": "orange",
+      "total_preguntas": 30,
+      "descripcion": "Contratos, obligaciones y derechos reales"
+    }
+  ]
+}

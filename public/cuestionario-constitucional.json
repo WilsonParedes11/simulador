@@ -1,0 +1,800 @@
+{
+  "materia": {
+    "nombre": "Derecho Constitucional",
+    "id": "constitucional"
+  },
+  "cuestionario": {
+    "titulo": "Reactivos Materia Constitucional"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "La Constitución de la República establece que La educación superior pública será gratuita hasta el:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Primer Nivel", "es_correcta": false },
+        { "id": 2, "texto": "Segundo Nivel", "es_correcta": false },
+        { "id": 3, "texto": "Tercer Nivel", "es_correcta": true },
+        { "id": 4, "texto": "Cuarto Nivel", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "La Constitución de la República establece prohibición de aplicación de biotecnologías peligrosas; por ello, declara al Ecuador libre de cultivos y semillas transgénicas. Determine la excepcionalidad para introducir semillas y cultivos genéticamente modificados:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No existe excepcionalidad para la introducción de cultivos y semillas transgénicas", "es_correcta": false },
+        { "id": 2, "texto": "Interés nacional debidamente fundamentado por la Presidencia de la República y aprobado por la Asamblea Nacional.", "es_correcta": true },
+        { "id": 3, "texto": "Interés nacional fundamentado por el Ejecutivo y aprobado mediante dictamen favorable por la Corte Constitucional", "es_correcta": false },
+        { "id": 4, "texto": "Interés nacional fundamentado por la Asamblea Nacional y aprobado mediante consulta popular.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "De acuerdo a la CRE el ESTADO Y GOBIERNO. - Se organiza en forma de república y se gobierna de manera:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "DESCENTRALIZADA.", "es_correcta": true },
+        { "id": 2, "texto": "ADECUADA", "es_correcta": false },
+        { "id": 3, "texto": "IGUALITARIA", "es_correcta": false },
+        { "id": 4, "texto": "RESPONSABLE", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "Escoja la respuesta correcta: La Constitución de la República del Ecuador establece que Los recursos naturales no renovables del territorio del Estado pertenecen a su patrimonio:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "inalienable, inevitable y duradero", "es_correcta": false },
+        { "id": 2, "texto": "inalienable, necesaria e imprescriptible", "es_correcta": false },
+        { "id": 3, "texto": "inalienable, ineludible e imprescriptible", "es_correcta": false },
+        { "id": 4, "texto": "inalienable, irrenunciable e imprescriptible", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "La constitución de la República del Ecuador establece que Son deberes primordiales del Estado:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Gozarán de los derechos garantizados en la norma", "es_correcta": false },
+        { "id": 2, "texto": "Derechos que se encuentren en situación de igualdad", "es_correcta": false },
+        { "id": 3, "texto": "Garantizar y defender la soberanía nacional", "es_correcta": true },
+        { "id": 4, "texto": "Promuevan la igualdad real en favor de los titulares de derechos", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "La constitución de la República del Ecuador establece que en el territorio ecuatoriano La capital del Ecuador es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Pichincha", "es_correcta": false },
+        { "id": 2, "texto": "Guayaquil", "es_correcta": false },
+        { "id": 3, "texto": "Loja", "es_correcta": false },
+        { "id": 4, "texto": "Quito", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "El Ecuador Es Un Territorio De Paz Y No se Permitirá:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se prohibe el establecimiento de las bases militares extranjeras en los lugares de conflicto, pero se permite instalaciones extranjeras en el resto del pais.", "es_correcta": false },
+        { "id": 2, "texto": "Se prohibe el establecimiento de las bases militares extranjeras con propósitos militares a excepción de los Estados Unidos.", "es_correcta": false },
+        { "id": 3, "texto": "El establecimiento de bases militares extranjeras ni de instalaciones extranjeras con propósitos militares.", "es_correcta": true },
+        { "id": 4, "texto": "ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador: ¿Qué es la Nacionalidad ecuatoriana?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Es el vínculo Jurídico político de las personas con el Estado", "es_correcta": true },
+        { "id": 2, "texto": "Es la que se obtiene por vivir en el Ecuador.", "es_correcta": false },
+        { "id": 3, "texto": "Es la Cédula de Identidad", "es_correcta": false },
+        { "id": 4, "texto": "Es el reconocimiento que brinda el Estado a las personas.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador: ¿Quiénes son ecuatorianos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las personas nacidas en el extranjero.", "es_correcta": false },
+        { "id": 2, "texto": "Las personas nacidas en el Ecuador.", "es_correcta": true },
+        { "id": 3, "texto": "Las personas nacidas en la frontera no reconocida por el Ecuador.", "es_correcta": false },
+        { "id": 4, "texto": "Las personas pertenecientes a comunidades indigenas no reconocidas", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador: Las personas extranjeras en el Ecuador tendrán:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los derechos que le reconoce su país de origen.", "es_correcta": false },
+        { "id": 2, "texto": "No tendrán ningún derecho en el Ecuador.", "es_correcta": false },
+        { "id": 3, "texto": "Los mismos derechos y deberes que las ecuatorianas.", "es_correcta": true },
+        { "id": 4, "texto": "Solo obligaciones de acuerdo a la Constitución.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador: ¿Cuál es el Derecho fundamental e Irrenunciable que constituye patrimonio nacional, es de uso público y es esencial para la vida?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El Agua.", "es_correcta": true },
+        { "id": 2, "texto": "La Electricidad", "es_correcta": false },
+        { "id": 3, "texto": "La Vivienda.", "es_correcta": false },
+        { "id": 4, "texto": "El Transporte", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador: a los Derechos del Buen Vivir en su Sección Prima, nos indica que el Estado Ecuatoriano promoverá:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El acceso a los servicios básicos.", "es_correcta": false },
+        { "id": 2, "texto": "EL acceso a alimentos extranjeros.", "es_correcta": false },
+        { "id": 3, "texto": "La soberanía agricola", "es_correcta": false },
+        { "id": 4, "texto": "La soberanía alimentaria.", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador: ¿Qué debe garantizar el vivir en un ambiente sano y ecológicamente?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Equilibrado, que garantice La sostenibilidad y el buen vivir", "es_correcta": true },
+        { "id": 2, "texto": "Más parques ecológicos.", "es_correcta": false },
+        { "id": 3, "texto": "El agua sin contaminación", "es_correcta": false },
+        { "id": 4, "texto": "Un ambiente puro", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "De acuerdo a la CRE, El Estado garantizará a las personas adultas mayores los siguientes derechos:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Exenciones en el régimen mercantil", "es_correcta": false },
+        { "id": 2, "texto": "Exenciones en el régimen vitalicio", "es_correcta": false },
+        { "id": 3, "texto": "Exenciones en el régimen monetario", "es_correcta": false },
+        { "id": 4, "texto": "Exenciones en el régimen tributario", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "De acuerdo a la CRE, reconoce a las personas con discapacidad, los derechos a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El acceso de manera adecuada a todos los bienes y servicios. Se eliminarán las barreras arquitectónicas", "es_correcta": true },
+        { "id": 2, "texto": "El acceso de manera adecuada a todos los patrimonios y servicios. Se eliminarán las barreras arqueológicas", "es_correcta": false },
+        { "id": 3, "texto": "El camino de manera adecuada a todos los bienes y servicios. Se separarán las barreras arquitectónicas", "es_correcta": false },
+        { "id": 4, "texto": "El acceso de manera adecuada a todos los bienes y productos. Se descartarán las barreras arquitectónicas", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "De acuerdo a la CRE, Se reconoce a las personas privadas de la libertad los siguientes derechos:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "ser sometidas a aislamiento como sanción disciplinaria", "es_correcta": false },
+        { "id": 2, "texto": "No ser sometidas a aislamiento como sanción disciplinaria", "es_correcta": true },
+        { "id": 3, "texto": "No ser sometidas a aislamiento como ordenanza disciplinaria", "es_correcta": false },
+        { "id": 4, "texto": "No ser sometidas a aislamiento como reglamento disciplinario", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "De acuerdo a la CRE: ¿Qué mecanismos establecerá la ley para el control calidad de las personas usuarias y consumidoras?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Mecanismos de control de calidad y procedimientos de defensa", "es_correcta": true },
+        { "id": 2, "texto": "Recompensa por el mal uso de los mecanismos", "es_correcta": false },
+        { "id": 3, "texto": "Implementación de recursos", "es_correcta": false },
+        { "id": 4, "texto": "Inclusión Social", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "De acuerdo a la CRE: ¿Cómo responderá el estado cuando exista negligencia y descuido en la atención de los servicios públicos que estén a su cargo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Remuneración de servicios", "es_correcta": false },
+        { "id": 2, "texto": "Responderá civilmente por los daños y perjuicios causados a las personas", "es_correcta": true },
+        { "id": 3, "texto": "No cobrar los servicios a las personas afectadas", "es_correcta": false },
+        { "id": 4, "texto": "Destituir al empleado que ocasiono dicha insatisfacción", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "De acuerdo a la CRE: ¿Qué responsabilidad tendrán las personas o entidades que presten servicios públicos o que produzcan o comercialicen bienes de consumo, por la deficiente prestación del servicio o por la calidad defectuosa del producto?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No cobrar los servicios prestados", "es_correcta": false },
+        { "id": 2, "texto": "Responsabilidad Moral", "es_correcta": false },
+        { "id": 3, "texto": "Insatisfacción del usuario", "es_correcta": false },
+        { "id": 4, "texto": "Serán responsables civil y penalmente", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "De acuerdo a la CRE: ¿Quiénes podrán construir asociaciones que promuevan la información y educación sobre sus derechos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Personas privadas de la libertad", "es_correcta": false },
+        { "id": 2, "texto": "Personas con enfermedades catastróficas", "es_correcta": false },
+        { "id": 3, "texto": "Personas usuarias y consumidoras", "es_correcta": true },
+        { "id": 4, "texto": "Personas jurídicas", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "De acuerdo a la CRE: ¿De qué forman parte las comunidades, pueblos, y nacionalidades indigenas, el pueblo afroecuatoriano y el pueblo montubio?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Sector de movilidad humana", "es_correcta": false },
+        { "id": 2, "texto": "Estado Ecuatoriano", "es_correcta": true },
+        { "id": 3, "texto": "Asamblea Nacional", "es_correcta": false },
+        { "id": 4, "texto": "Sectores Vulnerables", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "De acuerdo a la CRE: ¿Escoja una garantia que establece el estado a las comunas, comunidades, pueblos y nacionalidades indigenas los siguientes derechos colectivos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Fomentar la discriminación", "es_correcta": false },
+        { "id": 2, "texto": "Venta de tierras ancestrales", "es_correcta": false },
+        { "id": 3, "texto": "Venta de sus tradiciones ancestrales", "es_correcta": false },
+        { "id": 4, "texto": "Mantener, desarrollar y fortalecer libremente su identidad", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "De acuerdo a la CRE en los derechos de los afroecuatorianos para fortalecer su identidad, cultura, tradiciones y derechos se reconocen al pueblo afroecuatoriano:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Derechos Individuales", "es_correcta": false },
+        { "id": 2, "texto": "Derechos Vigentes", "es_correcta": false },
+        { "id": 3, "texto": "Derechos Colectivos", "es_correcta": true },
+        { "id": 4, "texto": "Derechos Naturales", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 24,
+      "texto": "De acuerdo a la CRE: ¿Para qué se reconocen los derechos colectivos de los pueblos montubios?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La aceptación en la sociedad", "es_correcta": false },
+        { "id": 2, "texto": "Garantizar su proceso de desarrollo humano integral, sustentable y sostenible", "es_correcta": true },
+        { "id": 3, "texto": "Evitar la discriminación", "es_correcta": false },
+        { "id": 4, "texto": "Sobresalir comercialmente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "De acuerdo a la CRE: ¿Qué podrán construir los pueblos ancestrales, indigenas, afroecuatorianos y montubios para poder preservar su cultura?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Reglamentos", "es_correcta": false },
+        { "id": 2, "texto": "Circunscripciones territoriales", "es_correcta": true },
+        { "id": 3, "texto": "Asambleas constituyentes", "es_correcta": false },
+        { "id": 4, "texto": "Leyes para destituir las leyes ordinarias", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "De acuerdo a la CRE: ¿Qué lapso debe transcurrir para que las personas extranjeras residentes en el ecuador puedan tener derecho al voto?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Siempre que hayan residido legalmente en el pais al menos dos años.", "es_correcta": false },
+        { "id": 2, "texto": "Siempre que hayan residido legalmente en el pais al menos tres años", "es_correcta": false },
+        { "id": 3, "texto": "Siempre que hayan residido legalmente en el pais al menos cuatro años.", "es_correcta": false },
+        { "id": 4, "texto": "Siempre que hayan residido legalmente en el pais al menos cinco años.", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "De acuerdo a la CRE, El goce de los derechos políticos se suspenderá, además de los casos que determine la ley, por las razones siguientes:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Sentencia comprobada que condene a pena privativa de libertad, mientras ésta subsista", "es_correcta": false },
+        { "id": 2, "texto": "Sentencia verificada que condene a pena privativa de libertad, mientras ésta subsista", "es_correcta": false },
+        { "id": 3, "texto": "Sentencia ejecutoriada que condene a pena privativa de libertad, mientras ésta subsista", "es_correcta": true },
+        { "id": 4, "texto": "Sentencia constatada que condene a pena privativa de libertad, mientras ésta subsista", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "De acuerdo a la CRE, El Estado adoptará medidas de acción afirmativa para garantizar la participación de los sectores:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Discriminados.", "es_correcta": false },
+        { "id": 2, "texto": "Separados.", "es_correcta": false },
+        { "id": 3, "texto": "Aislados.", "es_correcta": false },
+        { "id": 4, "texto": "Excluidos.", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "De acuerdo a la CRE, Son deberes y responsabilidades de las ecuatorianas y los ecuatorianos, sin perjuicio de otros previstos en la Constitución y la ley:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ejercer la profesión u oficio con sujeción a la ética", "es_correcta": true },
+        { "id": 2, "texto": "Ejercer la carrera u oficio con detención a la ética", "es_correcta": false },
+        { "id": 3, "texto": "Ejercer la labor u gestión con sujeción a la ética", "es_correcta": false },
+        { "id": 4, "texto": "Ejercer la tarea u actividad con sujeción a la ética", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "Según la Constitución de la República del Ecuador, generará los mismos derechos y obligaciones que tienen las familias constituidas mediante matrimonio:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La unión estable y monogamia entre dos personas libres de vínculo matrimonial", "es_correcta": true },
+        { "id": 2, "texto": "La unión monogamia entre mujeres libres de vínculo matrimonial", "es_correcta": false },
+        { "id": 3, "texto": "La unión estable entre hombres libres de vínculo matrimonial.", "es_correcta": false },
+        { "id": 4, "texto": "La unión estable entre más personas libres de vínculo matrimonial", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 31,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador ¿Para proteger los derechos de las personas integrantes de la familia, se deberá?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Reconocer el patrimonio familiar inembargable en la cuantia y con las condiciones y limitaciones que establezca la ley.", "es_correcta": true },
+        { "id": 2, "texto": "Garantizar el derecho de no testar y de no heredar", "es_correcta": false },
+        { "id": 3, "texto": "Una vida libre de violencia en el ámbito legal", "es_correcta": false },
+        { "id": 4, "texto": "Derecho a la igualdad formal y no discriminación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 32,
+      "texto": "¿El Estado formulará y ejecutará políticas para alcanzar la igualdad entre mujeres y hombres, a través del?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Toda persona, comunidad, pueblo o nacionalidad.", "es_correcta": false },
+        { "id": 2, "texto": "Mecanismo especializado de acuerdo con la ley.", "es_correcta": true },
+        { "id": 3, "texto": "Pueblo y de las Personas naturales y jurídicas", "es_correcta": false },
+        { "id": 4, "texto": "La naturaleza o Pacha Mama", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 33,
+      "texto": "De acuerdo con la CRE, Dentro del sistema procesal; las normas procesales consagran los principios de:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Simplificación, uniformidad, igualdad, inocencia, favorabilidad, mínima intervención y economía procesal.", "es_correcta": false },
+        { "id": 2, "texto": "Simplificación, uniformidad, eficacia, inmediación, igualdad, celeridad", "es_correcta": false },
+        { "id": 3, "texto": "Minima intervención, igualdad, eficacia, inmediación.", "es_correcta": false },
+        { "id": 4, "texto": "Simplificación, uniformidad, eficacia, inmediación, celeridad y economía procesal.", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 34,
+      "texto": "¿Con base a qué ejercerán las autoridades de las comunidades, pueblos y nacionalidades indigenas sus funciones jurisdiccionales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Con base en sus tradiciones ancestrales y decisiones tomadas por la comunidad indigena.", "es_correcta": false },
+        { "id": 2, "texto": "Con base en sus tradiciones ancestrales y su derecho propio, dentro de su ámbito territorial, con garantía de participación y decisión de las mujeres.", "es_correcta": true },
+        { "id": 3, "texto": "Con base en sus tradiciones ancestrales y su propio derecho sin ámbito territorial, con garantía de participación y decisión de las mujeres", "es_correcta": false },
+        { "id": 4, "texto": "Con base en sus tradiciones y decisiones de las mujeres de las comunidades, pueblos indigenas.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 35,
+      "texto": "¿Qué principio aplicaran las servidoras y servidores judiciales en los procesos de administración de justicia según la CRE?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las servidoras y servidores judiciales, aplicaran el principio de la impugnación procesal en los procesos de la administración de justicia.", "es_correcta": false },
+        { "id": 2, "texto": "Las servidoras y servidores judiciales, que incluyen a juezas y jueces, aplicaran el principio de celeridad.", "es_correcta": false },
+        { "id": 3, "texto": "Las servidoras y servidores judiciales, que incluyen a juezas y jueces, y los otros operadores de justicia aplicaran el principio de la debida diligencia en los procesos de la administración de justicia.", "es_correcta": true },
+        { "id": 4, "texto": "Las servidoras y servidores judiciales aplicaran el principio de la favorabilidad en los procesos de la administración de justicia.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 36,
+      "texto": "Según la CRE: Los actos administrativos de cualquier autoridad del Estado podrán ser impugnados.",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Tanto en la vía administrativa como ante los correspondientes órganos de la Función Judicial", "es_correcta": true },
+        { "id": 2, "texto": "Tanto por los juzgados de paz y demás órganos correspondientes.", "es_correcta": false },
+        { "id": 3, "texto": "Solo por vía administrativa", "es_correcta": false },
+        { "id": 4, "texto": "Solo ante los órganos de la Función Judicial", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 37,
+      "texto": "De acuerdo a la CRE, ¿qué no puede hacer las servidoras y servidores judiciales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las servidoras y servidores judiciales no podrán ejercer la docencia universitaria", "es_correcta": false },
+        { "id": 2, "texto": "Las servidoras y servidores judiciales no podrán pertenecer a un consorcio juridico y ejercer la abogacia.", "es_correcta": false },
+        { "id": 3, "texto": "Las servidoras y servidores judiciales no podrán ejercer la abogacia", "es_correcta": false },
+        { "id": 4, "texto": "Las servidoras y servidores judiciales no podrán ejercer la abogacia, ni desempeñar otro empleo público o privado, excepto la docencia universitaria fuera de horario de trabajo", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 38,
+      "texto": "De acuerdo a la CRE, ¿Qué se debe contemplar como requisitos para designar servidoras y servidores judiciales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "un concurso de oposición y méritos, impugnación y control social", "es_correcta": true },
+        { "id": 2, "texto": "Un concurso de contingencia.", "es_correcta": false },
+        { "id": 3, "texto": "Aquellos requisitos que estén determinados en la normativa constitucional y ordenanzas.", "es_correcta": false },
+        { "id": 4, "texto": "Un concurso de méritos y oposición, y los determinados en la norma.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 39,
+      "texto": "Según la Constitución de la República del Ecuador El organismo técnico del control de la utilización de los recursos estatales es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Superintendencias", "es_correcta": false },
+        { "id": 2, "texto": "Fiscalia General del Estado", "es_correcta": false },
+        { "id": 3, "texto": "Procuraduria General del Estado", "es_correcta": false },
+        { "id": 4, "texto": "Contraloria General del Estado", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 40,
+      "texto": "Según la Constitución de la República del Ecuador; La Defensoria Del Pueblo será un Órgano De Derecho:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Privado con jurisdicción nacional", "es_correcta": false },
+        { "id": 2, "texto": "Público con jurisdicción nacional.", "es_correcta": true },
+        { "id": 3, "texto": "Público únicamente con jurisdicción regional", "es_correcta": false },
+        { "id": 4, "texto": "Público con jurisdicción nacional e internacional.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 41,
+      "texto": "Según la Constitución de la República del Ecuador: ¿Quién designa los miembros del Consejo Nacional Electoral y del Tribunal Contencioso Electoral?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El Consejo de Participación Ciudadana y Control Social", "es_correcta": true },
+        { "id": 2, "texto": "El presidente de la Republica", "es_correcta": false },
+        { "id": 3, "texto": "La Asamblea Nacional", "es_correcta": false },
+        { "id": 4, "texto": "El Concejo Nacional Electoral", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 42,
+      "texto": "Según la Constitución de la República del Ecuador; Una de las atribuciones del Tribunal Contencioso Electoral de acuerdo a la CRE es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Designar los integrantes de los organismos electorales desconcentrados", "es_correcta": false },
+        { "id": 2, "texto": "Sancionar por incumplimiento de las normas sobre financiamiento, propaganda, gasto electoral y en general por vulneraciones de normas electorales", "es_correcta": true },
+        { "id": 3, "texto": "Reglamentar la normativa legal sobre los asuntos de su competencia", "es_correcta": false },
+        { "id": 4, "texto": "Asesorar a los órganos y entidades del Estado cuando se le solicite", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 43,
+      "texto": "Según la Constitución de la República del Ecuador; Controlar con sujeción a la ley los actos y contratos que suscriban los organismos y entidades del sector público es una atribución de:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Consejo de Participación Ciudadana y Control Social", "es_correcta": false },
+        { "id": 2, "texto": "Procuradora o Procurador General del Estado", "es_correcta": true },
+        { "id": 3, "texto": "Fiscal General del Estado", "es_correcta": false },
+        { "id": 4, "texto": "Tribunal Contencioso Electoral", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 44,
+      "texto": "Según la Constitución de la República del Ecuador; Tendrán facultades legislativas en el ámbito de sus competencias y jurisdicciones territoriales:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Únicamente distritos metropolitanos", "es_correcta": false },
+        { "id": 2, "texto": "Unicamente regiones", "es_correcta": false },
+        { "id": 3, "texto": "Los Gobiernos Autónomos descentralizados de las Regiones, distritos metropolitanos, provincias y cantones.", "es_correcta": true },
+        { "id": 4, "texto": "Regiones, provincias, cantones, distritos metropolitanos, juntas parroquiales rurales.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 45,
+      "texto": "¿La Constitución de la República del Ecuador establece que La relación que existe entre personas trabajadoras y empleadoras se da de manera?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Interna y Externa", "es_correcta": false },
+        { "id": 2, "texto": "Bilateral y Directa", "es_correcta": true },
+        { "id": 3, "texto": "Activa y Pasiva", "es_correcta": false },
+        { "id": 4, "texto": "Bilateral y Unánime", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 46,
+      "texto": "La Constitución de la República establece la propiedad del Estado sobre los Recursos Naturales no renovables. De las siguientes opciones determine cuáles son recursos naturales no renovables.",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Yacimientos minerales, mar territorial, biodiversidad y patrimonio genético.", "es_correcta": false },
+        { "id": 2, "texto": "Yacimientos de hidrocarburos, lagos, lagunas, rios, biodiversidad, suelo.", "es_correcta": false },
+        { "id": 3, "texto": "Productos del subsuelo, yacimientos minerales y de hidrocarburos, substancias cuya naturaleza sea distinta de la del suelo.", "es_correcta": true },
+        { "id": 4, "texto": "Naturaleza, depósitos de hidrocarburos, espectro eléctrico", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 47,
+      "texto": "La Constitución de la República del Ecuador establece que los tratados internacionales ratificados por el Ecuador se sujetarán a lo establecido en la Constitución. En el caso de los tratados y otros instrumentos internacionales de derechos humanos se aplicará uno de los siguientes principios. Identifique cuál de los siguientes es el principio correcto.",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de progresividad", "es_correcta": true },
+        { "id": 2, "texto": "Principio de no regresividad", "es_correcta": false },
+        { "id": 3, "texto": "Principio pro ser humano.", "es_correcta": false },
+        { "id": 4, "texto": "Principio de igualdad.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 48,
+      "texto": "En su Art. 424 de la norma jerárquica superior establece que la Constitución es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La carta magna y prevalece sobre otra del ordenamiento jurídico", "es_correcta": false },
+        { "id": 2, "texto": "La norma suprema y prevalece sobre cualquier otra del ordenamiento jurídico", "es_correcta": true },
+        { "id": 3, "texto": "La norma suprema y prevalece sobre otra del entorno social", "es_correcta": false },
+        { "id": 4, "texto": "La regla suprema y prevalece sobre otra del ordenamiento jurídico", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 49,
+      "texto": "En cuanto a la propiedad de los medios de comunicación y del uso de las frecuencias, ¿qué prohibe la Constitución de la República del Ecuador?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No permite que se hable de temas sexuales.", "es_correcta": false },
+        { "id": 2, "texto": "No permite los créditos bancarios.", "es_correcta": false },
+        { "id": 3, "texto": "No permitirá el oligopolio o monopolio, directo ni indirecto.", "es_correcta": true },
+        { "id": 4, "texto": "Prohibe que los medios de comunicación arrienden un inmueble.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 50,
+      "texto": "Son ecuatorianos por naturalización:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las que obtengan la carta de Naturalización.", "es_correcta": true },
+        { "id": 2, "texto": "Las que contraigan matrimonio o mantengan unión de hecho con una extranjera o un extranjero, de acuerdo con la ley.", "es_correcta": false },
+        { "id": 3, "texto": "Las personas nacidas en el Ecuador.", "es_correcta": false },
+        { "id": 4, "texto": "Las personas pertenecientes a comunidades, pueblos o nacionalidades reconocidas por el Ecuador con presencia en las zonas de frontera.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 51,
+      "texto": "De acuerdo a la CRE ¿A través de qué garantiza el Estado los derechos de las jóvenes y los jóvenes?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Plazas de trabajo", "es_correcta": false },
+        { "id": 2, "texto": "Políticas y programas", "es_correcta": true },
+        { "id": 3, "texto": "Poderes especiales", "es_correcta": false },
+        { "id": 4, "texto": "Poderes Generales", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 52,
+      "texto": "De acuerdo a la CRE: ¿Qué derecho se reconoce de acuerdo a los instrumentos internacionales de derechos humanos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Derecho a migrar", "es_correcta": false },
+        { "id": 2, "texto": "Derecho a la nacionalidad", "es_correcta": false },
+        { "id": 3, "texto": "Derecho de asilo y refugio", "es_correcta": true },
+        { "id": 4, "texto": "Derecho a la recreación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 53,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador: ¿En la formulación, ejecución, evaluación y control de las políticas públicas y servicios públicos se garantizará la participación de?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Gobiernos Autónomos Descentralizados.", "es_correcta": false },
+        { "id": 2, "texto": "Instituciones Públicas Y Privadas.", "es_correcta": false },
+        { "id": 3, "texto": "Personas Naturales y Jurídicas", "es_correcta": false },
+        { "id": 4, "texto": "Las Personas, Comunidades, Pueblos y Nacionalidades", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 54,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador; ¿A quién garantizará el Estado la cláusula de conciencia?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "A todos los ciudadanos ecuatorianos", "es_correcta": false },
+        { "id": 2, "texto": "A las autoridades competentes dentro del ámbito de comunicación", "es_correcta": false },
+        { "id": 3, "texto": "A toda persona, y el secreto profesional y la reserva de la fuente a quienes informen", "es_correcta": true },
+        { "id": 4, "texto": "Al presidente de la República", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 55,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador: Las personas tienen derecho a desarrollar su capacidad creativa, al ejercicio digno y sostenido de las actividades culturales y artísticas, y a beneficiarse de la:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Remuneración económica del $70% si ceden sus derechos de patente.", "es_correcta": false },
+        { "id": 2, "texto": "Protección de los derechos morales y patrimoniales que les correspondan por las producciones científicas, literarias o artísticas de su autoría.", "es_correcta": true },
+        { "id": 3, "texto": "Publicidad duradera de un año en todas sus creaciones.", "es_correcta": false },
+        { "id": 4, "texto": "Protección a su patrimonio cultural.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 56,
+      "texto": "En materia constitucional los Derechos y Garantias establecidos en la Constitución y en los instrumentos internacionales de Derechos Humanos serán de directa e inmediata aplicación, por y ante cualquier:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ante el secretario de la Corte", "es_correcta": false },
+        { "id": 2, "texto": "La Asamblea Nacional", "es_correcta": false },
+        { "id": 3, "texto": "Corte Constitucional", "es_correcta": false },
+        { "id": 4, "texto": "Servidora o servidor público, administrativo o judicial, de oficio o a petición de parte.", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 57,
+      "texto": "DE ACUERDO A LA CRE: ¿Los derechos se podrán ejercer, promover y exigir de qué forma?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Individual o conjunta.", "es_correcta": false },
+        { "id": 2, "texto": "Individual o colectiva.", "es_correcta": true },
+        { "id": 3, "texto": "Total, o parcial", "es_correcta": false },
+        { "id": 4, "texto": "Parcial o total.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 58,
+      "texto": "El ejercicio de los derechos se regirá por los siguientes principios constitucionales: establece el reconocimiento de los derechos y garantias establecidos en la Constitución y en los instrumentos internacionales de derechos humanos, no excluirá los demás derechos derivados de la:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Garantía Jurisdiccional y Control Constitucional", "es_correcta": false },
+        { "id": 2, "texto": "Norma de derecho derivado de los convenios", "es_correcta": false },
+        { "id": 3, "texto": "Dignidad de las personas, comunidades, pueblos y nacionalidades", "es_correcta": true },
+        { "id": 4, "texto": "Comunidad andina", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 59,
+      "texto": "De acuerdo a la Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional; en los métodos y reglas de interpretación constitucional, encontramos la PONDERACIÓN. - Se deberá establecer una relación de preferencia entre los principios y normas, condicionada a las:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Circunstancias del caso específico, para determinar la decisión adecuada", "es_correcta": false },
+        { "id": 2, "texto": "Circunstancias del caso concreto, para determinar la decisión adecuada", "es_correcta": true },
+        { "id": 3, "texto": "Circunstancias del caso especial, para determinar la decisión adecuada", "es_correcta": false },
+        { "id": 4, "texto": "Circunstancias del caso preciso, para determinar la decisión adecuada", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 60,
+      "texto": "De acuerdo a la Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 14.- Audiencia que tiempo determina para el accionante y la persona afectada para intervenir y réplicar. Escoja la respuesta correcta:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El accionante y la persona afectada tendrán hasta 15 minutos para intervenir y diez minutos para replicar", "es_correcta": false },
+        { "id": 2, "texto": "El accionante y la persona afectada tendrán hasta veinte minutos para intervenir y diez minutos para replicar", "es_correcta": true },
+        { "id": 3, "texto": "El accionante y la persona afectada tendrán hasta 30 minutos para intervenir y diez minutos para replicar", "es_correcta": false },
+        { "id": 4, "texto": "El accionante y la persona afectada tendrán hasta veinte minutos para intervenir y 15 minutos para replicar", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 61,
+      "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 9 Legitimación activa. - Las acciones para hacer efectivas las garantias jurisdiccionales previstas en la Constitución y esta ley, podrán ser ejercidas:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por cualquier persona, comunidad, pueblo, nacionalidad o colectivo, vulnerada o amenazada en uno o más de sus normas constitucionales, quien actuará por sí misma o a través de representante o mandatario", "es_correcta": false },
+        { "id": 2, "texto": "Por cualquier elemento, comunidad, pueblo, nacionalidad o colectivo, vulnerada o amenazada en uno o más de sus principios constitucionales, quien actuará a través de representante o apoderado", "es_correcta": false },
+        { "id": 3, "texto": "Por cualquier persona, corporación, pueblo, nacionalidad o colectivo, perjudicada o amenazada en uno o más de sus derechos constitucionales, quien actuará por sí misma o a través de representante o apoderado", "es_correcta": false },
+        { "id": 4, "texto": "Por cualquier persona, comunidad, pueblo, nacionalidad o colectivo, vulnerada o amenazada en uno o más de sus derechos constitucionales, quien actuará por sí misma o a través de representante o apoderado", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 62,
+      "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 17.- Contenido de la sentencia dentro de esto encontramos los Fundamentos de Derecho, a que se refiere.",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La argumentación jurídica que sustente la resolución", "es_correcta": true },
+        { "id": 2, "texto": "La argumentación legal que respalde la resolución", "es_correcta": false },
+        { "id": 3, "texto": "La argumentación judicial que sustente la resolución", "es_correcta": false },
+        { "id": 4, "texto": "La demostración jurídica que mantenga la resolución", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 63,
+      "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 24 nos habla acerca de la apelación: en cuantos dias hábiles podrán apelar.",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las partes podrán apelar en la misma audiencia o hasta tres dias hábiles después de haber sido notificadas por escrito", "es_correcta": true },
+        { "id": 2, "texto": "Las partes podrán apelar en la misma audiencia o hasta cinco dias hábiles después de haber sido notificadas por escrito", "es_correcta": false },
+        { "id": 3, "texto": "Las partes podrán apelar en la misma audiencia o hasta cuatro dias hábiles después de haber sido notificadas por escrito", "es_correcta": false },
+        { "id": 4, "texto": "Las partes podrán apelar en la misma audiencia o hasta seis días hábiles después de haber sido notificadas por escrito", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 64,
+      "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 31; establece cómo será El procedimiento para ordenar medidas cautelares:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "será formal, sencillo, expedito y eficaz en todas sus fases", "es_correcta": true },
+        { "id": 2, "texto": "será formal, sencillo, breve y eficaz en todas sus fases", "es_correcta": false },
+        { "id": 3, "texto": "será informal, sencillo, temporal y eficaz en todas sus etapas", "es_correcta": false },
+        { "id": 4, "texto": "será informal, sencillo, rápido y eficaz en todas sus fases", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 65,
+      "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 41 nos habla acerca de Procedencia y legitimación pasiva; La acción de protección procede contra:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Todo acto u omisión del prestador de servicio público que viole los derechos y garantias.", "es_correcta": true },
+        { "id": 2, "texto": "Todo acto u omisión del prestador de servicio estatal que viole los principios y garantias.", "es_correcta": false },
+        { "id": 3, "texto": "Todo acto u omisión del prestador de servicio administrativo que viole las garantias.", "es_correcta": false },
+        { "id": 4, "texto": "Todo acto u omisión del prestador de servicio gubernamental que vulnere los derechos y garantias.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 66,
+      "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 50; Ambito de protección. - Se podrá interponer la acción de hábeas data en los siguientes casos:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cuando se niega la solicitud de actualización, corrección, eliminación de datos que fueren erróneos o afecten sus derechos", "es_correcta": false },
+        { "id": 2, "texto": "Cuando se niega la solicitud de actualización, rectificación, eliminación o supresión de datos que fueren erróneos o afecten sus derechos", "es_correcta": true },
+        { "id": 3, "texto": "Cuando se niega la solicitud de actualización, rectificación, eliminación o anulación de datos que fueren erróneos o afecten sus derechos", "es_correcta": false },
+        { "id": 4, "texto": "Cuando se niega la atención de actualización, rectificación, eliminación o anulación de datos que fueren erróneos o afecten sus garantias", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 67,
+      "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 52; La acción por incumplimiento tiene por objeto:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "garantizar la aplicación de las normas que integran el sistema jurídico, así como el cumplimiento de sentencias, decisiones o informes de organismos internacionales de protección de derechos humanos.", "es_correcta": true },
+        { "id": 2, "texto": "garantizar la aplicación de las leyes que integran el sistema judicial, así como el cumplimiento de sentencias, decisiones o informes de organismos internacionales de protección de derechos humanos.", "es_correcta": false },
+        { "id": 3, "texto": "garantizar la aplicación de las garantías que componen el sistema jurídico, así como el cumplimiento de sentencias, decisiones o informes de organismos internacionales de protección de derechos humanos.", "es_correcta": false },
+        { "id": 4, "texto": "garantizar la aplicación de las normas que integran el sistema jurídico, así como el cumplimiento de dictámenes, decisiones o informes de corporaciones internacionales de protección de derechos humanos.", "es_correcta": false }
+      ]
+    },
+    {
+  "id": 68,
+  "texto": "Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional en su capítulo VIII Acción Extraordinaria de Protección; en su Art. 60 El término máximo para la interposición de la acción será:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    {
+      "id": 1,
+      "texto": "De veinte días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
+      "es_correcta": true
+    },
+    {
+      "id": 2,
+      "texto": "De tres días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
+      "es_correcta": false
+    },
+    {
+      "id": 3,
+      "texto": "De cinco días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
+      "es_correcta": false
+    },
+    {
+      "id": 4,
+      "texto": "De quince días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
+      "es_correcta": false
+    }
+  ]
+},
+
+    {
+      "id": 69,
+      "texto": "La Constitución de la República establece que La educación superior pública será gratuita hasta el:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Primer Nivel", "es_correcta": false },
+        { "id": 2, "texto": "Segundo Nivel", "es_correcta": false },
+        { "id": 3, "texto": "Tercer Nivel", "es_correcta": true },
+        { "id": 4, "texto": "Cuarto Nivel", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 70,
+      "texto": "La Constitución de la República establece prohibición de aplicación de biotecnologías peligrosas; por ello, declara al Ecuador libre de cultivos y semillas transgénicas. Determine la excepcionalidad para introducir semillas y cultivos genéticamente modificados:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No existe excepcionalidad para la introducción de cultivos y semillas transgénicas", "es_correcta": false },
+        { "id": 2, "texto": "Interés nacional debidamente fundamentado por la Presidencia de la República y aprobado por la Asamblea Nacional.", "es_correcta": true },
+        { "id": 3, "texto": "Interés nacional fundamentado por el Ejecutivo y aprobado mediante dictamen favorable por la Corte Constitucional", "es_correcta": false },
+        { "id": 4, "texto": "Interés nacional fundamentado por la Asamblea Nacional y aprobado mediante consulta popular.", "es_correcta": false }
+      ]
+    }
+  ]
+  
+}
+
