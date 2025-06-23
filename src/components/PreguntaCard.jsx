@@ -176,9 +176,9 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
         <div className="p-4 sm:p-6">
           {/* Indicador y control de opciones mezcladas */}
           <div className="mb-4 flex items-center justify-between">
-            <span className="inline-flex items-center px-2 py-1 rounded-full text-xs bg-blue-50 text-blue-600 border border-blue-200">
+            {/* <span className="inline-flex items-center px-2 py-1 rounded-full text-xs bg-blue-50 text-blue-600 border border-blue-200">
               🔀 Opciones mezcladas aleatoriamente
-            </span>
+            </span> */}
             
             {!respondida && (
               <button
