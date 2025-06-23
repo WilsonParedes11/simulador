@@ -262,7 +262,7 @@
       "texto": "El principio de oralidad se aplica",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Solo en la audiencia de juzgamiento", "es_correcta": true },
+        { "id": 1, "texto": "Solo en la audiencia de juzgamiento", "es_correcta": false },
         { "id": 2, "texto": "Solo en la etapa intermedia ", "es_correcta": false },
         { "id": 3, "texto": "En todas las etapas del proceso", "es_correcta": true }
       ]
@@ -272,7 +272,7 @@
       "texto": "Toda resolución judicial que afecte los derechos de las partes debe adoptarse",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Por escrito ", "es_correcta": true },
+        { "id": 1, "texto": "Por escrito ", "es_correcta": false },
         { "id": 2, "texto": "Mediante audiencias", "es_correcta": true },
         { "id": 3, "texto": "Con testigos.", "es_correcta": false }
       ]
@@ -292,7 +292,7 @@
       "texto": "En materia procesal penal se puede juzgar?",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Solo los días hábiles, porque sábados y domingos no se trabaja ", "es_correcta": true },
+        { "id": 1, "texto": "Solo los días hábiles, porque sábados y domingos no se trabaja ", "es_correcta": false },
         { "id": 2, "texto": "Solo los sábados y domingos ", "es_correcta": false },
         { "id": 3, "texto": "En cualquier día y a cualquier hora ", "es_correcta": true }
       ]
@@ -302,9 +302,9 @@
       "texto": "¿Los órganos de jurisdicción penal son:?",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "La Fiscalía General del Estado", "es_correcta": true },
+        { "id": 1, "texto": "La Fiscalía General del Estado", "es_correcta": false },
         { "id": 2, "texto": "La defensoría pública", "es_correcta": false },
-        { "id": 3, "texto": "Los jueces establecidos por la ley para el efecto", "es_correcta": false }
+        { "id": 3, "texto": "Los jueces establecidos por la ley para el efecto", "es_correcta": true }
       ]
     },
     {
