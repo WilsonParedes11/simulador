@@ -44,6 +44,15 @@
       "color": "orange",
       "total_preguntas": 30,
       "descripcion": "Contratos, obligaciones y derechos reales"
+    },
+    {
+      "id": "familia",
+      "nombre": "Derecho de Familia",
+      "archivo": "cuestionario-familia.json",
+      "icon": "👪",
+      "color": "cyan",
+      "total_preguntas": 30,
+      "descripcion": "Matrimonio, divorcio, filiación y adopción"
     }
   ]
 }
