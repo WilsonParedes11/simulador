@@ -1,0 +1,347 @@
+{
+  "materia": {
+    "nombre": "Derecho de Familia",
+    "id": "familia"
+  },
+  "cuestionario": {
+    "titulo": "Reactivos Materia Derecho de Familia"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "¿Qué es la patria potestad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El conjunto de derechos", "es_correcta": false },
+        { "id": 2, "texto": "El conjunto de obligaciones", "es_correcta": false },
+        { "id": 3, "texto": "El conjunto de derechos y obligaciones", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "Cuando existe suspensión de la patria potestad por conflicto de intereses, ¿quién ejercerá la representación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El padre que no se encuentre en conflicto de intereses", "es_correcta": false },
+        { "id": 2, "texto": "La madre que no se encuentre en conflicto de intereses", "es_correcta": false },
+        { "id": 3, "texto": "El curador especial que nombre el juez", "es_correcta": false },
+        { "id": 4, "texto": "Todos los anteriores", "es_correcta": true },
+        { "id": 5, "texto": "Ninguno de los anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "¿Mediante qué se suspende la patria potestad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Mediante sentencia judicial", "es_correcta": false },
+        { "id": 2, "texto": "Mediante resolución judicial", "es_correcta": true },
+        { "id": 3, "texto": "Mediante auto interlocutorio", "es_correcta": false },
+        { "id": 4, "texto": "Mediante auto suspensivo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "¿Cuál de las siguientes opciones no es una causal de suspensión de la patria potestad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ausencia injustificada del progenitor por más de seis meses", "es_correcta": false },
+        { "id": 2, "texto": "Maltrato al hijo o hija, de una gravedad que, a juicio del Juez, no justifique la privación de la patria potestad", "es_correcta": false },
+        { "id": 3, "texto": "Declaratoria judicial de interdicción del progenitor", "es_correcta": false },
+        { "id": 4, "texto": "Privación de la libertad en virtud de sentencia condenatoria ejecutoriada", "es_correcta": false },
+        { "id": 5, "texto": "Escasez de recursos económicos de uno o los progenitores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "¿Cuándo el juez puede restituir la patria potestad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cuando existieren suficientes pruebas de que han variado sustancialmente las circunstancias que motivaron su privación, limitación o suspensión", "es_correcta": true },
+        { "id": 2, "texto": "Cuando uno o los progenitores tengan mejor posición económica para proveerle de lo necesario a los hijos", "es_correcta": false },
+        { "id": 3, "texto": "Cuando uno o los progenitores estén viviendo con los hijos bajo el mismo techo", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false },
+        { "id": 5, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "Para ordenar la restitución de la patria potestad, ¿qué deberá hacer el juez?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Señalar día y hora para la audiencia", "es_correcta": false },
+        { "id": 2, "texto": "Oír previamente a quien solicitó la medida", "es_correcta": false },
+        { "id": 3, "texto": "Oír previamente a quien solicitó la medida y en todo caso al hijo o hija de acuerdo a su desarrollo evolutivo", "es_correcta": true },
+        { "id": 4, "texto": "Evacuar las pruebas presentadas en la audiencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "¿Qué procede en el pago del derecho de alimentos cuando el NNA cohabita con el progenitor alimentante?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El alimentante ya no deberá pagar la pensión alimenticia aún si cohabita con el NNA", "es_correcta": false },
+        { "id": 2, "texto": "El alimentante deberá pagar la pensión alimenticia aún si cohabita con el NNA", "es_correcta": false },
+        { "id": 3, "texto": "El alimentante debe solicitar al juez que le extinga la pensión alimenticia", "es_correcta": false },
+        { "id": 4, "texto": "El alimentante debe solicitar al juez le descuente lo gastado en el mes con el NNA del valor total de la pensión alimenticia a pagar", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "¿Qué obligación tienen los obligados subsidiarios si también cohabitan con el NNA?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Están obligados a pagar la pensión alimenticia", "es_correcta": false },
+        { "id": 2, "texto": "No están obligados a pagar la pensión alimenticia", "es_correcta": false },
+        { "id": 3, "texto": "Están obligados a hacerlo si lo paga el alimentante progenitor", "es_correcta": false },
+        { "id": 4, "texto": "No están obligados a hacerlo si lo paga el alimentante progenitor", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "¿Qué establece el Código Civil en relación al pago de pensión alimenticia?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Establece que los alimentos son para toda la vida siempre y cuando subsistan las condiciones que justificaron la demanda", "es_correcta": true },
+        { "id": 2, "texto": "establece que los alimentos son para toda la vida, aunque no subsistan las condiciones que justificaron la demanda.", "es_correcta": false },
+        { "id": 3, "texto": "Establece que los alimentos son hasta que el NNA cumpla los 18 años", "es_correcta": false },
+        { "id": 4, "texto": "Establece que los alimentos son hasta que el NNA cumpla los 21 años", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "¿De las siguientes opciones, cuál de ella no es parte de los beneficios adicionales a la pensión alimenticia que puede recibir el NNA de acuerdo al CONA?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Beneficios que algunas empresas dan a sus empleados por tener hijos o dependientes", "es_correcta": false },
+        { "id": 2, "texto": "Beneficios que algunas instituciones públicas como el MIES dan a las personas de escasos recursos económicos", "es_correcta": true },
+        { "id": 3, "texto": "Dos pensiones extras al año: décimo tercero y décimo cuarto sueldo", "es_correcta": false },
+        { "id": 4, "texto": "Si el padre o madre recibe ganancias de la empresa (utilidades), el 5% está destinado para sus hijos", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "¿Cómo se procede con las asignaciones alimenticias hechas voluntariamente en testamento o por donación entre vivos de acuerdo al Código Civil?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las asignaciones alimenticias en favor de personas que por ley no tengan derecho a alimentos, se imputarán a la porción conyugal que el difunto ha podido disponer a su arbitrio", "es_correcta": false },
+        { "id": 2, "texto": "Las asignaciones alimenticias en favor de personas que por ley no tengan derecho a alimentos, se imputarán a la porción de cuarta de mejoras que el difunto ha podido disponer a su arbitrio", "es_correcta": false },
+        { "id": 3, "texto": "Las asignaciones alimenticias en favor de personas que por ley no tengan derecho a alimentos, se imputarán a la porción de bienes inmuebles que el difunto ha podido disponer a su arbitrio", "es_correcta": false },
+        { "id": 4, "texto": "Las asignaciones alimenticias en favor de personas que por ley no tengan derecho a alimentos, se imputarán a la porción de bienes de que el difunto ha podido disponer a su arbitrio", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "Escoja la respuesta correcta (COGEP): En los procesos sumarios cuya principal pretensión es la fijación de pensión alimenticia de NNA, la inasistencia a la audiencia única del accionante o de ninguna de las partes, obligará al juzgador a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Emitir un auto suspensivo ratificando la pensión provisional fijada en la calificación de la demanda", "es_correcta": false },
+        { "id": 2, "texto": "Emitir un auto diferido ratificando la pensión provisional fijada en la audiencia", "es_correcta": false },
+        { "id": 3, "texto": "Emitir un auto interlocutorio ratificando la pensión provisional fijada en la calificación de la demanda", "es_correcta": true },
+        { "id": 4, "texto": "Emitir un auto de sustanciación ratificando la pensión provisional fijada en la resolución", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "Las fases de la audiencia única del juicio sumario son:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Primera fase: saneamiento, fijación puntos de debate y conciliación. Segunda fase: prueba, debate probatorio, alegato inicial, práctica de pruebas, alegato final", "es_correcta": false },
+        { "id": 2, "texto": "Primera fase: saneamiento, fijación puntos de debate y conciliación. Segunda fase: prueba y alegatos - debate probatorio, alegato inicial, práctica de pruebas, alegato final", "es_correcta": true },
+        { "id": 3, "texto": "Primera fase: saneamiento, fijación puntos de debate y audiencia. Segunda fase: prueba y alegatos - debate probatorio, alegato inicial, práctica de pruebas, alegato final", "es_correcta": false },
+        { "id": 4, "texto": "Primera fase: saneamiento, fijación puntos de debate y conciliación. Segunda fase: prueba y alegatos - debate probatorio, alegato inicial, alegato final", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "Escoja la opción correcta: En materia de niñez y adolescencia, la audiencia única se realizará en el término:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Máximo de 30 días contados a partir de la citación", "es_correcta": false },
+        { "id": 2, "texto": "Máximo de 20 días contados a partir de la citación", "es_correcta": true },
+        { "id": 3, "texto": "Máximo de 10 días contados a partir de la citación", "es_correcta": false },
+        { "id": 4, "texto": "Máximo de 5 días contados a partir de la citación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "Serán apelables las resoluciones dictadas en el procedimiento sumario relativas a alimentos, tenencia, visitas, patria potestad, despojo violento, despojo judicial solamente en:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Efecto suspensivo", "es_correcta": false },
+        { "id": 2, "texto": "Efecto no suspensivo", "es_correcta": true },
+        { "id": 3, "texto": "Efecto diferido", "es_correcta": false },
+        { "id": 4, "texto": "Efecto absoluto", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "El CONA respecto de los obligados subsidiarios para cumplir con la obligación del pago de pensión alimenticia para los miembros de la familia ampliada establece que:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los miembros de la familia ampliada que en virtud de una medida de protección dispuesta por la autoridad competente o en ejercicio de la tutela se encuentren conviviendo con niños, niñas y adolescentes titulares del derecho de alimentos, serán obligados subsidiarios de la pensión de alimentos", "es_correcta": false },
+        { "id": 2, "texto": "Los miembros de la familia ampliada que en virtud de una medida de protección dispuesta por la autoridad competente o en ejercicio de la tutela se encuentren conviviendo con niños, niñas y adolescentes titulares del derecho de alimentos, no serán obligados subsidiarios de la pensión de alimentos", "es_correcta": true },
+        { "id": 3, "texto": "Los miembros de la familia ensamblada que en virtud de una medida de protección dispuesta por la autoridad competente o en ejercicio de la tutela se encuentren conviviendo con niños, niñas y adolescentes titulares del derecho de alimentos, no serán obligados subsidiarios de la pensión de alimentos", "es_correcta": false },
+        { "id": 4, "texto": "Los miembros de la familia ensamblada que en virtud de una medida de protección dispuesta por la autoridad competente o en ejercicio de la tutela se encuentren conviviendo con niños, niñas y adolescentes titulares del derecho de alimentos, serán obligados subsidiarios de la pensión de alimentos", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "¿De qué manera el presunto padre, madre o pariente consanguíneo obligado a sufragar los gastos que demande el examen de ADN, costas procesales y demás gastos, puede demostrar la carencia de recursos económicos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Con un certificado del IESS que acredite que no trabaja", "es_correcta": false },
+        { "id": 2, "texto": "Con un informe técnico de la Unidad Judicial de la Familia", "es_correcta": false },
+        { "id": 3, "texto": "Con un certificado del SRI que acredite no tiene actividad económica", "es_correcta": false },
+        { "id": 4, "texto": "Con un informe técnico del Ministerio de Inclusión Económica y Social", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "¿Cuál de las siguientes opciones es incorrecta: de qué manera(s) se puede pagar la pensión alimenticia, los subsidios y beneficios adicionales al alimentado?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En efectivo", "es_correcta": false },
+        { "id": 2, "texto": "A través de la constitución de derechos de usufructo", "es_correcta": false },
+        { "id": 3, "texto": "Mediante el pago de la cosecha de los frutos", "es_correcta": false },
+        { "id": 4, "texto": "El pago o satisfacción directos por parte del obligado, de las necesidades del beneficiario que determine el Juez", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "¿Cuál es la condición que debe preceder para la aplicación de las medidas cautelares reales a los obligados subsidiarios?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Que los obligados subsidiarios tengan bienes inmuebles para garantizar el pago de la pensión alimenticia", "es_correcta": false },
+        { "id": 2, "texto": "Que los progenitores no se encuentren en el país", "es_correcta": false },
+        { "id": 3, "texto": "Que los obligados subsidiarios tengan ingresos fijos", "es_correcta": false },
+        { "id": 4, "texto": "Que hayan sido legalmente citados con la demanda", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "¿Cuál de las siguientes opciones sobre las inhabilidades del deudor de alimentos es incorrecta?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ser candidato/a a cualquier dignidad de elección popular", "es_correcta": false },
+        { "id": 2, "texto": "Ocupar cargo público para el cual hubiere sido seleccionado/a en concurso público o por designación", "es_correcta": false },
+        { "id": 3, "texto": "Enajenar bienes muebles o inmuebles, salvo que los beneficios sean directamente para el pago de alimentos adeudados, en cuyo caso se requerirá autorización judicial", "es_correcta": false },
+        { "id": 4, "texto": "Prestar garantías prendarias o hipotecarias", "es_correcta": false },
+        { "id": 5, "texto": "Sufragar en las elecciones periódicas convocadas por el CNE", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "¿De las siguientes opciones, cuál es la incorrecta: quiénes tienen la legitimación activa para solicitar la limitación, suspensión o privación de la patria potestad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El padre o la madre que no se encuentre afectado por alguna de las causales que justifique dichas medidas", "es_correcta": false },
+        { "id": 2, "texto": "Los parientes hasta el tercer grado de consanguinidad", "es_correcta": true },
+        { "id": 3, "texto": "La Junta Cantonal de Protección de Derechos, de oficio o a petición de parte", "es_correcta": false },
+        { "id": 4, "texto": "Los representantes legales o directores de las entidades de atención en que se encuentra un niño, niña o adolescente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "¿En qué momento procesal el juez puede ordenar las medidas de protección para el NNA y sus progenitores con el objeto de favorecer las circunstancias que justifiquen una posterior restitución de la patria potestad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En la calificación de la demanda", "es_correcta": false },
+        { "id": 2, "texto": "En la audiencia única de conciliación", "es_correcta": false },
+        { "id": 3, "texto": "En la resolución", "es_correcta": true },
+        { "id": 4, "texto": "En la apelación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "¿Por qué las resoluciones sobre tenencia no causan ejecutoria?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los padres pueden solicitar la tenencia en cualquier momento", "es_correcta": false },
+        { "id": 2, "texto": "Los progenitores pueden desistir de la tenencia en cualquier momento", "es_correcta": false },
+        { "id": 3, "texto": "El Juez podrá alterarlas en cualquier momento si se prueba que ello conviene al adecuado goce y ejercicio de los derechos del hijo o hija de familia", "es_correcta": true },
+        { "id": 4, "texto": "El juez podrá alterarlas en cualquier momento si él prueba que ello conviene al adecuado goce y ejercicio de los derechos del hijo o hija de familia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 24,
+      "texto": "¿Cuál es la opción incorrecta en el siguiente enunciado: cuál es la forma de regular el régimen de visitas por parte del juez?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se respetará lo que acuerden los progenitores siempre que ello no perjudique los derechos del hijo o la hija", "es_correcta": false },
+        { "id": 2, "texto": "La opinión de los hijos e hijas menores de ocho años, será valorada por el Juez, considerando el grado de desarrollo de quien lo emita. La de los adolescentes será obligatoria para el Juez, a menos que sea manifiestamente perjudicial para su desarrollo integral", "es_correcta": true },
+        { "id": 3, "texto": "La opinión de los hijos e hijas menores de doce años, será valorada por el Juez, considerando el grado de desarrollo de quien lo emita. La de los adolescentes será obligatoria para el Juez, a menos que sea manifiestamente perjudicial para desarrollo integral", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "¿Desde qué momento tiene derecho la mujer embarazada a recibir alimentos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La mujer embarazada tiene derecho, desde el momento de la concepción", "es_correcta": true },
+        { "id": 2, "texto": "La mujer embarazada tiene derecho, desde el momento que nace el niño", "es_correcta": false },
+        { "id": 3, "texto": "La mujer embarazada tiene derecho, desde el momento que le inscribió en el Registro Civil al recién nacido", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "¿Cuál es la respuesta incorrecta: para qué son los alimentos que recibe la mujer embarazada?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Para la atención de sus necesidades de alimentación, salud, vestuario", "es_correcta": false },
+        { "id": 2, "texto": "Para la atención de sus necesidades de vivienda, atención del parto, puerperio", "es_correcta": false },
+        { "id": 3, "texto": "Para la atención durante el periodo de lactancia por un tiempo de doce meses contados desde el nacimiento del hijo o hija", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false },
+        { "id": 5, "texto": "Ninguna de las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "¿Por qué el derecho de alimentos es personal según el Código Civil?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Porque no puede ser cedido, vendido, renunciado ni transmitido por donación entre vivos", "es_correcta": true },
+        { "id": 2, "texto": "Porque no puede ser cedido, vendido, renunciado ni transmitido entre cónyuges", "es_correcta": false },
+        { "id": 3, "texto": "Porque no puede ser cedido, vendido, renunciado ni transmitido por causa de muerte", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false },
+        { "id": 5, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "¿A qué están sujetas las asignaciones alimenticias otorgadas por testamento o donación entre vivos según el Código Civil?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "A la decisión de los progenitores", "es_correcta": false },
+        { "id": 2, "texto": "A la decisión de los obligados subsidiarios", "es_correcta": false },
+        { "id": 3, "texto": "A la decisión del testador o donante", "es_correcta": true },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false },
+        { "id": 5, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "En juicios o procesos relacionados con violencia intrafamiliar, reclamos de filiación, separación de bienes o divorcio y en estos se contemple la posibilidad de solicitar alimentos, ¿qué cuerpo legal se aplicará?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Constitución de la República", "es_correcta": false },
+        { "id": 2, "texto": "Código Civil", "es_correcta": false },
+        { "id": 3, "texto": "Código de la Niñez y Adolescencia", "es_correcta": true },
+        { "id": 4, "texto": "Todos los anteriores", "es_correcta": false },
+        { "id": 5, "texto": "Ninguno de los anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "Sobre adolescentes infractores, las medidas cautelares tienen por objeto:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Asegurar que no se enajenen los bienes de los progenitores para que estos se responsabilicen de los actos de sus hijos", "es_correcta": false },
+        { "id": 2, "texto": "Asegurar que los adolescentes comparezcan al juicio", "es_correcta": false },
+        { "id": 3, "texto": "Asegurar el pago de la reparación integral en favor de la víctima", "es_correcta": false },
+        { "id": 4, "texto": "Asegurar la inmediación del adolescente con el proceso y su eventual responsabilidad civil", "es_correcta": true }
+      ]
+    }
+  ]
+}
