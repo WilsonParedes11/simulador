@@ -1,6 +1,15 @@
 {
   "materias_disponibles": [
     {
+      "id": "completo",
+      "nombre": "Cuestionario Completo",
+      "archivo": "completo",
+      "icon": "🎯",
+      "color": "orange",
+      "total_preguntas": 283,
+      "descripcion": "Todas las materias combinadas en orden aleatorio para práctica integral"
+    },
+    {
       "id": "constitucional",
       "nombre": "Derecho Constitucional",
       "archivo": "cuestionario-constitucional.json",
@@ -50,7 +59,7 @@
       "nombre": "Derecho de Familia",
       "archivo": "cuestionario-familia.json",
       "icon": "👪",
-      "color": "cyan",
+      "color": "blue",
       "total_preguntas": 30,
       "descripcion": "Matrimonio, divorcio, filiación y adopción"
     }

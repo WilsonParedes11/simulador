@@ -4,6 +4,19 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
   const [seleccionada, setSeleccionada] = useState(null);
   const [respondida, setRespondida] = useState(false);
 
+  const getMateriaColorClasses = (color) => {
+    const colorMap = {
+      blue: 'bg-blue-100 text-blue-800',
+      red: 'bg-red-100 text-red-800',
+      green: 'bg-green-100 text-green-800',
+      purple: 'bg-purple-100 text-purple-800',
+      orange: 'bg-orange-100 text-orange-800',
+      cyan: 'bg-cyan-100 text-cyan-800',
+      gray: 'bg-gray-100 text-gray-800'
+    };
+    return colorMap[color] || colorMap.gray;
+  };
+
   // Este useEffect se ejecuta cada vez que cambia la pregunta
   // y resetea el estado del componente
   useEffect(() => {
@@ -123,6 +136,13 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
       <div className="bg-white rounded-2xl shadow-xl border border-gray-100 overflow-hidden">
         {/* Header de la pregunta */}
         <div className="bg-gradient-to-r from-blue-50 to-purple-50 p-4 sm:p-6 border-b border-gray-100">
+          {pregunta.materia_origen && (
+            <div className="mb-3">
+              <span className={`inline-flex items-center px-3 py-1 rounded-full text-xs font-medium ${getMateriaColorClasses(pregunta.materia_color)}`}>
+                📚 {pregunta.materia_origen}
+              </span>
+            </div>
+          )}
           <h2 className="text-lg sm:text-xl lg:text-2xl font-bold text-gray-800 leading-relaxed">
             {pregunta.texto}
           </h2>

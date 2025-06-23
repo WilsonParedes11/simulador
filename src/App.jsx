@@ -34,16 +34,86 @@ function App() {
   const seleccionarMateria = async (materia) => {
     setLoading(true);
     try {
-      const response = await fetch(`/${materia.archivo}`);
-      if (!response.ok) throw new Error(`Error al cargar ${materia.nombre}`);
-      const data = await response.json();
-      setDatos(data);
+      if (materia.id === 'completo') {
+        // Cargar todas las materias y combinar preguntas
+        const todasLasPreguntas = await cargarCuestionarioCompleto();
+        setDatos({
+          materia: {
+            nombre: 'Cuestionario Completo',
+            descripcion: 'Todas las materias combinadas'
+          },
+          preguntas: todasLasPreguntas
+        });
+      } else {
+        // Cargar materia individual
+        const response = await fetch(`/${materia.archivo}`);
+        if (!response.ok) throw new Error(`Error al cargar ${materia.nombre}`);
+        const data = await response.json();
+        setDatos(data);
+      }
       setMateriaSeleccionada(materia);
       setLoading(false);
     } catch (error) {
       setError(error.message);
       setLoading(false);
     }
+  };
+
+  const cargarCuestionarioCompleto = async () => {
+    const archivos = [
+      'cuestionario-constitucional.json',
+      'cuestionario-laboral.json',
+      'cuestionario-penal.json',
+      'cuestionario-administrativo.json',
+      'cuestionario-civil.json',
+      'cuestionario-familia.json'
+    ];
+
+    const todasLasPreguntas = [];
+    let contadorId = 1;
+
+    for (const archivo of archivos) {
+      try {
+        const response = await fetch(`/${archivo}`);
+        if (response.ok) {
+          const data = await response.json();
+          // Agregar información de la materia a cada pregunta y asignar ID único
+          const preguntasConMateria = data.preguntas.map(pregunta => ({
+            ...pregunta,
+            id: contadorId++,
+            materia_origen: data.materia.nombre,
+            materia_color: getColorForMateria(data.materia.nombre)
+          }));
+          todasLasPreguntas.push(...preguntasConMateria);
+        }
+      } catch (error) {
+        console.warn(`No se pudo cargar ${archivo}:`, error);
+      }
+    }
+
+    // Mezclar las preguntas aleatoriamente
+    return mezclarArray(todasLasPreguntas);
+  };
+
+  const getColorForMateria = (nombreMateria) => {
+    const colores = {
+      'Derecho Constitucional': 'blue',
+      'Derecho Laboral': 'red',
+      'Derecho Penal': 'green',
+      'Derecho Administrativo': 'purple',
+      'Derecho Civil': 'orange',
+      'Derecho de Familia': 'cyan'
+    };
+    return colores[nombreMateria] || 'gray';
+  };
+
+  const mezclarArray = (array) => {
+    const arrayMezclado = [...array];
+    for (let i = arrayMezclado.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arrayMezclado[i], arrayMezclado[j]] = [arrayMezclado[j], arrayMezclado[i]];
+    }
+    return arrayMezclado;
   };
 
   const volverAMaterias = () => {
@@ -60,6 +130,15 @@ function App() {
     setActual(0);
     setPuntaje(0);
     setCompletado(false);
+    
+    // Si es el cuestionario completo, volver a mezclar las preguntas
+    if (materiaSeleccionada?.id === 'completo' && datos?.preguntas) {
+      const preguntasMezcladas = mezclarArray(datos.preguntas);
+      setDatos(prev => ({
+        ...prev,
+        preguntas: preguntasMezcladas
+      }));
+    }
   };
 
   const siguiente = (respuestaCorrecta) => {
