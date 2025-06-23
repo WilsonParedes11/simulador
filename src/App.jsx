@@ -10,7 +10,6 @@ function App() {
   const [actual, setActual] = useState(0);
   const [puntaje, setPuntaje] = useState(0);
   const [completado, setCompletado] = useState(false);
-  const [respuestasUsuario, setRespuestasUsuario] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -54,18 +53,21 @@ function App() {
     setActual(0);
     setPuntaje(0);
     setCompletado(false);
-    setRespuestasUsuario([]);
   };
 
   const iniciar = () => {
     setIniciado(true);
     setActual(0);
     setPuntaje(0);
-    setRespuestasUsuario([]);
     setCompletado(false);
   };
 
-  const siguiente = () => {
+  const siguiente = (respuestaCorrecta) => {
+    // Actualizar puntaje si la respuesta fue correcta
+    if (respuestaCorrecta) {
+      setPuntaje(prev => prev + 1);
+    }
+    
     if (actual < datos.preguntas.length - 1) {
       setActual(prev => prev + 1);
     } else {
@@ -78,7 +80,6 @@ function App() {
     setActual(0);
     setPuntaje(0);
     setCompletado(false);
-    setRespuestasUsuario([]);
   };
 
   const calcularPorcentaje = () => {

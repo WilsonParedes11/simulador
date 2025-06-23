@@ -9,7 +9,7 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
   useEffect(() => {
     setSeleccionada(null);
     setRespondida(false);
-  }, [pregunta.id || questionNumber]); // Resetea cuando cambia la pregunta
+  }, [pregunta, questionNumber]); // Resetea cuando cambia la pregunta
 
   const handleSeleccion = (opcion) => {
     if (!respondida) {
@@ -84,13 +84,16 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
   };
 
   const handleNext = () => {
+    // Determinar si la respuesta seleccionada fue correcta
+    const respuestaCorrecta = seleccionada?.es_correcta || false;
+    
     // Resetear el estado antes de ir a la siguiente pregunta
     setSeleccionada(null);
     setRespondida(false);
     
-    // Llamar a la función onNext
+    // Llamar a la función onNext pasando si la respuesta fue correcta
     if (onNext) {
-      onNext();
+      onNext(respuestaCorrecta);
     }
   };
 
@@ -193,14 +196,7 @@ const PreguntaCard = ({ pregunta, onNext, questionNumber, totalQuestions }) => {
         )}
       </div>
 
-      {/* Debug info - remover en producción */}
-      {process.env.NODE_ENV === 'development' && (
-        <div className="mt-4 p-2 bg-gray-100 rounded text-xs text-gray-600">
-          Debug: Pregunta ID: {pregunta.id || 'N/A'} | 
-          Seleccionada: {seleccionada?.id || 'Ninguna'} | 
-          Respondida: {respondida ? 'Sí' : 'No'}
-        </div>
-      )}
+      {/* Debug info - removido */}
     </div>
   );
 };
