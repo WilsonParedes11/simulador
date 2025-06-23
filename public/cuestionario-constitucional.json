@@ -309,10 +309,10 @@
       "texto": "De acuerdo a la CRE, El Estado adoptará medidas de acción afirmativa para garantizar la participación de los sectores:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Discriminados.", "es_correcta": false },
+        { "id": 1, "texto": "Discriminados.", "es_correcta": true },
         { "id": 2, "texto": "Separados.", "es_correcta": false },
         { "id": 3, "texto": "Aislados.", "es_correcta": false },
-        { "id": 4, "texto": "Excluidos.", "es_correcta": true }
+        { "id": 4, "texto": "Excluidos.", "es_correcta": false }
       ]
     },
     {
@@ -504,28 +504,50 @@
     },
     {
       "id": 46,
-      "texto": "La Constitución de la República establece la propiedad del Estado sobre los Recursos Naturales no renovables. De las siguientes opciones determine cuáles son recursos naturales no renovables.",
+      "texto": "La Constitución de la República establece que La educación superior pública será gratuita hasta el",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Yacimientos minerales, mar territorial, biodiversidad y patrimonio genético.", "es_correcta": false },
-        { "id": 2, "texto": "Yacimientos de hidrocarburos, lagos, lagunas, rios, biodiversidad, suelo.", "es_correcta": false },
-        { "id": 3, "texto": "Productos del subsuelo, yacimientos minerales y de hidrocarburos, substancias cuya naturaleza sea distinta de la del suelo.", "es_correcta": true },
-        { "id": 4, "texto": "Naturaleza, depósitos de hidrocarburos, espectro eléctrico", "es_correcta": false }
+        { "id": 1, "texto": "Primer Nivel.", "es_correcta": false },
+        { "id": 2, "texto": "Segundo Nivel", "es_correcta": false },
+        { "id": 3, "texto": "Tercer Nivel", "es_correcta": true },
+        { "id": 4, "texto": "Cuarto Nivel", "es_correcta": false }
       ]
     },
     {
       "id": 47,
-      "texto": "La Constitución de la República del Ecuador establece que los tratados internacionales ratificados por el Ecuador se sujetarán a lo establecido en la Constitución. En el caso de los tratados y otros instrumentos internacionales de derechos humanos se aplicará uno de los siguientes principios. Identifique cuál de los siguientes es el principio correcto.",
+      "texto": "La Constitución de la República establece prohibición de aplicación de biotecnologías peligrosas; por ello, declara al Ecuador libre de cultivos y semillas transgénicas. Determine la excepcionalidad para introducir semillas y cultivos genéticamente modificados:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Principio de progresividad", "es_correcta": true },
-        { "id": 2, "texto": "Principio de no regresividad", "es_correcta": false },
-        { "id": 3, "texto": "Principio pro ser humano.", "es_correcta": false },
-        { "id": 4, "texto": "Principio de igualdad.", "es_correcta": false }
+        { "id": 1, "texto": "No existe excepcionalidad para la introducción de cultivos y semillas transgénicas", "es_correcta": false },
+        { "id": 2, "texto": "Interés nacional debidamente fundamentado por la Presidencia de la República y aprobado por la Asamblea Nacional.", "es_correcta": true },
+        { "id": 3, "texto": "Interés nacional fundamentado por el Ejecutivo y aprobado mediante dictamen favorable por la Corte Constitucional", "es_correcta": false },
+        { "id": 4, "texto": "Interés nacional fundamentado por la Asamblea Nacional y aprobado mediante consulta popular.", "es_correcta": false }
       ]
     },
     {
       "id": 48,
+      "texto": "La Constitución de la República establece la propiedad del Estado sobre los Recursos Naturales no renovables. De las siguientes opciones determine cuáles son recursos naturales no renovables.",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Yacimientos minerales, mar territorial, biodiversidad y patrimonio genético.", "es_correcta": false },
+        { "id": 2, "texto": "Yacimientos de hidrocarburos, lagos, lagunas, ríos, biodiversidad, suelo.", "es_correcta": false },
+        { "id": 3, "texto": "Productos del subsuelo, yacimientos minerales y de hidrocarburos, substancias cuya naturaleza sea distinta de la del suelo", "es_correcta": true },
+        { "id": 4, "texto": "Naturaleza, depósitos de hidrocarburos, espectro eléctrico", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 49,
+      "texto": "La Constitución de la República del Ecuador establece que los tratados internacionales ratificados por el Ecuador se sujetarán a lo establecido en la Constitución. En el caso de los tratados y otros instrumentos internacionales de derechos humanos se aplicará uno de los siguientes principios. Identifique cuál de los siguientes es el principio correcto.",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de progresividad", "es_correcta": false },
+        { "id": 2, "texto": "Principio de no regresividad", "es_correcta": false },
+        { "id": 3, "texto": "Principio pro ser humano.", "es_correcta": true },
+        { "id": 4, "texto": "Principio de igualdad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 50,
       "texto": "En su Art. 424 de la norma jerárquica superior establece que la Constitución es:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -536,19 +558,19 @@
       ]
     },
     {
-      "id": 49,
-      "texto": "En cuanto a la propiedad de los medios de comunicación y del uso de las frecuencias, ¿qué prohibe la Constitución de la República del Ecuador?",
+      "id": 51,
+      "texto": "En cuanto a la propiedad de los medios de comunicación y del uso de las frecuencias, ¿qué prohíbe la Constitución de la República del Ecuador",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "No permite que se hable de temas sexuales.", "es_correcta": false },
         { "id": 2, "texto": "No permite los créditos bancarios.", "es_correcta": false },
         { "id": 3, "texto": "No permitirá el oligopolio o monopolio, directo ni indirecto.", "es_correcta": true },
-        { "id": 4, "texto": "Prohibe que los medios de comunicación arrienden un inmueble.", "es_correcta": false }
+        { "id": 4, "texto": "Prohíbe que los medios de comunicación arrienden un inmueble.", "es_correcta": false }
       ]
     },
     {
-      "id": 50,
-      "texto": "Son ecuatorianos por naturalización:",
+      "id": 52,
+      "texto": "Son ecuatorianos por naturalización:?",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Las que obtengan la carta de Naturalización.", "es_correcta": true },
@@ -558,8 +580,8 @@
       ]
     },
     {
-      "id": 51,
-      "texto": "De acuerdo a la CRE ¿A través de qué garantiza el Estado los derechos de las jóvenes y los jóvenes?",
+      "id": 53,
+      "texto": "De acuerdo a la CRE ¿A través de que garantiza el Estado los derechos de las jóvenes y los jóvenes?",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Plazas de trabajo", "es_correcta": false },
@@ -569,7 +591,7 @@
       ]
     },
     {
-      "id": 52,
+      "id": 54,
       "texto": "De acuerdo a la CRE: ¿Qué derecho se reconoce de acuerdo a los instrumentos internacionales de derechos humanos?",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -580,7 +602,7 @@
       ]
     },
     {
-      "id": 53,
+      "id": 55,
       "texto": "De acuerdo a la Constitución de la República del Ecuador: ¿En la formulación, ejecución, evaluación y control de las políticas públicas y servicios públicos se garantizará la participación de?",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -591,7 +613,7 @@
       ]
     },
     {
-      "id": 54,
+      "id": 56,
       "texto": "De acuerdo a la Constitución de la República del Ecuador; ¿A quién garantizará el Estado la cláusula de conciencia?",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -602,7 +624,7 @@
       ]
     },
     {
-      "id": 55,
+      "id": 57,
       "texto": "De acuerdo a la Constitución de la República del Ecuador: Las personas tienen derecho a desarrollar su capacidad creativa, al ejercicio digno y sostenido de las actividades culturales y artísticas, y a beneficiarse de la:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -613,7 +635,7 @@
       ]
     },
     {
-      "id": 56,
+      "id": 58,
       "texto": "En materia constitucional los Derechos y Garantias establecidos en la Constitución y en los instrumentos internacionales de Derechos Humanos serán de directa e inmediata aplicación, por y ante cualquier:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -624,7 +646,7 @@
       ]
     },
     {
-      "id": 57,
+      "id": 59,
       "texto": "DE ACUERDO A LA CRE: ¿Los derechos se podrán ejercer, promover y exigir de qué forma?",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -635,7 +657,7 @@
       ]
     },
     {
-      "id": 58,
+      "id": 60,
       "texto": "El ejercicio de los derechos se regirá por los siguientes principios constitucionales: establece el reconocimiento de los derechos y garantias establecidos en la Constitución y en los instrumentos internacionales de derechos humanos, no excluirá los demás derechos derivados de la:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -646,7 +668,7 @@
       ]
     },
     {
-      "id": 59,
+      "id": 61,
       "texto": "De acuerdo a la Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional; en los métodos y reglas de interpretación constitucional, encontramos la PONDERACIÓN. - Se deberá establecer una relación de preferencia entre los principios y normas, condicionada a las:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -657,7 +679,7 @@
       ]
     },
     {
-      "id": 60,
+      "id": 62,
       "texto": "De acuerdo a la Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 14.- Audiencia que tiempo determina para el accionante y la persona afectada para intervenir y réplicar. Escoja la respuesta correcta:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -668,7 +690,7 @@
       ]
     },
     {
-      "id": 61,
+      "id": 63,
       "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 9 Legitimación activa. - Las acciones para hacer efectivas las garantias jurisdiccionales previstas en la Constitución y esta ley, podrán ser ejercidas:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -679,7 +701,7 @@
       ]
     },
     {
-      "id": 62,
+      "id": 64,
       "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 17.- Contenido de la sentencia dentro de esto encontramos los Fundamentos de Derecho, a que se refiere.",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -690,7 +712,7 @@
       ]
     },
     {
-      "id": 63,
+      "id": 65,
       "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 24 nos habla acerca de la apelación: en cuantos dias hábiles podrán apelar.",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -701,18 +723,18 @@
       ]
     },
     {
-      "id": 64,
+      "id": 66,
       "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 31; establece cómo será El procedimiento para ordenar medidas cautelares:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "será formal, sencillo, expedito y eficaz en todas sus fases", "es_correcta": true },
+        { "id": 1, "texto": "será formal, sencillo, expedito y eficaz en todas sus fases", "es_correcta": false },
         { "id": 2, "texto": "será formal, sencillo, breve y eficaz en todas sus fases", "es_correcta": false },
         { "id": 3, "texto": "será informal, sencillo, temporal y eficaz en todas sus etapas", "es_correcta": false },
-        { "id": 4, "texto": "será informal, sencillo, rápido y eficaz en todas sus fases", "es_correcta": false }
+        { "id": 4, "texto": "será informal, sencillo, rápido y eficaz en todas sus fases", "es_correcta": true }
       ]
     },
     {
-      "id": 65,
+      "id": 67,
       "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 41 nos habla acerca de Procedencia y legitimación pasiva; La acción de protección procede contra:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -723,7 +745,7 @@
       ]
     },
     {
-      "id": 66,
+      "id": 68,
       "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 50; Ambito de protección. - Se podrá interponer la acción de hábeas data en los siguientes casos:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -734,7 +756,7 @@
       ]
     },
     {
-      "id": 67,
+      "id": 69,
       "texto": "Ley Orgánica de Garantias Jurisdiccionales y Control Constitucional en su Art. 52; La acción por incumplimiento tiene por objeto:",
       "tipo": "opcion_multiple",
       "opciones": [
@@ -745,54 +767,31 @@
       ]
     },
     {
-  "id": 68,
-  "texto": "Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional en su capítulo VIII Acción Extraordinaria de Protección; en su Art. 60 El término máximo para la interposición de la acción será:",
-  "tipo": "opcion_multiple",
-  "opciones": [
-    {
-      "id": 1,
-      "texto": "De veinte días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
-      "es_correcta": true
-    },
-    {
-      "id": 2,
-      "texto": "De tres días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
-      "es_correcta": false
-    },
-    {
-      "id": 3,
-      "texto": "De cinco días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
-      "es_correcta": false
-    },
-    {
-      "id": 4,
-      "texto": "De quince días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
-      "es_correcta": false
-    }
-  ]
-},
-
-    {
-      "id": 69,
-      "texto": "La Constitución de la República establece que La educación superior pública será gratuita hasta el:",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Primer Nivel", "es_correcta": false },
-        { "id": 2, "texto": "Segundo Nivel", "es_correcta": false },
-        { "id": 3, "texto": "Tercer Nivel", "es_correcta": true },
-        { "id": 4, "texto": "Cuarto Nivel", "es_correcta": false }
-      ]
-    },
-    {
       "id": 70,
-      "texto": "La Constitución de la República establece prohibición de aplicación de biotecnologías peligrosas; por ello, declara al Ecuador libre de cultivos y semillas transgénicas. Determine la excepcionalidad para introducir semillas y cultivos genéticamente modificados:",
+      "texto": "Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional en su capítulo VIII Acción Extraordinaria de Protección; en su Art. 60 El término máximo para la interposición de la acción será:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "No existe excepcionalidad para la introducción de cultivos y semillas transgénicas", "es_correcta": false },
-        { "id": 2, "texto": "Interés nacional debidamente fundamentado por la Presidencia de la República y aprobado por la Asamblea Nacional.", "es_correcta": true },
-        { "id": 3, "texto": "Interés nacional fundamentado por el Ejecutivo y aprobado mediante dictamen favorable por la Corte Constitucional", "es_correcta": false },
-        { "id": 4, "texto": "Interés nacional fundamentado por la Asamblea Nacional y aprobado mediante consulta popular.", "es_correcta": false }
-      ]
+        {
+          "id": 1,
+          "texto": "De veinte días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
+          "es_correcta": true
+        },
+        {
+          "id": 2,
+          "texto": "De tres días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
+          "es_correcta": false
+        },
+        {
+          "id": 3,
+          "texto": "De cinco días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
+          "es_correcta": false
+        },
+        {
+          "id": 4,
+          "texto": "De quince días contados desde la notificación de la decisión judicial a la que se imputa la violación del derecho constitucional",
+          "es_correcta": false
+        }
+        ]
     }
   ]
   
