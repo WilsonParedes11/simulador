@@ -545,6 +545,182 @@
         { "id": 3, "texto": "Solicitar una orden judicial", "es_correcta": false },
         { "id": 4, "texto": "Notificar a la policía", "es_correcta": false }
       ]
+    },
+    {
+      "id": 50,
+      "texto": "¿Qué principio regula que las personas puedan impugnar un acto administrativo cuando consideran que vulnera sus derechos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de buena fe", "es_correcta": false },
+        { "id": 2, "texto": "Principio de impugnación", "es_correcta": true },
+        { "id": 3, "texto": "Principio de coordinación", "es_correcta": false },
+        { "id": 4, "texto": "Principio de equidad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 51,
+      "texto": "¿Qué principio establece que los procedimientos administrativos deben ser conforme a las expectativas razonables que las administraciones públicas han generado?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de responsabilidad", "es_correcta": false },
+        { "id": 2, "texto": "Principio de confianza legítima", "es_correcta": true },
+        { "id": 3, "texto": "Principio de participación", "es_correcta": false },
+        { "id": 4, "texto": "Principio de eficacia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 52,
+      "texto": "¿Qué tipo de acto administrativo corresponde cuando una autoridad pública adopta una decisión que afecta a un particular de forma individual?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Acto de simple administración", "es_correcta": false },
+        { "id": 2, "texto": "Acto administrativo normativo", "es_correcta": false },
+        { "id": 3, "texto": "Acto administrativo individual", "es_correcta": true },
+        { "id": 4, "texto": "Hecho administrativo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 53,
+      "texto": "¿Qué medida se aplica cuando una persona considera que un acto administrativo vulnera sus derechos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Recurso jerárquico", "es_correcta": false },
+        { "id": 2, "texto": "Procedimiento sancionador", "es_correcta": false },
+        { "id": 3, "texto": "Recurso de nulidad", "es_correcta": true },
+        { "id": 4, "texto": "Procedimiento administrativo ordinario", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 54,
+      "texto": "¿Cuál es el derecho que tienen las personas frente a las administraciones públicas cuando consideran que no se les ha dado respuesta a su petición?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Derecho a la buena administración", "es_correcta": false },
+        { "id": 2, "texto": "Derecho a la información", "es_correcta": false },
+        { "id": 3, "texto": "Derecho de petición", "es_correcta": true },
+        { "id": 4, "texto": "Derecho a la participación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 55,
+      "texto": "¿Qué principio establece que las administraciones públicas deben actuar respetando la ley y los principios jurídicos aplicables, garantizando la igualdad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de proporcionalidad", "es_correcta": false },
+        { "id": 2, "texto": "Principio de interdicción de la arbitrariedad", "es_correcta": true },
+        { "id": 3, "texto": "Principio de buena fe", "es_correcta": false },
+        { "id": 4, "texto": "Principio de planificación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 56,
+      "texto": "¿Qué principio prohíbe la interpretación arbitraria por parte de los órganos administrativos al ejercer sus potestades discrecionales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de imparcialidad", "es_correcta": false },
+        { "id": 2, "texto": "Principio de transparencia", "es_correcta": false },
+        { "id": 3, "texto": "Principio de juridicidad", "es_correcta": false },
+        { "id": 4, "texto": "Principio de interdicción de la arbitrariedad", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 57,
+      "texto": "En caso de conflicto de competencias entre órganos administrativos, ¿quién es el encargado de resolverlo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El juez", "es_correcta": false },
+        { "id": 2, "texto": "La máxima autoridad administrativa", "es_correcta": true },
+        { "id": 3, "texto": "El comité ejecutivo", "es_correcta": false },
+        { "id": 4, "texto": "El tribunal de arbitraje", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 58,
+      "texto": "¿Qué implican las prohibiciones para las administraciones públicas con competencia normativa?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No pueden restringir derechos constitucionales", "es_correcta": true },
+        { "id": 2, "texto": "No pueden crear leyes", "es_correcta": false },
+        { "id": 3, "texto": "No pueden regular asuntos económicos", "es_correcta": false },
+        { "id": 4, "texto": "No pueden delegar sus competencias", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 59,
+      "texto": "¿Qué efecto tiene el silencio administrativo positivo en un procedimiento iniciado por la persona interesada?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Suspende automáticamente el procedimiento", "es_correcta": false },
+        { "id": 2, "texto": "Autoriza a la persona a reclamar judicialmente", "es_correcta": false },
+        { "id": 3, "texto": "Da por resuelto favorable el pedido de la persona interesada", "es_correcta": true },
+        { "id": 4, "texto": "Se considera que el procedimiento es rechazado", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 60,
+      "texto": "¿Qué procedimiento sigue la administración cuando debe transferir bienes inmuebles sin registrar?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Subasta pública", "es_correcta": false },
+        { "id": 2, "texto": "Venta directa", "es_correcta": false },
+        { "id": 3, "texto": "Trámite administrativo interno", "es_correcta": false },
+        { "id": 4, "texto": "Proceso de regularización", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 61,
+      "texto": "¿Qué acción debe tomar la máxima autoridad administrativa si un órgano no ha especificado la competencia de otro?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Asignar la competencia a un órgano de menor rango", "es_correcta": false },
+        { "id": 2, "texto": "Determinar el órgano encargado de la competencia", "es_correcta": true },
+        { "id": 3, "texto": "Transferir la competencia a una autoridad externa", "es_correcta": false },
+        { "id": 4, "texto": "Suspender la competencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 62,
+      "texto": "¿Qué tipo de medida puede adoptar un órgano administrativo para resolver un conflicto de competencias?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Revocar la delegación de la competencia", "es_correcta": false },
+        { "id": 2, "texto": "Transferir la competencia a otro órgano", "es_correcta": false },
+        { "id": 3, "texto": "Resolver el conflicto por la máxima autoridad", "es_correcta": true },
+        { "id": 4, "texto": "Suspender temporalmente el procedimiento", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 63,
+      "texto": "En el caso de delegación de competencias, ¿qué es necesario especificar en el acto de delegación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La fecha de la delegación", "es_correcta": false },
+        { "id": 2, "texto": "Las competencias delegadas y el plazo", "es_correcta": true },
+        { "id": 3, "texto": "El órgano delegante y los responsables de los actos", "es_correcta": false },
+        { "id": 4, "texto": "El recurso de apelación correspondiente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 64,
+      "texto": "En la delegación de competencias ¿qué efecto tiene la decisión delegada?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se considera adoptada por el delegado", "es_correcta": false },
+        { "id": 2, "texto": "Debe ser ratificada por el órgano superior", "es_correcta": false },
+        { "id": 3, "texto": "Se considera adoptada por el órgano delegante", "es_correcta": true },
+        { "id": 4, "texto": "Se anula automáticamente si no se revisa", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 65,
+      "texto": "¿Qué ocurre si la delegación de competencias no se ajusta a los requisitos legales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La delegación es inválida", "es_correcta": true },
+        { "id": 2, "texto": "La delegación es automáticamente ratificada", "es_correcta": false },
+        { "id": 3, "texto": "El delegado debe revisar las competencias", "es_correcta": false },
+        { "id": 4, "texto": "Se iniciará un procedimiento disciplinario", "es_correcta": false }
+      ]
     }
   ]
 }
