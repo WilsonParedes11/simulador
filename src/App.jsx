@@ -65,8 +65,7 @@ function App() {
       'cuestionario-laboral.json',
       'cuestionario-penal.json',
       'cuestionario-administrativo.json',
-      'cuestionario-civil.json',
-      'cuestionario-familia.json'
+      'cuestionario-civil-2.json',
     ];
 
     const todasLasPreguntas = [];
