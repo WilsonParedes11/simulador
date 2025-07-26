@@ -33,7 +33,7 @@
       "archivo": "cuestionario-penal.json",
       "icon": "🔫",
       "color": "green",
-      "total_preguntas": 55,
+      "total_preguntas": 88,
       "descripcion": "Contratos, obligaciones y derechos reales"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "id": "civil",
-      "nombre": "Derecho Civil",
+      "nombre": "Derecho Civil-X",
       "archivo": "cuestionario-civil.json",
       "icon": "📜",
       "color": "orange",
@@ -56,7 +56,7 @@
     },
     {
       "id": "familia",
-      "nombre": "Derecho de Familia",
+      "nombre": "Derecho de Familia -X",
       "archivo": "cuestionario-familia.json",
       "icon": "👪",
       "color": "blue",
@@ -65,7 +65,7 @@
     },
      {
       "id": "civil_2",
-      "nombre": "Derecho de Civil 2",
+      "nombre": "Derecho de Civil y Familia",
       "archivo": "cuestionario-civil-2.json",
       "icon": "👪",
       "color": "blue",
