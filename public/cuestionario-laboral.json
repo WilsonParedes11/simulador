@@ -556,6 +556,501 @@
         { "id": 3, "texto": "El 35% de las utilidades líquidas", "es_correcta": false },
         { "id": 4, "texto": "El 10% de las utilidades líquidas", "es_correcta": false }
       ]
+    },
+    {
+      "id": 51,
+      "texto": "La remuneración de los trabajadores será inembargable salvo:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por obligaciones pendientes con el IESS", "es_correcta": false },
+        { "id": 2, "texto": "Deudas en las entidades financieras", "es_correcta": false },
+        { "id": 3, "texto": "Pago de pensiones alimenticias", "es_correcta": true },
+        { "id": 4, "texto": "Contratista fallido con el Estado", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 52,
+      "texto": "En los conflictos colectivos de trabajo si la conciliación no se produjere ¿cuántos días concede el tribunal para el término de prueba e indagaciones?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Seis días improrrogables", "es_correcta": true },
+        { "id": 2, "texto": "Seis días prorrogables", "es_correcta": false },
+        { "id": 3, "texto": "Siete días improrrogables", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 53,
+      "texto": "Si en una reunión del tribunal faltara uno de los vocales principales, ¿quién lo reemplazará en esta sesión?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Lo reemplazará el primer vocal principal en orden de nombramiento", "es_correcta": false },
+        { "id": 2, "texto": "Lo reemplazará el secretario del tribunal", "es_correcta": false },
+        { "id": 3, "texto": "Lo reemplazará uno de los suplentes, en orden de nombramiento", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 54,
+      "texto": "¿En qué mes el trabajador percibe una remuneración equivalente a la doceava parte de las remuneraciones?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Enero", "es_correcta": false },
+        { "id": 2, "texto": "Agosto", "es_correcta": false },
+        { "id": 3, "texto": "Noviembre", "es_correcta": false },
+        { "id": 4, "texto": "Diciembre", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 55,
+      "texto": "Los agentes de comercio o agentes viajeros son considerados:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Empleados privados", "es_correcta": false },
+        { "id": 2, "texto": "Empleados públicos", "es_correcta": false },
+        { "id": 3, "texto": "Trabajadores privados", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 56,
+      "texto": "Indique usted cuáles son los requerimientos para ser maestro de taller:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ser mayor de dieciocho años y tener título profesional conferido legalmente; Abrir, bajo dirección y responsabilidad personal, un taller y ponerlo al servicio del público; y Estar inscrito en la Dirección Nacional de Empleo y Recursos Humanos", "es_correcta": false },
+        { "id": 2, "texto": "Tener la edad de veinte años y tener título profesional conferido legalmente; Abrir, bajo dirección y responsabilidad de terceros, un taller y ponerlo al servicio del público; y No es necesaria la inscripción en ninguna entidad pública", "es_correcta": false },
+        { "id": 3, "texto": "Tener título profesional conferido legalmente; Abrir, bajo dirección y responsabilidad personal, un taller y ponerlo al servicio del público; y Estar inscrito en la Dirección Nacional de Empleo y Recursos Humanos", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 57,
+      "texto": "Indique usted cuáles son los requerimientos para ser artesano autónomo:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se considera artesano autónomo al que ejerce su oficio o arte manual, por cuenta propia, pero sin título de maestro, ni taller", "es_correcta": true },
+        { "id": 2, "texto": "Se considera artesano autónomo al que ejerce arte manual, por cuenta propia, pero con título de maestro, ni taller", "es_correcta": false },
+        { "id": 3, "texto": "A la persona que ejerce arte con maquinaria técnica y sistematizada, en un taller adecuado para el mismo", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 58,
+      "texto": "¿Qué es el derecho de huelga según el código de trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Huelga es la suspensión colectiva del trabajo para los patronos coligados", "es_correcta": false },
+        { "id": 2, "texto": "Huelga es la suspensión colectiva del trabajo por los trabajadores coligados", "es_correcta": true },
+        { "id": 3, "texto": "Huelga es la suspensión colectiva del trabajo por los empleadores coligados", "es_correcta": false },
+        { "id": 4, "texto": "Huelga es la suspensión individual del trabajo por los trabajadores coligados", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 59,
+      "texto": "¿Por cuántos trabajadores debe estar constituido un comité de empresa?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por más del cincuenta por ciento del total de trabajadores", "es_correcta": true },
+        { "id": 2, "texto": "Por más de veinticinco por ciento de los trabajadores", "es_correcta": false },
+        { "id": 3, "texto": "Por más del sesenta por ciento de los trabajadores", "es_correcta": false },
+        { "id": 4, "texto": "Por más del cuarenta por ciento de los trabajadores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 60,
+      "texto": "¿Quiénes tienen derecho para integrar un comité de empresa de trabajadores?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los trabajadores que están cumpliendo el período de prueba", "es_correcta": false },
+        { "id": 2, "texto": "Los trabajadores que tienen más de dos años en la empresa", "es_correcta": false },
+        { "id": 3, "texto": "Todos los trabajadores de la misma sin distinción alguna, sujetándose a los respectivos estatutos", "es_correcta": true },
+        { "id": 4, "texto": "Todos los trabajadores con contrato a destajo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 61,
+      "texto": "¿Cuál es el plazo máximo que tiene el Ministro de Trabajo una vez recibida la documentación para registrar el nombre y características de un sindicato o asociación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "60 días", "es_correcta": false },
+        { "id": 2, "texto": "30 días", "es_correcta": true },
+        { "id": 3, "texto": "3 meses", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 62,
+      "texto": "Según el código de trabajo, ¿quiénes están exentos del pago de utilidades?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Personas con discapacidad", "es_correcta": false },
+        { "id": 2, "texto": "Empleadores", "es_correcta": false },
+        { "id": 3, "texto": "Artesanos", "es_correcta": true },
+        { "id": 4, "texto": "Trabajadores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 63,
+      "texto": "¿Cuándo un empleador no preste los primeros auxilios a un trabajador que ha sufrido un accidente por fuerza mayor, se le impondrá una multa de?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "20 a 30", "es_correcta": false },
+        { "id": 2, "texto": "8 a 40", "es_correcta": false },
+        { "id": 3, "texto": "350 a 396", "es_correcta": false },
+        { "id": 4, "texto": "De 8 a 55", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 64,
+      "texto": "Los empleadores que cuenten con más de 10 trabajadores están obligados a elaborar un reglamento de higiene y seguridad. ¿Ante quién se deberá presentar tal reglamento para su aprobación y cada cuánto tiempo deberá ser renovado?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ante el inspector de trabajo de la localidad y deberá ser renovado cada año", "es_correcta": false },
+        { "id": 2, "texto": "Ante la máxima autoridad de la empresa cada 2 años", "es_correcta": false },
+        { "id": 3, "texto": "Ante el Ministerio de Trabajo por medio de la Dirección Regional del Trabajo cada 2 años", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 65,
+      "texto": "Según el Código de Trabajo, ¿cuáles son las consecuencias por accidente de trabajo para el efecto de pago de indemnizaciones a un trabajador?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Muerte, incapacidad parcial o absoluta para todo trabajo, disminución permanente de la capacidad para el trabajo, e incapacidad temporal", "es_correcta": false },
+        { "id": 2, "texto": "Muerte, incapacidad permanente y absoluta para todo trabajo, disminución permanente de la capacidad para el trabajo, e incapacidad temporal", "es_correcta": true },
+        { "id": 3, "texto": "Incapacidad permanente y absoluta, y disminución permanente para el trabajo", "es_correcta": false },
+        { "id": 4, "texto": "Muerte, disminución parcial de la capacidad para el trabajo, e incapacidad absoluta para todo trabajo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 66,
+      "texto": "¿Quiénes pueden oponerse a la obligatoriedad del contrato colectivo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se podrán oponer cualquier trabajador perteneciente a la misma industria en la provincia de que se trate, podrán presentar oposición motivada contra la aplicación obligatoria del contrato", "es_correcta": false },
+        { "id": 2, "texto": "Puede oponerse cualquier empresario, trabajador o grupo de empresarios o de trabajadores pertenecientes a la misma industria en la provincia de que se trate, podrán presentar oposición motivada contra la aplicación obligatoria del contrato ante el Ministerio", "es_correcta": false },
+        { "id": 3, "texto": "Cualquier empresario, trabajador o grupo de empresarios o de trabajadores pertenecientes a la misma industria en la provincia de que se trate, podrán presentar oposición motivada contra la aplicación obligatoria del contrato ante el inspector del trabajo", "es_correcta": true },
+        { "id": 4, "texto": "Se podrán oponer cualquier empresario industrial, trabajador o grupo de empresarios o de trabajadores pertenecientes a la misma industria en la provincia de que se trate", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 67,
+      "texto": "¿En qué tiempo se puede declarar la obligatoriedad del contrato colectivo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En el término de 8 días sin haberse presentado oposición", "es_correcta": false },
+        { "id": 2, "texto": "En el plazo de dieciocho días sin haberse presentado oposición", "es_correcta": false },
+        { "id": 3, "texto": "En el término de quince días sin haberse presentado oposición", "es_correcta": true },
+        { "id": 4, "texto": "En el tiempo de ocho días sin haberse presentado oposición", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 68,
+      "texto": "Según el artículo 172 numeral 3 del Código de Trabajo, el empleador puede dar por terminado el contrato de trabajo cuando:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por la falta de conducta inmoral dentro de la institución", "es_correcta": false },
+        { "id": 2, "texto": "Por falta de probidad o por conducta inmoral del trabajador", "es_correcta": true },
+        { "id": 3, "texto": "Por probidad o conducta moral del trabajador", "es_correcta": false },
+        { "id": 4, "texto": "Por falta de probidad o conducta inmoral del empleador", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 76,
+      "texto": "¿A quién le corresponde la fijación del período de vacaciones del trabajador cuando no se ha estipulado en el contrato escrito?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Al trabajador", "es_correcta": false },
+        { "id": 2, "texto": "Al empleador", "es_correcta": true },
+        { "id": 3, "texto": "Al inspector de trabajo", "es_correcta": false },
+        { "id": 4, "texto": "Al juez", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 77,
+      "texto": "¿En qué tiempo el aprendiz podrá obtener la categoría de operario o de obrero calificado?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "6 meses", "es_correcta": false },
+        { "id": 2, "texto": "1 año", "es_correcta": false },
+        { "id": 3, "texto": "En cualquier tiempo y en caso de oposición del empleador podrá pedir al juez de trabajo que se lo sujete a examen", "es_correcta": true },
+        { "id": 4, "texto": "En 6 meses pero deberá solicitar al juez de trabajo que se lo sujete a examen", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 78,
+      "texto": "¿Cuáles son las garantías del fondo de reserva?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No podrá ser embargado, cedido, ni renunciado", "es_correcta": true },
+        { "id": 2, "texto": "Puro y de plazo vencido", "es_correcta": false },
+        { "id": 3, "texto": "Pertinente y conducente", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 79,
+      "texto": "¿En caso de duda sobre las disposiciones legales, reglamentarias, o contractuales se aplicarán?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las disposiciones del Código Civil", "es_correcta": false },
+        { "id": 2, "texto": "Los Tratados Internacionales", "es_correcta": false },
+        { "id": 3, "texto": "La disposición legal más favorable al trabajador", "es_correcta": true },
+        { "id": 4, "texto": "El Estatuto Interno", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 80,
+      "texto": "¿El período de prueba establecido en el Código del Trabajo es de?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "120 días", "es_correcta": false },
+        { "id": 2, "texto": "90 días", "es_correcta": true },
+        { "id": 3, "texto": "1 año", "es_correcta": false },
+        { "id": 4, "texto": "15 días", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 81,
+      "texto": "A qué tipo de contrato de trabajo pertenece el siguiente enunciado: El trabajo se realiza por piezas, trozos o medidas o unidades de obra",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Contrato con período de prueba", "es_correcta": false },
+        { "id": 2, "texto": "Contrato eventual", "es_correcta": false },
+        { "id": 3, "texto": "Contrato a destajo", "es_correcta": true },
+        { "id": 4, "texto": "Contrato ocasional", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 82,
+      "texto": "¿Quiénes son hábiles para contratar?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los interdictos", "es_correcta": false },
+        { "id": 2, "texto": "Los que la ley reconoce con capacidad civil", "es_correcta": true },
+        { "id": 3, "texto": "Los menores de edad", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 83,
+      "texto": "¿Cuál es la jornada máxima de trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "5 horas diarias, 25 semanales en un período de cinco días", "es_correcta": false },
+        { "id": 2, "texto": "8 horas diarias, 40 semanales en un período de cinco días", "es_correcta": true },
+        { "id": 3, "texto": "9 horas diarias, 45 semanales en un período de cinco días", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 84,
+      "texto": "¿Cuántos días se otorgarán de vacaciones anuales al trabajador?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "30 días", "es_correcta": false },
+        { "id": 2, "texto": "15 días ininterrumpidos", "es_correcta": true },
+        { "id": 3, "texto": "8 días ininterrumpidos", "es_correcta": false },
+        { "id": 4, "texto": "4 días", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 92,
+      "texto": "Principios generales del derecho laboral están contenidos en la constitución:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "325", "es_correcta": false },
+        { "id": 2, "texto": "326", "es_correcta": true },
+        { "id": 3, "texto": "327", "es_correcta": false },
+        { "id": 4, "texto": "328", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 93,
+      "texto": "Según la Constitución de la República, la afiliación a la Seguridad Social se constituye:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En un derecho inembargable", "es_correcta": false },
+        { "id": 2, "texto": "En un derecho intransferible", "es_correcta": false },
+        { "id": 3, "texto": "En un derecho irrenunciable", "es_correcta": true },
+        { "id": 4, "texto": "En un derecho indivisible", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 94,
+      "texto": "Para proponer una demanda laboral debe proponerla:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En contra del gerente de la empresa", "es_correcta": false },
+        { "id": 2, "texto": "En contra del jefe inconstitucional", "es_correcta": false },
+        { "id": 3, "texto": "En contra del Procurador General del Estado", "es_correcta": false },
+        { "id": 4, "texto": "En contra de cualquier persona que a nombre de sus principales ejerza funciones de dirección y administración", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 95,
+      "texto": "En los juicios laborales, la cuantía se determinará:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "De manera indeterminada", "es_correcta": false },
+        { "id": 2, "texto": "Se cuantificará cada una de las pretensiones del actor", "es_correcta": true },
+        { "id": 3, "texto": "Se determinará un rubro general", "es_correcta": false },
+        { "id": 4, "texto": "Se estipulará una cuantía aproximada", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 96,
+      "texto": "En el caso de presentarse una demanda laboral en la que intervienen varios trabajadores, la cuantía se la fijará:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En base a la suma de todas las pretensiones", "es_correcta": true },
+        { "id": 2, "texto": "Se considera solo el monto de la mayor reclamación", "es_correcta": false },
+        { "id": 3, "texto": "Se considera solo el monto de la menor reclamación", "es_correcta": false },
+        { "id": 4, "texto": "Como son varios los actores la cuantía es indeterminada", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 97,
+      "texto": "Cuando se presenta una sola demanda formulada por varios trabajadores contra el mismo empleador, esta procederá siempre que:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se designe un procurador común", "es_correcta": true },
+        { "id": 2, "texto": "Se designe un procurador judicial", "es_correcta": false },
+        { "id": 3, "texto": "Se designe un curador", "es_correcta": false },
+        { "id": 4, "texto": "Se designe un tutor", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 98,
+      "texto": "En materia laboral únicamente procede:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La reconvención conexa", "es_correcta": true },
+        { "id": 2, "texto": "La reconvención inconexa", "es_correcta": false },
+        { "id": 3, "texto": "Cualquiera de las anteriores", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 99,
+      "texto": "Por regla general, el juicio de trabajo se sustanciará:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Procedimiento voluntario", "es_correcta": false },
+        { "id": 2, "texto": "Procedimiento ordinario", "es_correcta": false },
+        { "id": 3, "texto": "Procedimiento ejecutivo", "es_correcta": false },
+        { "id": 4, "texto": "Procedimiento sumario", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 101,
+      "texto": "Cuando no han sido pagadas oportunamente las remuneraciones mensuales o adicionales del trabajador y este a su demanda acompaña el detalle de las remuneraciones y la prueba de la existencia de la relación laboral, procederá la acción judicial por el procedimiento:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Sumario", "es_correcta": false },
+        { "id": 2, "texto": "Ordinario", "es_correcta": false },
+        { "id": 3, "texto": "Monitorio", "es_correcta": true },
+        { "id": 4, "texto": "Ejecutivo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 102,
+      "texto": "¿Bajo qué condiciones cabe la transacción en materia laboral?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Que no contenga renuncia de derechos", "es_correcta": true },
+        { "id": 2, "texto": "Que contenga renuncia de derechos", "es_correcta": false },
+        { "id": 3, "texto": "Que no tenga condiciones", "es_correcta": false },
+        { "id": 4, "texto": "No cabe la transacción en materia laboral", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 103,
+      "texto": "¿Cuáles son los órganos competentes para resolver los conflictos colectivos en materia laboral?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Tribunales de conciliación y arbitraje", "es_correcta": true },
+        { "id": 2, "texto": "Jueces de trabajo", "es_correcta": false },
+        { "id": 3, "texto": "Jueces de la corte provincial", "es_correcta": false },
+        { "id": 4, "texto": "Inspectores de trabajo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 104,
+      "texto": "¿Quiénes tienen derecho al paro?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El empleador", "es_correcta": false },
+        { "id": 2, "texto": "Servidores públicos", "es_correcta": false },
+        { "id": 3, "texto": "Alcantarillado", "es_correcta": false },
+        { "id": 4, "texto": "Correos y telecomunicaciones", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 105,
+      "texto": "¿Qué tiempo tiene el juez, una vez recibida la demanda de trabajo en su despacho, para calificarla, cuando se trata de procedimiento sumario?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "2 días", "es_correcta": false },
+        { "id": 2, "texto": "3 días", "es_correcta": true },
+        { "id": 3, "texto": "5 días", "es_correcta": false },
+        { "id": 4, "texto": "No tiene término", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 106,
+      "texto": "¿Qué término le confiere la ley a los jueces de trabajo para disponer que el demandado conteste la demanda laboral?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No tiene término", "es_correcta": false },
+        { "id": 2, "texto": "6 días", "es_correcta": false },
+        { "id": 3, "texto": "15 días", "es_correcta": false },
+        { "id": 4, "texto": "10 días", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 107,
+      "texto": "¿Qué se debe realizar en la segunda fase en la audiencia única del procedimiento sumario en el juicio de trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Excepciones previas y saneamiento", "es_correcta": false },
+        { "id": 2, "texto": "Conciliación y prueba", "es_correcta": false },
+        { "id": 3, "texto": "Pruebas, alegatos y sentencia", "es_correcta": true },
+        { "id": 4, "texto": "Ninguno de los anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 108,
+      "texto": "En materia laboral, a falta de otra prueba, el juzgador para probar el tiempo de servicios y la remuneración percibida dispondrá que se practique como prueba:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La inspección judicial", "es_correcta": false },
+        { "id": 2, "texto": "La confesión de parte", "es_correcta": false },
+        { "id": 3, "texto": "El juramento deferido", "es_correcta": true },
+        { "id": 4, "texto": "La declaración de testigos", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 109,
+      "texto": "En las controversias originadas en el despido intempestivo de mujeres embarazadas o en período de lactancia y de los dirigentes sindicales, la audiencia única se realizará en el término máximo:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "24 horas", "es_correcta": false },
+        { "id": 2, "texto": "48 horas", "es_correcta": false },
+        { "id": 3, "texto": "15 días", "es_correcta": false },
+        { "id": 4, "texto": "30 días", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 110,
+      "texto": "¿Cuál es el efecto jurídico si en una demanda laboral el actor no determina la cuantía?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se califica la demanda", "es_correcta": false },
+        { "id": 2, "texto": "Se manda a completar la demanda", "es_correcta": true },
+        { "id": 3, "texto": "Se rechaza la demanda", "es_correcta": false },
+        { "id": 4, "texto": "Se dispone el archivo de la demanda", "es_correcta": false }
+      ]
     }
   ]
 }
