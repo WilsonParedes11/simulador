@@ -1,0 +1,561 @@
+{
+  "materia": {
+    "nombre": "Derecho Civil",
+    "id": "civil_2"
+  },
+  "cuestionario": {
+    "titulo": "Reactivos Materia Derecho Civil"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "¿Cuál es el efecto jurídico inmediato del nacimiento con vida para adquirir personalidad jurídica?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El niño tiene derechos civiles desde el momento de la concepción", "es_correcta": false },
+        { "id": 2, "texto": "Solo adquiere derechos si es inscrito en el Registro Civil", "es_correcta": false },
+        { "id": 3, "texto": "Adquiere personalidad desde la concepción, pero se perfecciona con el nacimiento con vida", "es_correcta": true },
+        { "id": 4, "texto": "La personalidad jurídica se adquiere a los 18 años", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "¿Cuál es el orden legal de la presunción de muerte por desaparecimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "2 años desde la última noticia", "es_correcta": false },
+        { "id": 2, "texto": "5 años desde la desaparición", "es_correcta": false },
+        { "id": 3, "texto": "3 años desde la desaparición, sin noticias", "es_correcta": true },
+        { "id": 4, "texto": "10 años desde la denuncia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "El acto de emancipación voluntaria se perfecciona:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por decreto judicial", "es_correcta": false },
+        { "id": 2, "texto": "Por escritura pública otorgada por ambos padres", "es_correcta": true },
+        { "id": 3, "texto": "Por declaración administrativa", "es_correcta": false },
+        { "id": 4, "texto": "Por resolución del defensor de familia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "¿Qué efecto jurídico tiene el reconocimiento de un hijo extramatrimonial por uno solo de los padres?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo crea vínculos afectivos", "es_correcta": false },
+        { "id": 2, "texto": "Lo convierte en heredero universal", "es_correcta": false },
+        { "id": 3, "texto": "Establece la filiación unilateral con efectos patrimoniales y sucesorios", "es_correcta": true },
+        { "id": 4, "texto": "Ninguno, si no es aceptado por el otro progenitor", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "Una persona jurídica de derecho privado se extingue:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por resolución judicial", "es_correcta": false },
+        { "id": 2, "texto": "Por falta de actividad comercial", "es_correcta": false },
+        { "id": 3, "texto": "Por cancelación del RUC", "es_correcta": false },
+        { "id": 4, "texto": "Por voluntad de los socios expresada en escritura pública", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "La interdicción judicial por demencia tiene efectos principalmente sobre:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La patria potestad", "es_correcta": false },
+        { "id": 2, "texto": "La capacidad de goce", "es_correcta": false },
+        { "id": 3, "texto": "La capacidad de ejercicio", "es_correcta": true },
+        { "id": 4, "texto": "La filiación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "¿Cuál es el efecto legal de una inscripción tardía de nacimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No tiene valor legal", "es_correcta": false },
+        { "id": 2, "texto": "Genera sanción administrativa al registrador", "es_correcta": false },
+        { "id": 3, "texto": "Requiere sentencia judicial para su validez", "es_correcta": false },
+        { "id": 4, "texto": "Reconoce la personalidad jurídica retroactivamente", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "Los tutores son responsables civilmente por los actos del pupilo cuando:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Son negligentes en la guarda", "es_correcta": true },
+        { "id": 2, "texto": "No supervisan sus estudios", "es_correcta": false },
+        { "id": 3, "texto": "No proveen alimentos", "es_correcta": false },
+        { "id": 4, "texto": "No entregan cuentas a tiempo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "¿Cuál es la diferencia entre el domicilio y la residencia en el Código Civil?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El domicilio es ocasional, la residencia es permanente", "es_correcta": false },
+        { "id": 2, "texto": "El domicilio se establece por ley, la residencia por contrato", "es_correcta": false },
+        { "id": 3, "texto": "El domicilio tiene efectos legales, la residencia no necesariamente", "es_correcta": true },
+        { "id": 4, "texto": "No existe distinción", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "El estado civil es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Un derecho patrimonial", "es_correcta": false },
+        { "id": 2, "texto": "Una situación jurídica de la persona reconocida por la ley", "es_correcta": true },
+        { "id": 3, "texto": "Un título subjetivo sobre bienes", "es_correcta": false },
+        { "id": 4, "texto": "Una inscripción voluntaria en el Registro Civil", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "¿Cuál es el principio que regula el nombre como atributo de la personalidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Publicidad", "es_correcta": false },
+        { "id": 2, "texto": "Imposibilidad de cambio", "es_correcta": false },
+        { "id": 3, "texto": "Inmutabilidad y protección jurídica", "es_correcta": true },
+        { "id": 4, "texto": "Usucapión", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "La capacidad de ejercicio puede limitarse por:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Edad", "es_correcta": true },
+        { "id": 2, "texto": "Estado civil", "es_correcta": false },
+        { "id": 3, "texto": "Nacionalidad", "es_correcta": false },
+        { "id": 4, "texto": "Nombre", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "¿Qué distingue a las personas naturales de las jurídicas según el Código Civil?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las jurídicas pueden tener estado civil", "es_correcta": false },
+        { "id": 2, "texto": "Solo las naturales tienen patrimonio", "es_correcta": false },
+        { "id": 3, "texto": "Las naturales nacen, las jurídicas se constituyen conforme a la ley", "es_correcta": true },
+        { "id": 4, "texto": "No existe distinción legal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "Un bien mostrenco es aquel que:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Tiene dueño desconocido", "es_correcta": true },
+        { "id": 2, "texto": "Es del Estado", "es_correcta": false },
+        { "id": 3, "texto": "Está bajo régimen de comunidad", "es_correcta": false },
+        { "id": 4, "texto": "No puede ser objeto de apropiación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "El usufructo implica:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Uso y goce sin alteración de la sustancia del bien", "es_correcta": true },
+        { "id": 2, "texto": "Usar y destruir el bien", "es_correcta": false },
+        { "id": 3, "texto": "Solo uso sin goce de frutos", "es_correcta": false },
+        { "id": 4, "texto": "Solo en bienes muebles", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "La tradición como modo de adquirir dominio requiere:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Escritura pública", "es_correcta": false },
+        { "id": 2, "texto": "Contrato oneroso", "es_correcta": false },
+        { "id": 3, "texto": "Justo título y entrega", "es_correcta": true },
+        { "id": 4, "texto": "Pago del impuesto a la propiedad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "La posesión viciosa es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Aquella ejercida con violencia o clandestinidad", "es_correcta": true },
+        { "id": 2, "texto": "Aquella que no genera derechos", "es_correcta": false },
+        { "id": 3, "texto": "Aquella sin justo título", "es_correcta": false },
+        { "id": 4, "texto": "Solo de bienes muebles", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "La accesión natural ocurre cuando:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Un bien se une a otro por la naturaleza, como aluvión o avulsión", "es_correcta": true },
+        { "id": 2, "texto": "Se celebra un contrato verbal", "es_correcta": false },
+        { "id": 3, "texto": "Se transfiere el uso de un bien", "es_correcta": false },
+        { "id": 4, "texto": "Se adquiere por prescripción", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "¿Qué ocurre con los frutos naturales producidos durante el juicio de reivindicación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Pertenecen al poseedor", "es_correcta": false },
+        { "id": 2, "texto": "Se restituyen solo si el poseedor es de mala fe", "es_correcta": true },
+        { "id": 3, "texto": "No son objeto del juicio", "es_correcta": false },
+        { "id": 4, "texto": "Se compensan con los daños", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "¿Cuál es la diferencia entre dominio y mera tenencia?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El dominio da posesión jurídica, la mera tenencia no", "es_correcta": true },
+        { "id": 2, "texto": "La mera tenencia implica título", "es_correcta": false },
+        { "id": 3, "texto": "El dominio no requiere inscripción", "es_correcta": false },
+        { "id": 4, "texto": "No existe diferencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "La copropiedad termina:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por voluntad de uno de los copropietarios", "es_correcta": false },
+        { "id": 2, "texto": "Solo por prescripción", "es_correcta": false },
+        { "id": 3, "texto": "Por partición o venta", "es_correcta": true },
+        { "id": 4, "texto": "Nunca", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "¿Cuál es la condición esencial para la posesión útil?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Que sea pública y continua", "es_correcta": true },
+        { "id": 2, "texto": "Que sea clandestina", "es_correcta": false },
+        { "id": 3, "texto": "Que exista violencia", "es_correcta": false },
+        { "id": 4, "texto": "Que no se ejerza por terceros", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "El comodato es un contrato que:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Transfiere dominio", "es_correcta": false },
+        { "id": 2, "texto": "Cede uso sin contraprestación", "es_correcta": true },
+        { "id": 3, "texto": "Exige hipoteca", "es_correcta": false },
+        { "id": 4, "texto": "Requiere escritura pública", "es_correcta": false }
+      ]
+    },
+    {
+  "id": 24,
+  "texto": "¿Qué limita el derecho de propiedad según el Código Civil?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "La ley, el orden público y el interés general", "es_correcta": true },
+    { "id": 2, "texto": "Solamente la ley penal", "es_correcta": false },
+    { "id": 3, "texto": "El poder del Estado", "es_correcta": false },
+    { "id": 4, "texto": "La voluntad del propietario", "es_correcta": false }
+  ]
+},
+{
+  "id": 25,
+  "texto": "La prescripción adquisitiva extraordinaria requiere:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Justo título", "es_correcta": false },
+    { "id": 2, "texto": "Buena fe", "es_correcta": false },
+    { "id": 3, "texto": "15 años de posesión continua y no interrumpida", "es_correcta": true },
+    { "id": 4, "texto": "Aprobación judicial", "es_correcta": false }
+  ]
+},
+{
+  "id": 26,
+  "texto": "¿Cuál es el orden de herederos intestados?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Hijos, padres, hermanos, cónyuge", "es_correcta": false },
+    { "id": 2, "texto": "Hijos, cónyuge, padres, hermanos", "es_correcta": true },
+    { "id": 3, "texto": "Cónyuge, hijos, padres, hermanos", "es_correcta": false },
+    { "id": 4, "texto": "Padres, hijos, cónyuge, hermanos", "es_correcta": false }
+  ]
+},
+{
+  "id": 27,
+  "texto": "El testamento cerrado requiere:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Firma de tres testigos", "es_correcta": false },
+    { "id": 2, "texto": "Lectura pública", "es_correcta": false },
+    { "id": 3, "texto": "Autenticación notarial", "es_correcta": false },
+    { "id": 4, "texto": "Firma del testador y sellado", "es_correcta": true }
+  ]
+},
+{
+  "id": 28,
+  "texto": "¿Cuándo se presume aceptada una herencia?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Al fallecer el causante", "es_correcta": false },
+    { "id": 2, "texto": "Cuando se ejecutan actos de dominio sobre los bienes", "es_correcta": true },
+    { "id": 3, "texto": "Por sentencia", "es_correcta": false },
+    { "id": 4, "texto": "Por declaración verbal", "es_correcta": false }
+  ]
+},
+    {
+      "id": 29,
+      "texto": "La colación hereditaria consiste en:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Dividir la herencia en partes iguales", "es_correcta": false },
+        { "id": 2, "texto": "Imputar donaciones hechas en vida a la cuota hereditaria", "es_correcta": true },
+        { "id": 3, "texto": "Aceptar tácitamente la herencia", "es_correcta": false },
+        { "id": 4, "texto": "Hacer testamento conjunto", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "La legítima rigurosa corresponde:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "A cualquier heredero", "es_correcta": false },
+        { "id": 2, "texto": "A los herederos forzosos", "es_correcta": true },
+        { "id": 3, "texto": "A los colaterales", "es_correcta": false },
+        { "id": 4, "texto": "Al Estado", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 31,
+      "texto": "¿Cuál es el efecto de una donación entre vivos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Crea obligaciones futuras", "es_correcta": false },
+        { "id": 2, "texto": "Transfiere dominio irrevocablemente salvo causa legal", "es_correcta": true },
+        { "id": 3, "texto": "No tiene efecto si no hay testigos", "es_correcta": false },
+        { "id": 4, "texto": "Siempre requiere escritura pública", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 32,
+      "texto": "La sucesión por causa de indignidad ocurre cuando:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El heredero es extranjero", "es_correcta": false },
+        { "id": 2, "texto": "El heredero ha atentado contra la vida del causante", "es_correcta": true },
+        { "id": 3, "texto": "El heredero vive en otro país", "es_correcta": false },
+        { "id": 4, "texto": "El testamento fue verbal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 33,
+      "texto": "La porción conyugal es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Parte del haber hereditario asignado al cónyuge sobreviviente", "es_correcta": true },
+        { "id": 2, "texto": "Una donación", "es_correcta": false },
+        { "id": 3, "texto": "Una parte voluntaria", "es_correcta": false },
+        { "id": 4, "texto": "Una figura testamentaria", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 34,
+      "texto": "¿Cuál es la diferencia entre sucesión intestada y testada?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En la testada no hay herederos forzosos", "es_correcta": false },
+        { "id": 2, "texto": "En la intestada la ley suple la voluntad del causante", "es_correcta": true },
+        { "id": 3, "texto": "La testada no requiere formalidades", "es_correcta": false },
+        { "id": 4, "texto": "No existe diferencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 35,
+      "texto": "El albacea tiene por función principal:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Administrar la herencia y cumplir la voluntad del testador", "es_correcta": true },
+        { "id": 2, "texto": "Repartir los bienes como estime conveniente", "es_correcta": false },
+        { "id": 3, "texto": "Suplir a los herederos", "es_correcta": false },
+        { "id": 4, "texto": "Designar nuevos herederos", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 36,
+      "texto": "¿Qué efecto tiene la repudiación de la herencia?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se pierde todo derecho sin poder retractarse", "es_correcta": false },
+        { "id": 2, "texto": "Puede transferirse la parte al Estado", "es_correcta": false },
+        { "id": 3, "texto": "Puede beneficiarse otro coheredero", "es_correcta": true },
+        { "id": 4, "texto": "Es revocable por el juez", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 37,
+      "texto": "¿Quién puede impugnar un testamento por falta de capacidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cualquier persona interesada", "es_correcta": true },
+        { "id": 2, "texto": "Solo el cónyuge sobreviviente", "es_correcta": false },
+        { "id": 3, "texto": "Solo el notario", "es_correcta": false },
+        { "id": 4, "texto": "El juez de oficio", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 38,
+      "texto": "¿Cuál es el principio rector del contrato según el Código Civil?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Equidad", "es_correcta": false },
+        { "id": 2, "texto": "Pacta sunt servanda", "es_correcta": true },
+        { "id": 3, "texto": "Libertad de prueba", "es_correcta": false },
+        { "id": 4, "texto": "Causalidad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 39,
+      "texto": "Una obligación de dar cosa cierta se extingue si:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El acreedor fallece", "es_correcta": false },
+        { "id": 2, "texto": "Se entrega la cosa", "es_correcta": true },
+        { "id": 3, "texto": "El deudor se niega", "es_correcta": false },
+        { "id": 4, "texto": "Se sustituye por otra", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 40,
+      "texto": "¿Cuál es el efecto de la mora del acreedor?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Libera al deudor", "es_correcta": false },
+        { "id": 2, "texto": "Suspende la obligación", "es_correcta": false },
+        { "id": 3, "texto": "Causa perjuicios al deudor", "es_correcta": true },
+        { "id": 4, "texto": "Permite la ejecución inmediata", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 41,
+      "texto": "La novación de una obligación ocurre cuando:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se cambia el objeto o sujeto de la obligación", "es_correcta": true },
+        { "id": 2, "texto": "Se renuncia al contrato", "es_correcta": false },
+        { "id": 3, "texto": "Se suspende temporalmente", "es_correcta": false },
+        { "id": 4, "texto": "Se delega la deuda", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 42,
+      "texto": "La condición resolutoria en un contrato tiene por efecto:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Suspender su eficacia", "es_correcta": false },
+        { "id": 2, "texto": "Extinguir el contrato si se cumple", "es_correcta": true },
+        { "id": 3, "texto": "Convertirlo en nulo", "es_correcta": false },
+        { "id": 4, "texto": "Eximir al deudor", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 43,
+      "texto": "El contrato de compraventa implica:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Un acuerdo verbal", "es_correcta": false },
+        { "id": 2, "texto": "Transmisión del dominio por un precio", "es_correcta": true },
+        { "id": 3, "texto": "Permuta de bienes", "es_correcta": false },
+        { "id": 4, "texto": "Obligación de prestar servicios", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 44,
+      "texto": "La cláusula penal tiene por fin:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Castigar incumplimientos contractuales", "es_correcta": false },
+        { "id": 2, "texto": "Reemplazar el objeto del contrato", "es_correcta": false },
+        { "id": 3, "texto": "Garantizar el cumplimiento mediante una sanción predeterminada", "es_correcta": true },
+        { "id": 4, "texto": "Anular el contrato", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 45,
+      "texto": "La nulidad absoluta de un contrato puede alegarse:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo por las partes", "es_correcta": false },
+        { "id": 2, "texto": "Por cualquier interesado o el juez de oficio", "es_correcta": true },
+        { "id": 3, "texto": "Solo por el notario", "es_correcta": false },
+        { "id": 4, "texto": "Nunca, si hay firma", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 46,
+      "texto": "La solidaridad entre deudores implica que:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cada uno responde por la totalidad", "es_correcta": true },
+        { "id": 2, "texto": "Solo uno responde", "es_correcta": false },
+        { "id": 3, "texto": "Todos responden proporcionalmente", "es_correcta": false },
+        { "id": 4, "texto": "Solo uno es principal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 47,
+      "texto": "El mutuo o préstamo de consumo se refiere a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ceder gratuitamente un bien", "es_correcta": false },
+        { "id": 2, "texto": "Transferencia de una suma de dinero u objeto fungible con obligación de devolver otro tanto", "es_correcta": true },
+        { "id": 3, "texto": "Entrega de un inmueble", "es_correcta": false },
+        { "id": 4, "texto": "Venta de cosa futura", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 48,
+      "texto": "El arrendamiento de obra difiere del de servicios porque:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El de obra exige resultado; el de servicios no necesariamente", "es_correcta": true },
+        { "id": 2, "texto": "El de servicios es gratuito", "es_correcta": false },
+        { "id": 3, "texto": "El de obra es perpetuo", "es_correcta": false },
+        { "id": 4, "texto": "No existe diferencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 49,
+      "texto": "El mandato se extingue por:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Muerte del mandante o mandatario", "es_correcta": false },
+        { "id": 2, "texto": "Resolución judicial", "es_correcta": false },
+        { "id": 3, "texto": "Cumplimiento de la causa", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 50,
+      "texto": "En un contrato unilateral:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo una parte se obliga jurídicamente", "es_correcta": true },
+        { "id": 2, "texto": "Ambas partes deben cumplir", "es_correcta": false },
+        { "id": 3, "texto": "Requiere solemnidad", "es_correcta": false },
+        { "id": 4, "texto": "Solo existe en testamentos", "es_correcta": false }
+      ]
+    }
+  ]
+}

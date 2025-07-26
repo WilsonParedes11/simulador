@@ -62,6 +62,15 @@
       "color": "blue",
       "total_preguntas": 30,
       "descripcion": "Matrimonio, divorcio, filiación y adopción"
-    }
+    },
+     {
+      "id": "civil_2",
+      "nombre": "Derecho de Civil 2",
+      "archivo": "cuestionario-civil-2.json",
+      "icon": "👪",
+      "color": "blue",
+      "total_preguntas": 50,
+      "descripcion": "Contratos, obligaciones y derechos reales avanzados"
+    } 
   ]
 }
