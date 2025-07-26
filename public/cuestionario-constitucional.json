@@ -628,8 +628,8 @@
       "texto": "De acuerdo a la Constitución de la República del Ecuador: Las personas tienen derecho a desarrollar su capacidad creativa, al ejercicio digno y sostenido de las actividades culturales y artísticas, y a beneficiarse de la:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Remuneración económica del $70% si ceden sus derechos de patente.", "es_correcta": true },
-        { "id": 2, "texto": "Protección de los derechos morales y patrimoniales que les correspondan por las producciones científicas, literarias o artísticas de su autoría.", "es_correcta": false },
+        { "id": 1, "texto": "Remuneración económica del $70% si ceden sus derechos de patente.", "es_correcta": false },
+        { "id": 2, "texto": "Protección de los derechos morales y patrimoniales que les correspondan por las producciones científicas, literarias o artísticas de su autoría.", "es_correcta": true },
         { "id": 3, "texto": "Publicidad duradera de un año en todas sus creaciones.", "es_correcta": false },
         { "id": 4, "texto": "Protección a su patrimonio cultural.", "es_correcta": false }
       ]
@@ -963,9 +963,9 @@
       "texto": "El Estado adoptará medidas de acción afirmativa que promuevan la igualdad en favor de los titulares de derechos que se encuentren en situación de desigualdad. Indique la medida adoptada:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Real", "es_correcta": false },
+        { "id": 1, "texto": "Real", "es_correcta": true },
         { "id": 2, "texto": "Formal", "es_correcta": false },
-        { "id": 3, "texto": "Real y formal", "es_correcta": true },
+        { "id": 3, "texto": "Real y formal", "es_correcta": false },
         { "id": 4, "texto": "Formal y real", "es_correcta": false }
       ]
     },
