@@ -562,7 +562,7 @@
       "texto": "Se tramitarán por el procedimiento sumario:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "La prestación de alimentos", "es_correcta": true },
+        { "id": 1, "texto": "La prestación de alimentos", "es_correcta": false },
         { "id": 2, "texto": "El divorcio por mutuo acuerdo", "es_correcta": true },
         { "id": 3, "texto": "El divorcio contencioso", "es_correcta": false },
         { "id": 4, "texto": "Las acciones posesorias", "es_correcta": true }
@@ -584,10 +584,10 @@
       "texto": "Las reglas del procedimiento sumario se rigen por lo siguiente:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Se tiene un plazo de quince días para contestar la demanda y la reconvención", "es_correcta": false },
-        { "id": 2, "texto": "Solo se admite la reconvención conexa", "es_correcta": true },
+        { "id": 1, "texto": "Se tiene un plazo de quince días para contestar la demanda y la reconvención", "es_correcta": true },
+        { "id": 2, "texto": "Solo se admite la reconvención conexa", "es_correcta": false },
         { "id": 3, "texto": "Para contestar la demanda y la reconvención se lo hará en el término de diez días después de la última citación al demandado", "es_correcta": false },
-        { "id": 4, "texto": "Se desarrollará en audiencia única", "es_correcta": true }
+        { "id": 4, "texto": "Se desarrollará en audiencia única", "es_correcta": false }
       ]
     },
     {
