@@ -8,307 +8,7 @@
   },
   "preguntas": [
     {
-      "id": 1,
-      "texto": "Llega una denuncia en contra de Pedro Luis por un presunto delito de abuso de confianza, ¿cuánto tiempo tiene el fiscal para indagar durante la fase preprocesal de investigación previa?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "1 año, 2 años", "es_correcta": true },
-        { "id": 2, "texto": "6 meses, 1 año", "es_correcta": false },
-        { "id": 3, "texto": "90 días", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 2,
-      "texto": "El fiscal ha reunido los elementos de convicción para establecer que Luis Alberto es el presunto autor de un delito de abuso sexual, ¿con qué audiencia se debe dar inicio a la primera etapa del proceso penal?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Audiencia de Presentación y sustentación de Dictamen", "es_correcta": false },
-        { "id": 2, "texto": "Audiencia de Juicio Directo", "es_correcta": false },
-        { "id": 3, "texto": "Audiencia de Formulación de Cargos", "es_correcta": true }
-      ]
-    },
-    {
-      "id": 3,
-      "texto": "Se formula cargos en contra de María Juana por un presunto delito de Trata de Personas, ¿qué medidas cautelares sobre los bienes de María Juana puede solicitar el fiscal?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Incautación, retención, embargo y prohibición de enajenar", "es_correcta": true },
-        { "id": 2, "texto": "Prohibición de enajenar, transformación, incautación, retención", "es_correcta": false },
-        { "id": 3, "texto": "Clausura provisional de locales o establecimientos. Suspensión temporal de actividades de la persona jurídica. Intervención por parte del ente público de control competente", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 4,
-      "texto": "Juan es representante legal de la Compañía 'Compras', quien está siendo procesado por un delito de estafa, ¿qué medidas cautelares personales para la compañía puede solicitar el fiscal?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Prohibición de ausentarse del país. Obligación de presentarse periódicamente ante la o el juzgador que conoce el proceso o ante la autoridad o institución que designe. Arresto domiciliario. Dispositivo de vigilancia electrónica. Detención. Prisión preventiva", "es_correcta": false },
-        { "id": 2, "texto": "Clausura provisional de locales o establecimientos. Suspensión temporal de actividades de la persona jurídica. Intervención por parte del ente público de control competente", "es_correcta": false },
-        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": true }
-      ]
-    },
-    {
-      "id": 5,
-      "texto": "El Fiscal Manuel ha investigado a Mario por un delito de violación y solicita al juez se otorgue la prisión preventiva; ¿con qué finalidad?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Recolectar elementos de convicción de cargo y descargo", "es_correcta": false },
-        { "id": 2, "texto": "Garantizar la comparecencia del procesado con el proceso", "es_correcta": true },
-        { "id": 3, "texto": "Detener al procesado para dictar sentencia", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 6,
-      "texto": "Juan es fiscal de la unidad de flagrancia, ¿sobre qué delitos no le corresponde avocar conocimiento?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Violación, peculado, femicidio", "es_correcta": false },
-        { "id": 2, "texto": "Estupro, calumnia, usurpación, lesiones que no superen los 30 días de incapacidad", "es_correcta": true },
-        { "id": 3, "texto": "Todas las anteriores", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 7,
-      "texto": "El fiscal Juan durante la audiencia de evaluación y preparatoria a juicio podrá presentar los siguientes dictámenes:",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Acusatorio, Abstentivo y Mixto", "es_correcta": true },
-        { "id": 2, "texto": "Acusatorio, Absolutorio y Mixto", "es_correcta": false },
-        { "id": 3, "texto": "Condenatorio, Absolutorio y Mixto", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 8,
-      "texto": "Luis Alberto es investigado por un presunto delito de extorsión durante la audiencia de evaluación y preparatoria a juicio, el juez considera que el dictamen fiscal no reúne los requisitos necesarios, ¿qué resolución tomará?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Auto de llamamiento a juicio", "es_correcta": false },
-        { "id": 2, "texto": "Sobreseimiento", "es_correcta": true },
-        { "id": 3, "texto": "Sentencia Absolutoria", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 9,
-      "texto": "Pedro Luis cometió un delito Contra la Propiedad, acepta su responsabilidad y desea acogerse al procedimiento abreviado, ¿cuándo puede solicitarlo?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Desde la audiencia de formulación de cargos hasta la audiencia de juicio", "es_correcta": false },
-        { "id": 2, "texto": "En la audiencia de Evaluación y Preparatoria de Juicio", "es_correcta": false },
-        { "id": 3, "texto": "Desde la audiencia de formulación de cargos hasta la audiencia de evaluación y preparatoria de juicio", "es_correcta": true }
-      ]
-    },
-    {
-      "id": 10,
-      "texto": "¿Cuáles son las clases de procedimientos especiales?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Apelación, Casación, Revisión, De hecho", "es_correcta": false },
-        { "id": 2, "texto": "Directo, Abreviado, Expedito, Acción Privada", "es_correcta": true },
-        { "id": 3, "texto": "Denuncia, Querella, Acusación Particular", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 11,
-      "texto": "Llega a conocimiento del fiscal Manuel una denuncia por un presunto delito de Hurto en contra de María, empleada doméstica en la casa de Luisa, solicita al señor juez la aplicación del principio de oportunidad, ¿con qué finalidad?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Extinguir el ejercicio de la acción penal", "es_correcta": true },
-        { "id": 2, "texto": "Extinguir la pena", "es_correcta": false },
-        { "id": 3, "texto": "Prescripción de la pena", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 12,
-      "texto": "En la audiencia de juzgamiento en contra de Juan de los Palotes, por un delito de Asesinato, ¿qué medios de prueba debe presentar el fiscal y la defensa?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Versiones, armas, documentos, testigos", "es_correcta": false },
-        { "id": 2, "texto": "Testimonial, documental, pericia", "es_correcta": true },
-        { "id": 3, "texto": "Versiones, informes periciales, denuncia", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 13,
-      "texto": "Durante el interrogatorio, el fiscal Manuel, ¿qué clase de preguntas podrá formular a Pedro Luis acusado por un delito de Violación?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Capciosas, sugestivas, impertinentes", "es_correcta": false },
-        { "id": 2, "texto": "Abiertas, cerradas, introducción, transición", "es_correcta": true },
-        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 14,
-      "texto": "El juez Pablo ha dictado el sobreseimiento a favor de Danilo Núñez, ¿cuáles son los efectos de esta resolución?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Revocar toda medida cautelar y de protección", "es_correcta": true },
-        { "id": 2, "texto": "Señalar día y hora para la audiencia de juicio", "es_correcta": false },
-        { "id": 3, "texto": "Dictar sentencia", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 15,
-      "texto": "Se dictó sentencia condenatoria de dos años de pena privativa de libertad en contra de Luis el 20 de enero del 2015. ¿Para el cómputo del tiempo de la sentencia se contarán?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Plazo", "es_correcta": true },
-        { "id": 2, "texto": "Término", "es_correcta": false },
-        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 16,
-      "texto": "Juan es aprehendido por haber asesinado a su amigo Luis en delito flagrante y es puesto a órdenes de la autoridad, en la audiencia de control de constitucionalidad y flagrancia. ¿Qué le corresponde hacer al fiscal?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Presentar dictamen acusatorio", "es_correcta": false },
-        { "id": 2, "texto": "Presentar solicitud de procedimiento abreviado", "es_correcta": false },
-        { "id": 3, "texto": "Dar inicio a la etapa de instrucción fiscal", "es_correcta": true }
-      ]
-    },
-    {
-      "id": 17,
-      "texto": "¿Cuándo un fiscal puede solicitar la aplicación del procedimiento directo en contra de Pedro Luis?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "La persona procesada acepta el hecho fáctico y acuerda con el fiscal la pena a aplicar", "es_correcta": false },
-        { "id": 2, "texto": "En delitos que tengan pena privativa de libertad hasta 10 años", "es_correcta": false },
-        { "id": 3, "texto": "En delitos flagrantes con pena privativa de libertad hasta 5 años", "es_correcta": true }
-      ]
-    },
-    {
-      "id": 18,
-      "texto": "El recurso de hecho procede:",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Cuando no se está conforme con una sentencia dictada en primera instancia", "es_correcta": false },
-        { "id": 2, "texto": "Cuando se ha negado un recurso interpuesto oportunamente", "es_correcta": true },
-        { "id": 3, "texto": "Cuando se ha violado un derecho", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 19,
-      "texto": "El fiscal Mauricio inició la etapa de instrucción por 90 días en contra de Martha, ¿con qué finalidad?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Determinar elementos de convicción, de cargo y descargo, que permitan formular o no una acusación en contra de la persona procesada", "es_correcta": true },
-        { "id": 2, "texto": "Sentenciar a la persona procesada", "es_correcta": false },
-        { "id": 3, "texto": "Establecer el tiempo de la pena para la persona procesada", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 20,
-      "texto": "En un proceso penal, ¿cuáles son los sujetos procesales?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Víctima, persona procesada, fiscalía, defensa", "es_correcta": true },
-        { "id": 2, "texto": "Denunciante, persona procesada, fiscalía, defensa", "es_correcta": false },
-        { "id": 3, "texto": "Fiscalía, Juez de Garantías Penales, denunciante, persona procesada", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 21,
-      "texto": "Juan en una fiesta agrede a su hermano Pedro causándole una incapacidadde 15 días, que tipo de acción penal es:",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Privada", "es_correcta": false },
-        { "id": 2, "texto": "Pública", "es_correcta": true },
-        { "id": 3, "texto": "Particular", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 22,
-      "texto": "¿El principio de legalidad significa que?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Nadie puede sufrir una pena que no esté establecida en la ley ", "es_correcta": true },
-        { "id": 2, "texto": "Nadie es culpable sin sentencia ejecutoriada", "es_correcta": false },
-        { "id": 3, "texto": "No se puede ser juzgado por jueces de excepción ", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 23,
-      "texto": "¿El principio de juicio previo establece que?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Que el acto debe estar descrito como infracción en la ley penal", "es_correcta": false },
-        { "id": 2, "texto": "Que no se puede ser sentenciado sin probarse los hechos en un juicio", "es_correcta": true },
-        { "id": 3, "texto": "Que se presume su responsabilidad hasta demostrar lo contrario ", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 24,
-      "texto": "¿El principio de presunción de inocencia significa que?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "El acto ilícito debe estar descrito en una ley ", "es_correcta": false },
-        { "id": 2, "texto": "Que la infracción debe ser declarada con anterioridad al acto ", "es_correcta": false },
-        { "id": 3, "texto": "Que todo imputado es inocente hasta que se lo declare culpable en una sentencia", "es_correcta": true }
-      ]
-    },
-    {
-      "id": 25,
-      "texto": "El principio de contradicción establece que",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Las partes deben estar presente en el juicio ", "es_correcta": false },
-        { "id": 2, "texto": "Las partes pueden conocer y controvertir las pruebas ", "es_correcta": true },
-        { "id": 3, "texto": " Las partes no pueden interrogar a testigos sino solo los jueces ", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 26,
-      "texto": "El principio de oralidad se aplica",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Solo en la audiencia de juzgamiento", "es_correcta": false },
-        { "id": 2, "texto": "Solo en la etapa intermedia ", "es_correcta": false },
-        { "id": 3, "texto": "En todas las etapas del proceso", "es_correcta": true }
-      ]
-    },
-    {
-      "id": 27,
-      "texto": "Toda resolución judicial que afecte los derechos de las partes debe adoptarse",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Por escrito ", "es_correcta": false },
-        { "id": 2, "texto": "Mediante audiencias", "es_correcta": true },
-        { "id": 3, "texto": "Con testigos.", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 28,
-      "texto": "En el sistema oral, en qué casos se puede utilizar documentos",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Siempre que no reemplacen a peritos y testigos ", "es_correcta": true },
-        { "id": 2, "texto": "Cuando sustituye a un peritaje ", "es_correcta": false },
-        { "id": 3, "texto": "Cuando se agrega en las audiencias ", "es_correcta": false }
-      ]
-    },
-    {
-      "id": 29,
-      "texto": "En materia procesal penal se puede juzgar?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "Solo los días hábiles, porque sábados y domingos no se trabaja ", "es_correcta": false },
-        { "id": 2, "texto": "Solo los sábados y domingos ", "es_correcta": false },
-        { "id": 3, "texto": "En cualquier día y a cualquier hora ", "es_correcta": true }
-      ]
-    },
-    {
-      "id": 30,
-      "texto": "¿Los órganos de jurisdicción penal son:?",
-      "tipo": "opcion_multiple",
-      "opciones": [
-        { "id": 1, "texto": "La Fiscalía General del Estado", "es_correcta": false },
-        { "id": 2, "texto": "La defensoría pública", "es_correcta": false },
-        { "id": 3, "texto": "Los jueces establecidos por la ley para el efecto", "es_correcta": true }
-      ]
-    },
-    {
-  "id": 31,
+  "id": 1,
   "texto": "¿Cuál de las siguientes opciones describe mejor los elementos esenciales que componen una argumentación?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -319,7 +19,7 @@
   ]
 },
 {
-  "id": 32,
+  "id": 2,
   "texto": "¿Cuál es el principal objetivo de la cadena de custodia aplicada a los elementos de prueba?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -330,7 +30,7 @@
   ]
 },
 {
-  "id": 33,
+  "id": 3,
   "texto": "¿Quiénes son responsables de la aplicación de la cadena de custodia?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -341,7 +41,7 @@
   ]
 },
 {
-  "id": 34,
+  "id": 4,
   "texto": "¿En qué caso una persona queda exenta de responsabilidad penal por la infracción tentada?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -352,7 +52,7 @@
   ]
 },
 {
-  "id": 35,
+  "id": 5,
   "texto": "En delitos de tránsito la instrucción concluirá dentro del plazo máximo de cuarenta y cinco días y se podrá extender treinta días más cuando de las investigaciones asoma otra persona que el accidente de tránsito actuó en calidad de cómplice. ¿Procede la solicitud de vinculación?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -363,7 +63,7 @@
   ]
 },
 {
-  "id": 36,
+  "id": 6,
   "texto": "En el marco del principio de motivación de las decisiones judiciales y según el COIP, ¿cuál de los siguientes escenarios supondría una sentencia nula por falta de cumplimiento de sus requisitos esenciales?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -374,7 +74,7 @@
   ]
 },
 {
-  "id": 37,
+  "id": 7,
   "texto": "¿Cuál de las siguientes afirmaciones describe mejor el principio de \"Libertad probatoria\"?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -385,7 +85,7 @@
   ]
 },
 {
-  "id": 38,
+  "id": 8,
   "texto": "¿Cuál de las siguientes afirmaciones describe mejor la finalidad de la fase de investigación previa en este caso?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -396,7 +96,7 @@
   ]
 },
 {
-  "id": 39,
+  "id": 9,
   "texto": "En el contexto de la etapa de evaluación y preparatoria a juicio, ¿cuál de las siguientes afirmaciones refleja correctamente los objetivos y procedimientos de esta etapa procesal?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -407,7 +107,7 @@
   ]
 },
 {
-  "id": 40,
+  "id": 10,
   "texto": "En el proceso penal, la acusación fiscal debe cumplir con ciertos requisitos establecidos para asegurar su validez y claridad. ¿Cuál de las siguientes afirmaciones describe correctamente los elementos que debe incluir una acusación fiscal?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -418,7 +118,7 @@
   ]
 },
 {
-  "id": 41,
+  "id": 11,
   "texto": "¿Cuál de las siguientes afirmaciones es correcta respecto a los medios de prueba y su regulación en COIP?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -429,7 +129,7 @@
   ]
 },
 {
-  "id": 42,
+  "id": 12,
   "texto": "¿Cuál es la diferencia principal entre perjurio y falso testimonio?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -440,7 +140,7 @@
   ]
 },
 {
-  "id": 43,
+  "id": 13,
   "texto": "Uno de los derechos de las personas privadas de libertad es:",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -451,7 +151,7 @@
   ]
 },
 {
-  "id": 44,
+  "id": 14,
   "texto": "El computo de la pena se aplicará desde:",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -462,7 +162,7 @@
   ]
 },
 {
-  "id": 45,
+  "id": 15,
   "texto": "Dentro de las categorías dogmáticas del delito se encuentra la culpabilidad la cual implica que:",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -473,7 +173,7 @@
   ]
 },
 {
-  "id": 46,
+  "id": 16,
   "texto": "Desde una perspectiva garantista, ¿cómo se articula el principio de inmediación con la actuación del juez durante la etapa de juicio, y qué implicaciones tiene su vulneración según el COIP?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -484,7 +184,7 @@
   ]
 },
 {
-  "id": 47,
+  "id": 17,
   "texto": "La Fiscalía investiga a un ciudadano por el delito de tráfico de migrantes, sancionado con una pena privativa de libertad de 7 a 10 años. Durante la instrucción fiscal, el procesado sufre un accidente grave que le deja con movilidad reducida, lo cual es invocado por el fiscal para solicitar la aplicación del principio de oportunidad, alegando que el estado de salud del imputado le impide llevar una vida normal. El juez convoca a audiencia y evalúa la solicitud. La víctima no comparece, pero fue notificada conforme a la ley. El defensor del procesado respalda la solicitud, y el fiscal insiste en la extinción de la acción penal por razones humanitarias. ¿Cuál es la actuación correcta del juez conforme al Art. 412 del COIP en este caso?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -495,7 +195,7 @@
   ]
 },
 {
-  "id": 48,
+  "id": 18,
   "texto": "¿Qué consecuencias legales podrían derivarse si el acusador particular no comparece personalmente a la audiencia de juicio en un proceso penal según el COIP?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -506,7 +206,7 @@
   ]
 },
 {
-  "id": 49,
+  "id": 19,
   "texto": "¿Cuál de las siguientes afirmaciones describe correctamente el principio dispositivo en el contexto del derecho procesal penal ecuatoriano?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -517,7 +217,7 @@
   ]
 },
 {
-  "id": 50,
+  "id": 20,
   "texto": "¿Cuál de las siguientes afirmaciones describe correctamente el ámbito de la jurisdicción penal en Ecuador según el Código Orgánico Integral Penal?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -528,7 +228,7 @@
   ]
 },
 {
-  "id": 51,
+  "id": 21,
   "texto": "¿Qué entiende por el Principio de Inmediación?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -539,7 +239,7 @@
   ]
 },
 {
-  "id": 52,
+  "id": 22,
   "texto": "¿Cuál de las siguientes afirmaciones mejor refleja el aspecto clave del principio de mínima intervención penal en el derecho penal?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -550,7 +250,7 @@
   ]
 },
 {
-  "id": 53,
+  "id": 23,
   "texto": "Con base a uno de los principios reconocido tanto en la jurisprudencia de la Corte Interamericana de Derechos Humanos como en la Constitución ecuatoriana, analice si resulta jurídicamente válido que un juez de garantías penales ordene prisión preventiva únicamente por la gravedad del delito imputado, sin valorar otros elementos del caso concreto. ¿Cuál de las siguientes posturas interpreta de forma más adecuada la aplicación de un principio?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -561,7 +261,7 @@
   ]
 },
 {
-  "id": 54,
+  "id": 24,
   "texto": "Un funcionario Público en un proceso de Contratación Pública, en beneficio propio, se apropia de dineros públicos (Peculado). Respecto de este ilícito penal, para poder iniciar la Investigación previa, bajo este contexto, nace la siguiente pregunta: ¿Fiscalía necesariamente debe esperar la Noticia del Delito (informe con indicios de responsabilidad penal emitido por la Contraloría General del Estado, por presuntos hechos constitutivos de los delitos contra la administración pública)?",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -572,7 +272,7 @@
   ]
 },
 {
-  "id": 55,
+  "id": 25,
   "texto": "Las grabaciones de audio, los videos y las fotografías son evidencias válidas únicamente cuando tienen autorización judicial previa. De las opciones dadas, SOLO UNA de ellas es lícita y legal y no requiere de autorización del juez penal. Escoja una opción.",
   "tipo": "opcion_multiple",
   "opciones": [
@@ -581,6 +281,699 @@
     { "id": 3, "texto": "Cuando las grabaciones son realizadas por un tercero que no participa en las escenas grabadas.", "es_correcta": false },
     { "id": 4, "texto": "Cuando son realizadas por orden de la fiscalía, con base a su atribución establecida en el art. 5.21 COIP.", "es_correcta": false }
   ]
-}
+},
+{
+      "id": 26,
+      "texto": "¿La audiencia de calificación de flagrancia se debe realizar?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Dentro de las 24 horas después de haberse realizado la aprehensión", "es_correcta": true },
+        { "id": 2, "texto": "Hasta las 24 horas después de haberse realizado la detención", "es_correcta": false },
+        { "id": 3, "texto": "Durante las 24 horas de haberlo perseguido ininterrumpidamente", "es_correcta": false },
+        { "id": 4, "texto": "Hasta una hora más de las 24 horas de haberse conocido el hecho", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "¿Cuándo opera la flagrancia?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cuando el hecho sea cometido en presencia de una o más personas o cuando se conozca inmediatamente después de su supuesta comisión", "es_correcta": false },
+        { "id": 2, "texto": "Cuando exista persecución ininterrumpida desde la supuesta comisión hasta la aprehensión", "es_correcta": false },
+        { "id": 3, "texto": "Cuando se encuentre con armas, instrumentos, el producto del ilícito, huellas o documentos relativos a la infracción recién cometida", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "¿Cuál es el efecto jurídico de la persona procesada al no comparecer a la audiencia de juicio directo?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se debe juzgar en ausencia", "es_correcta": false },
+        { "id": 2, "texto": "Se debe proceder a la detención para comparecer a la audiencia", "es_correcta": true },
+        { "id": 3, "texto": "Se debe proceder a iniciar la audiencia hasta los alegatos finales", "es_correcta": false },
+        { "id": 4, "texto": "Se debe juzgar en ausencia con excepción de los delitos contra la mujer o miembros del núcleo familiar", "es_correcta": false }
+      ]
+    },
+    {
+      "id":29,
+      "texto": "¿De qué manera se debe anunciar la prueba en el procedimiento directo?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se lo debe hacer de forma oral hasta tres días antes de la audiencia de juzgamiento", "es_correcta": false },
+        { "id": 2, "texto": "Se lo debe hacer de forma escrita hasta tres días antes de juicio directo", "es_correcta": false },
+        { "id": 3, "texto": "Se lo debe hacer hasta tres días antes de la audiencia de juicio directo sin considerar los fines de semana ni feriados", "es_correcta": false },
+        { "id": 4, "texto": "Se lo debe hacer hasta tres días plazo antes de la audiencia de juicio directo", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "Si la o el juzgador competente encuentra que el acto de violencia contra la mujer o miembros del núcleo familiar constituye delito y no contravención, ¿qué actos puede realizar?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Inhibirse del conocimiento de la causa sin perjuicio de dictar medidas de protección", "es_correcta": true },
+        { "id": 2, "texto": "Inhibirse del conocimiento de la causa y dictar medidas cautelares y de protección", "es_correcta": false },
+        { "id": 3, "texto": "Continuar conociendo la causa a fin de poder dictar medidas de protección", "es_correcta": false },
+        { "id": 4, "texto": "Continuar conociendo la causa a fin de poder dictar medidas de protección y medidas cautelares", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 31,
+      "texto": "¿El juez de violencia contra la mujer y miembros del núcleo familiar puede fijar, a más de las medidas de protección, lo siguiente?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La pensión de alimentos mientras dure la medida de protección", "es_correcta": true },
+        { "id": 2, "texto": "La pensión de alimentos mientras dure la medida cautelar", "es_correcta": false },
+        { "id": 3, "texto": "La pensión de alimentos indefinidamente", "es_correcta": false },
+        { "id": 4, "texto": "La pensión de alimentos mientras dure el juicio", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 32,
+      "texto": "¿Qué realizará el juez en caso de incumplimiento de las medidas de protección y de la determinación de pago de alimentos?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Remitirá los antecedentes a la Fiscalía para la investigación del delito de incumplimiento de decisiones legítimas de autoridad", "es_correcta": true },
+        { "id": 2, "texto": "No remitirá los antecedentes a la Fiscalía para la investigación del delito de incumplimiento de decisiones legítimas de autoridad", "es_correcta": false },
+        { "id": 3, "texto": "Remitirá los antecedentes a la Unidad Judicial Penal, para la investigación del delito de incumplimiento de decisiones legítimas de autoridad competente", "es_correcta": false },
+        { "id": 4, "texto": "No remitirá los antecedentes a la Unidad Judicial Penal, para la investigación del delito de incumplimiento de decisiones legítimas de autoridad competente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 33,
+      "texto": "Según el Código Orgánico Integral Penal, ¿qué deberá proponer quien acuse por un delito de ejercicio privado de la acción penal?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Deberá proponer la querella por sí o mediante apoderada o apoderado especial ante la o el juez de garantías penales", "es_correcta": true },
+        { "id": 2, "texto": "Deberá proponer la denuncia por sí o mediante apoderada o apoderado especial ante la o el juez de garantías penales", "es_correcta": false },
+        { "id": 3, "texto": "Deberá proponer la querella y la denuncia por sí o mediante apoderada o apoderado especial ante la o el juez de garantías penales", "es_correcta": false },
+        { "id": 4, "texto": "Deberá proponer la demanda y querella por sí o mediante apoderada o apoderado especial ante la o el juez de garantías penales", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 34,
+      "texto": "¿Son imprescriptibles los siguientes delitos?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Deudas", "es_correcta": false },
+        { "id": 2, "texto": "De genocidio, lesa humanidad, crímenes de guerra, desaparición forzada de personas o crímenes de agresión a un Estado", "es_correcta": true },
+        { "id": 3, "texto": "Insolvencia", "es_correcta": false },
+        { "id": 4, "texto": "Negligencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 35,
+      "texto": "Tras un percance de tránsito con heridos y daños materiales, el conductor responsable opta por huir para evadir la acción de la justicia. Señale las circunstancias por la que debe ser sancionado por la huida:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Considerar atenuantes", "es_correcta": false },
+        { "id": 2, "texto": "Atenuante de carácter trascendental", "es_correcta": false },
+        { "id": 3, "texto": "Agravante", "es_correcta": true },
+        { "id": 4, "texto": "Ningún tipo de circunstancias", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 36,
+      "texto": "El acusado logra sustraer la computadora portátil y huye con ella, siendo detenido a diez cuadras del lugar de los hechos por la Policía Nacional. ¿Determine el grado de participación penal del acusado?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Autoría mediata", "es_correcta": false },
+        { "id": 2, "texto": "Coautoría", "es_correcta": false },
+        { "id": 3, "texto": "Autoría directa", "es_correcta": true },
+        { "id": 4, "texto": "Cómplice", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 37,
+      "texto": "El sujeto apunta a la víctima, ésta se pone a llorar y no la mata. ¿Puede ser acusado de algún delito o falta?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Existe desistimiento involuntario", "es_correcta": false },
+        { "id": 2, "texto": "Responde por desistimiento voluntario", "es_correcta": false },
+        { "id": 3, "texto": "Se castiga la tentativa", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las opciones de respuesta", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 38,
+      "texto": "Juan desea asaltar un almacén y para darse valor ingiere alcohol y barbitúricos. Durante el asalto dispara al dueño y a un cliente. La defensa alega inimputabilidad. ¿Cuál es la situación jurídica de Juan?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Juan actúa en forma premeditada con el fin de cometer el asalto", "es_correcta": true },
+        { "id": 2, "texto": "No tiene responsabilidad por haber actuado bajo los efectos del alcohol y los barbitúricos", "es_correcta": false },
+        { "id": 3, "texto": "El acto se derivó de un caso fortuito", "es_correcta": false },
+        { "id": 4, "texto": "Actuó disminuido notablemente el conocimiento", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 39,
+      "texto": "El COIP en su Art. 31 dispone que si una persona se excede de los límites de las causas de exclusión será sancionada con una pena. Jorge se defiende con un bate y lesiona a su vecino. ¿Cuál es la pena a la que puede ser sancionado Jorge?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Pena reducida en un tercio de la mínima prevista en el respectivo tipo penal", "es_correcta": true },
+        { "id": 2, "texto": "Pena reducida en un cuarto tercio de la mínima prevista en el respectivo tipo penal", "es_correcta": false },
+        { "id": 3, "texto": "Pena reducida en dos tercios de la mínima prevista en el respectivo tipo penal", "es_correcta": false },
+        { "id": 4, "texto": "Pena reducida en la mitad de la mínima prevista en el respectivo tipo penal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 40,
+      "texto": "Ante una emergencia, Fabián conduce un vehículo de bomberos y al cruzar una vía provoca un choque con heridos. ¿Qué podrá alegar Fabián en su defensa?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Legítima defensa", "es_correcta": false },
+        { "id": 2, "texto": "Negligencia del otro conductor", "es_correcta": false },
+        { "id": 3, "texto": "Estado de necesidad", "es_correcta": true },
+        { "id": 4, "texto": "Que se encontraba en vía principal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 41,
+      "texto": "El procedimiento ordinario se desarrolla en las siguientes etapas:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Instrucción, evaluación y preparatoria de juicio, juicio, impugnación", "es_correcta": false },
+        { "id": 2, "texto": "Investigación previa, instrucción, evaluación y preparatoria de juicio, juicio", "es_correcta": false },
+        { "id": 3, "texto": "Indagación previa, instrucción, evaluación y preparatoria de juicio, juicio", "es_correcta": true },
+        { "id": 4, "texto": "Instrucción, evaluación y preparatoria de juicio, juicio", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 42,
+      "texto": "Geoconda fue víctima de un delito de violación. Luego de varias investigaciones se ha iniciado un proceso penal y con el fin de coadyuvar en la investigación dentro del proceso y ser considerado como parte procesal en las audiencias y otras diligencias es necesario que presente una acusación particular. ¿En qué momento procesal debe presentar la acusación particular en el procedimiento ordinario?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En cualquier etapa del proceso penal", "es_correcta": false },
+        { "id": 2, "texto": "Hasta antes de la etapa de juicio", "es_correcta": false },
+        { "id": 3, "texto": "En la etapa de instrucción fiscal", "es_correcta": true },
+        { "id": 4, "texto": "En la etapa de evaluación y preparatoria de juicio", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 43,
+      "texto": "Una de las finalidades del Código Orgánico Integral Penal es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La protección del bien jurídico", "es_correcta": false },
+        { "id": 2, "texto": "Normar el poder punitivo del Estado", "es_correcta": true },
+        { "id": 3, "texto": "Estudiar de manera secuencial la infracción penal", "es_correcta": false },
+        { "id": 4, "texto": "Determinar la acción y omisión de una conducta", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 44,
+      "texto": "El principio de legalidad se refiere a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El juzgador al resolver la impugnación de una sanción no podrá empeorar la situación de la persona procesada", "es_correcta": false },
+        { "id": 2, "texto": "No hay infracción penal, pena, ni proceso penal sin ley anterior al hecho", "es_correcta": true },
+        { "id": 3, "texto": "El juzgador para dictar una sentencia condenatoria, debe tener el convencimiento de la culpabilidad de la persona procesada", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las opciones de respuestas", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 45,
+      "texto": "Según el artículo 58 del COIP, la pena se clasifica en:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Accesoria, medidas cautelares y restrictivas de los derechos de propiedad, reparación integral", "es_correcta": false },
+        { "id": 2, "texto": "Privativas y no privativas de libertad, y restrictivas de los derechos de propiedad", "es_correcta": true },
+        { "id": 3, "texto": "Complementarias, reparación integral, no privativas de libertad", "es_correcta": false },
+        { "id": 4, "texto": "Reparación integral, multa y comiso penal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 46,
+      "texto": "¿Cuál de estos elementos es un requisito del estado de necesidad? Señale la alternativa correcta:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Que sea mayor que el mal causado para evitarlo", "es_correcta": false },
+        { "id": 2, "texto": "Utilización de cualquier medio empleado para repeler la agresión", "es_correcta": false },
+        { "id": 3, "texto": "Los bienes que pueden sacrificarse se reducen a la propiedad", "es_correcta": false },
+        { "id": 4, "texto": "Que no haya otro medio practicable y menos perjudicial para defender el derecho", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 47,
+      "texto": "Steven, experto escalador, al momento que advierte que su vida está en peligro, corta la cuerda que le une con su compañero de expedición, el mismo que se precipita al abismo, y así Steven logra salvar su propia vida:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Actuó por legítima defensa, y su conducta no es reprochada", "es_correcta": false },
+        { "id": 2, "texto": "Su conducta es típica, antijurídica y merece una sanción", "es_correcta": false },
+        { "id": 3, "texto": "Su efecto es que aplica una atenuante al momento de juzgarle", "es_correcta": false },
+        { "id": 4, "texto": "Su conducta es típica pero no antijurídica porque actuó una excluyente de la antijuricidad, esto es estado de necesidad", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 48,
+      "texto": "Muñoz Conde define al delito como la conducta (acción u omisión) típica, antijurídica y culpable. ¿Todo este procedimiento intelectivo se denomina?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Teoría de la imputación objetiva", "es_correcta": false },
+        { "id": 2, "texto": "Teoría del delito", "es_correcta": true },
+        { "id": 3, "texto": "Teoría de la pena", "es_correcta": false },
+        { "id": 4, "texto": "Teoría de la conducta penalmente relevante", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 49,
+      "texto": "Conforme se resalta por parte de los finalistas, una conducta socialmente relevante puede ser valorada como acción. Mencione cuáles son las modalidades de la conducta según el COIP:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Dolo y culpa", "es_correcta": false },
+        { "id": 2, "texto": "Acción y omisión", "es_correcta": true },
+        { "id": 3, "texto": "Tipicidad y antijuricidad", "es_correcta": false },
+        { "id": 4, "texto": "Culpabilidad y antijuricidad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 50,
+      "texto": "La formulación de cargos contendrá:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La individualización de la persona procesada, la relación circunstanciada de los hechos relevantes, la imputación de la infracción penal y los elementos de convicción para formular cargos", "es_correcta": true },
+        { "id": 2, "texto": "La individualización concreta de la persona o personas acusadas y su grado de participación en la infracción, la relación clara y sucinta de los hechos atribuidos de la infracción, los elementos en los que se funda la acusación, la expresión de los preceptos legales aplicables al hecho que acusa", "es_correcta": false },
+        { "id": 3, "texto": "La individualización de la persona procesada, anuncio de los elementos de convicción con los que la o el fiscal sustentará su acusación en el juicio, la solicitud de aplicación de medidas cautelares o de protección no dictadas hasta el momento o su ratificación, revocación o sustitución de aquellas dispuestas con anterioridad", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las opciones", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 51,
+      "texto": "¿Cuál es la situación jurídica que se genera en el procesado, al momento de que el fiscal se abstenga de acusar?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El sobreseimiento", "es_correcta": true },
+        { "id": 2, "texto": "El procesado puede solicitar la nulidad de lo actuado por cuanto los elementos de convicción son ilegales", "es_correcta": false },
+        { "id": 3, "texto": "El derecho de presentar una denuncia solicitando la malicia o la temeridad", "es_correcta": false },
+        { "id": 4, "texto": "La prescripción de la acción", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 52,
+      "texto": "¿En qué delitos procede el procedimiento directo?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En delitos no flagrantes", "es_correcta": false },
+        { "id": 2, "texto": "En delitos flagrantes", "es_correcta": true },
+        { "id": 3, "texto": "En delitos sexuales", "es_correcta": false },
+        { "id": 4, "texto": "En delitos contra la vida", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 53,
+      "texto": "¿El procedimiento directo se aplica en delitos con pena privativa de libertad de hasta?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En delitos sancionados con pena máxima privativa de libertad de hasta tres años", "es_correcta": false },
+        { "id": 2, "texto": "En delitos sancionados con pena máxima privativa de libertad de hasta dos años", "es_correcta": false },
+        { "id": 3, "texto": "En delitos sancionados con pena máxima privativa de libertad de hasta cinco años", "es_correcta": true },
+        { "id": 4, "texto": "En delitos sancionados con pena máxima privativa de libertad de hasta un año", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 54,
+      "texto": "¿Qué plazo tiene el juez para señalar día y hora para realizar la audiencia de juicio directo?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo en cinco días", "es_correcta": true },
+        { "id": 2, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo en tres días", "es_correcta": false },
+        { "id": 3, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo de veinte días", "es_correcta": false },
+        { "id": 4, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo en diez días", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 55,
+      "texto": "¿Cuántos días antes de la audiencia de juicio directo, las partes realizarán el anuncio de prueba?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las partes realizarán anuncio de prueba tres días antes de la audiencia", "es_correcta": true },
+        { "id": 2, "texto": "Las partes realizarán anuncio de prueba cinco días antes de la audiencia", "es_correcta": false },
+        { "id": 3, "texto": "Las partes realizarán anuncio de prueba cuatro días antes de la audiencia", "es_correcta": false },
+        { "id": 4, "texto": "Las partes realizarán anuncio de prueba hasta el día de la audiencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 56,
+      "texto": "¿Cuándo se puede apelar la sentencia dictada en la audiencia de procedimiento expedito por contravenciones de tránsito?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Podrá ser apelada ante la Corte Provincial, si la pena no es privativa de libertad", "es_correcta": false },
+        { "id": 2, "texto": "Podrá ser apelada ante la Corte Nacional, únicamente si la pena es privativa de libertad", "es_correcta": false },
+        { "id": 3, "texto": "Podrá ser apelada ante el Juez de Garantías Penales, si la pena es o no privativa de libertad", "es_correcta": false },
+        { "id": 4, "texto": "Podrá ser apelada ante la Corte Provincial, únicamente si la pena es privativa de libertad", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 57,
+      "texto": "¿La persona citada por una contravención de tránsito podrá impugnar la boleta de tránsito, dentro de?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los tres días contados a partir de la citación", "es_correcta": true },
+        { "id": 2, "texto": "Los cinco días contados a partir de la citación", "es_correcta": false },
+        { "id": 3, "texto": "Los tres días plazo", "es_correcta": false },
+        { "id": 4, "texto": "Los tres días, sin perjuicio de que la contravención se haya cometido el fin de semana", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 58,
+      "texto": "¿Quiénes ejercen jurisdicción en materia penal para el juzgamiento de las contravenciones de tránsito?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Tribunal de Garantías Penales", "es_correcta": false },
+        { "id": 2, "texto": "Juez de Contravenciones de Tránsito", "es_correcta": true },
+        { "id": 3, "texto": "Jueces de la Corte Provincial", "es_correcta": false },
+        { "id": 4, "texto": "Juez de Garantías Penales", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 59,
+      "texto": "¿Las contravenciones penales y de tránsito serán susceptibles de procedimiento?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Procedimiento abreviado", "es_correcta": false },
+        { "id": 2, "texto": "Procedimiento expedito", "es_correcta": true },
+        { "id": 3, "texto": "Procedimiento directo", "es_correcta": false },
+        { "id": 4, "texto": "Procedimiento ordinario", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 60,
+      "texto": "¿Quiénes son competentes para la ejecución de sanciones por contravenciones de tránsito que no impliquen pena privativa de libertad?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "GAD regionales, municipales y metropolitanos de la circunscripción territorial donde haya sido cometida la contravención", "es_correcta": true },
+        { "id": 2, "texto": "GAD regionales, municipales y metropolitanos de la circunscripción territorial donde tenga su domicilio el contraventor", "es_correcta": false },
+        { "id": 3, "texto": "Comisión de Tránsito del Ecuador", "es_correcta": false },
+        { "id": 4, "texto": "Agencia Nacional de Tránsito", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 61,
+      "texto": "¿En qué caso se entiende aceptada la boleta de citación de tránsito?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las que no sean impugnadas dentro del término de tres días", "es_correcta": true },
+        { "id": 2, "texto": "Las impugnadas fuera del término de tres días", "es_correcta": false },
+        { "id": 3, "texto": "En ningún caso puedan asumirse como aceptadas", "es_correcta": false },
+        { "id": 4, "texto": "Por aceptación expresa del hecho", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 62,
+      "texto": "¿En el procedimiento abreviado, el juez en su sentencia puede ratificar la inocencia?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Admite, siempre que exista prueba de descargo que sea relevante para ratificar la inocencia", "es_correcta": false },
+        { "id": 2, "texto": "No admite, el procesado reconoce como suyos los hechos", "es_correcta": true },
+        { "id": 3, "texto": "Admite la prueba y garantías constitucionales", "es_correcta": false },
+        { "id": 4, "texto": "El derecho a la defensa y si se ve vulnerado algún principio el tribunal resolverá la apelación de oficio", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 63,
+      "texto": "¿Hasta qué tiempo puede el procesado acogerse al procedimiento abreviado en un proceso ordinario?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En treinta días de instrucción", "es_correcta": false },
+        { "id": 2, "texto": "En noventa días instrucción", "es_correcta": false },
+        { "id": 3, "texto": "En cuarenta y cinco días de instrucción", "es_correcta": false },
+        { "id": 4, "texto": "Desde que se inicia el proceso hasta la preparatoria de juicio", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 64,
+      "texto": "¿Qué clases de infracciones son admisibles de acogerse el procedimiento abreviado?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En todos los delitos", "es_correcta": false },
+        { "id": 2, "texto": "Solo en contravenciones y delitos menores", "es_correcta": false },
+        { "id": 3, "texto": "En delitos y contravenciones cuya pena privativa de libertad sea menor de 5 años", "es_correcta": false },
+        { "id": 4, "texto": "En delitos cuya pena privativa de libertad sea hasta de 10 años", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 65,
+      "texto": "De conformidad con el COIP, en el procedimiento directo, ¿en qué momento se señalará día y hora para realizar la audiencia de juicio directo?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Después de veinte y cuatro horas de la audiencia de flagrancia", "es_correcta": false },
+        { "id": 2, "texto": "Una vez calificada la flagrancia", "es_correcta": true },
+        { "id": 3, "texto": "Tres días antes de la audiencia de juicio", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 66,
+      "texto": "De conformidad con el COIP, ¿qué recurso procede contra la sentencia dictada en la audiencia de procedimiento directo sea de condena o ratificatoria de inocencia?:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Apelación", "es_correcta": true },
+        { "id": 2, "texto": "Revisión", "es_correcta": false },
+        { "id": 3, "texto": "Casación", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 67,
+      "texto": "El Art. 622 del COIP indica que la sentencia debe contener ciertos requisitos para su validez. ¿Cuál de los requisitos es incorrecto?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La suspensión condicional de la pena y señalamiento del plazo dentro del cual se pagará la multa, cuando corresponda.", "es_correcta": false },
+        { "id": 2, "texto": "Cuando se determine la responsabilidad penal de la persona jurídica, el juzgador deberá verificar los daños a los terceros para poder imponer la pena.", "es_correcta": false },
+        { "id": 3, "texto": "El extracto de las versiones rendidas ante el fiscal.", "es_correcta": true },
+        { "id": 4, "texto": "La condena a reparar integralmente los daños ocasionados por la infracción con la determinación del monto económico que pagará la persona sentenciada a la víctima y demás mecanismos necesarios para la reparación integral.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 68,
+      "texto": "El Art. 643.17 del COIP indica que: La o el juzgador resolverá de manera motivada en la misma audiencia, de forma oral. Según este criterio, ¿cuál de las siguientes aseveraciones es incorrecta?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Una motivación que contenga una dialéctica entre el derecho con los hechos y por consiguiente una conclusión enlazada a los mismos.", "es_correcta": false },
+        { "id": 2, "texto": "Una resolución que esté encaminada a plasmar las razones y motivos que le llevaron a actuar de una forma determinada, así como precisar las razones jurídicas, en los cuales se denote que se ha obrado conforme la ley, justicia y derecho aplicable al caso.", "es_correcta": false },
+        { "id": 3, "texto": "Información que consoliden la teoría de los hechos.", "es_correcta": true },
+        { "id": 4, "texto": "La exigencia de motivación impone al juzgador entablar un nexo congruente entre las premisas que recogen los fundamentos de hecho y de derecho para concluir en un silogismo verdadero.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 69,
+      "texto": "El Art. 643.16 del COIP indica que: No se realizarán nuevos peritajes médicos si existen informes de centros de salud u hospitalarios donde se atendió a la víctima y sean aceptados por ella, o los realizados por las oficinas técnicas de los juzgados de violencia contra la mujer y la familia. Según este criterio, ¿cuál es el principio de prueba que contravine?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Oportunidad de la prueba", "es_correcta": false },
+        { "id": 2, "texto": "Inmediación", "es_correcta": false },
+        { "id": 3, "texto": "Libertad probatoria", "es_correcta": true },
+        { "id": 4, "texto": "Pertinencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 70,
+      "texto": "¿Cuál es la garantía que se protege cuando el procesado no comparece a la audiencia de juicio directo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Inmediación", "es_correcta": false },
+        { "id": 2, "texto": "Recurrir el fallo", "es_correcta": false },
+        { "id": 3, "texto": "No ser juzgado en ausencia", "es_correcta": true },
+        { "id": 4, "texto": "Contradicción", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 71,
+      "texto": "¿Cuál es la modalidad de la conducta de la persona que omite denunciar teniendo la obligación jurídica de hacerlo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Infringe un deber de cuidado", "es_correcta": false },
+        { "id": 2, "texto": "Acción", "es_correcta": false },
+        { "id": 3, "texto": "Comisión por omisión", "es_correcta": true },
+        { "id": 4, "texto": "Culpa", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 72,
+      "texto": "¿En qué delitos no procede dictar prisión preventiva?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En delitos de ejercicio privado de la acción", "es_correcta": true },
+        { "id": 2, "texto": "En delitos contra la humanidad", "es_correcta": false },
+        { "id": 3, "texto": "En delitos contra la libertad e integridad sexual", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 73,
+      "texto": "¿En qué delitos procede el ejercicio privado de la acción?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Usurpación, estupro y lesiones que generen incapacidad o enfermedad de hasta treinta días a excepción de los casos de violencia contra la mujer o miembros del núcleo familiar y delitos de tránsito", "es_correcta": false },
+        { "id": 2, "texto": "Calumnia, estupro y lesiones que generen incapacidad o enfermedad de hasta treinta días a excepción de los casos de violencia contra la mujer o miembros del núcleo familiar y delitos de tránsito", "es_correcta": false },
+        { "id": 3, "texto": "Calumnia, usurpación y lesiones que generen incapacidad o enfermedad de hasta treinta días a excepción de los casos de violencia contra la mujer o miembros del núcleo familiar y delitos de tránsito", "es_correcta": false },
+        { "id": 4, "texto": "Calumnia, usurpación, estupro, y lesiones que generen incapacidad o enfermedad de hasta treinta días a excepción de los casos de violencia contra la mujer o miembros del núcleo familiar y delitos de tránsito, delitos contra animales que forman parte del ámbito para el manejo de la fauna urbana", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 74,
+      "texto": "¿Cuál de los siguientes enunciados constituye una garantía básica del debido proceso, en concordancia con el principio de contradicción determinado en el COIP, que debe ser aplicado en el caso de los delitos del ejercicio privado de la acción?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ser asistido gratuitamente por una traductora o traductor o intérprete, si no comprende o no habla el idioma en el que se sustancia el procedimiento", "es_correcta": false },
+        { "id": 2, "texto": "Ser juzgado por una jueza o juez independiente, imparcial y competente. Nadie será juzgado por tribunales de excepción o por comisiones especiales creadas para el efecto", "es_correcta": false },
+        { "id": 3, "texto": "Nadie podrá ser interrogado, ni aún con fines de investigación, por la Fiscalía General del Estado, por una autoridad policial o por cualquier otra, sin la presencia de un abogado particular o un defensor público, ni fuera de los recintos autorizados para el efecto", "es_correcta": false },
+        { "id": 4, "texto": "Presentar de forma verbal o escrita las razones o argumentos de los que se crea asistida y replicar los argumentos de las otras partes; presentar pruebas y contradecir las que se presenten en su contra", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 75,
+      "texto": "Juan Pérez procesado por robo, al momento de la audiencia de juicio, a través de su abogado defensor presenta una grabación de una conversación que mantuvo en la etapa de instrucción con el señor fiscal quien le ofrecía un arreglo con una pena de dos meses.",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Es admisible la prueba", "es_correcta": false },
+        { "id": 2, "texto": "Es inadmisible la prueba", "es_correcta": true },
+        { "id": 3, "texto": "Las grabaciones son prueba cuando el que presenta interviene en la grabación", "es_correcta": false },
+        { "id": 4, "texto": "Es una manifestación preacordada por tanto admisible", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 76,
+      "texto": "La finalidad y la función de la prueba penal es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La búsqueda de la verdad material", "es_correcta": false },
+        { "id": 2, "texto": "La verificación de las afirmaciones fácticas introducidas en el proceso por las partes", "es_correcta": true },
+        { "id": 3, "texto": "La averiguación de la verdad material", "es_correcta": false },
+        { "id": 4, "texto": "La afirmación de las verdades indiscutibles", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 77,
+      "texto": "La suspensión condicional de la pena es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Suspender la ejecución de la pena privativa de libertad impuesta en sentencia de primera instancia", "es_correcta": false },
+        { "id": 2, "texto": "Suspender la ejecución de la pena privativa de libertad impuesta en sentencia de segunda instancia", "es_correcta": false },
+        { "id": 3, "texto": "Extinguir definitivamente la pena privativa de libertad impuesta en sentencia de primera instancia", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 78,
+      "texto": "¿Cuál es el objeto de la suspensión condicional de la pena?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No suspender la ejecución de la pena ya impuesta en la comisión de un delito", "es_correcta": false },
+        { "id": 2, "texto": "Suspender durante cierto lapso la ejecución de la pena mientras se resuelva la apelación; vencido el término fijado sin que el favorecido reincida en la comisión de un delito o incumpla las obligaciones impuestas", "es_correcta": false },
+        { "id": 3, "texto": "Suspender durante cierto lapso la ejecución de la pena ya impuesta; vencido el término fijado sin que el favorecido reincida en la comisión de un delito o incumpla las obligaciones impuestas", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 79,
+      "texto": "¿Cuándo se aplica la suspensión condicional de la pena?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cuando la pena privativa de libertad prevista para la conducta no exceda de diez años", "es_correcta": false },
+        { "id": 2, "texto": "Cuando la pena privativa de libertad prevista para la conducta no exceda de cinco años", "es_correcta": true },
+        { "id": 3, "texto": "Cuando la pena privativa de libertad prevista para la conducta no exceda de quince años", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 80,
+      "texto": "Pronunciarse sobre los vicios formales respecto a lo actuado en el proceso penal, se realizará en:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Audiencia de flagrancia", "es_correcta": false },
+        { "id": 2, "texto": "Audiencia de formulación de cargos", "es_correcta": false },
+        { "id": 3, "texto": "Audiencia preparatoria de juicio", "es_correcta": true },
+        { "id": 4, "texto": "Audiencia de juicio", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 81,
+      "texto": "¿La acusación fiscal debe contener?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La individualización concreta de los acusados, la relación clara de los hechos, los elementos en que fundamentan su acusación, la determinación del precepto legal y la enunciación de los medios de prueba", "es_correcta": true },
+        { "id": 2, "texto": "La determinación de la responsabilidad y materialidad de la infracción de los acusados, así como también el anuncio de los elementos de convicción", "es_correcta": false },
+        { "id": 3, "texto": "La individualización del procesado, de la víctima, los medios de prueba y la prueba objeto de reparación integral", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id":82,
+      "texto": "¿Cuándo el juez de garantías penales puede dictar auto de sobreseimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cuando el fiscal se abstenga de acusar y esta decisión sea ratificada por los superiores", "es_correcta": false },
+        { "id": 2, "texto": "Cuando concluya que los hechos no constituyan delito o que los elementos de sustento no son suficientes para presumir la existencia del delito", "es_correcta": false },
+        { "id": 3, "texto": "Cuando se han establecido causas de exclusión de la antijuricidad", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 83,
+      "texto": "¿El juicio de la prueba respecto a la admisibilidad de los datos de prueba testimonial, documental y pericial, relacionados con la institución jurídica de la teoría del fruto del árbol envenenado se los realiza en la?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Audiencia preparatoria de juicio", "es_correcta": true },
+        { "id": 2, "texto": "Audiencia de juicio al momento de la práctica de la prueba", "es_correcta": false },
+        { "id": 3, "texto": "Audiencia de juicio al momento de la exhibición de documentos, objetos u otros medios", "es_correcta": false },
+        { "id": 4, "texto": "En la audiencia de formulación de cargos, luego de que él o la fiscal enumere todos los elementos de convicción que sustentan la imputación penal", "es_correcta": false }
+      ]
+    },
+     {
+      "id": 84,
+      "texto": "Cuántos días antes de la audiencia las partes realizarán el anuncio de prueba",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las partes realizarán anuncio de prueba tres días antes de la audiencia", "es_correcta": true },
+        { "id": 2, "texto": "Las partes realizarán anuncio de prueba cinco días antes de la audiencia", "es_correcta": false },
+        { "id": 3, "texto": "Las partes realizarán anuncio de prueba cuatro días antes de la audiencia", "es_correcta": false },
+        { "id": 4, "texto": "Las partes realizarán anuncio de prueba hasta el día de la audiencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 85,
+      "texto": "Quiénes ejercen jurisdicción en materia penal para el juzgamiento de las contravenciones de tránsito",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Tribunal de Garantías Penales", "es_correcta": false },
+        { "id": 2, "texto": "Juez de contravenciones de tránsito", "es_correcta": true },
+        { "id": 3, "texto": "Jueces de la Corte Provincial", "es_correcta": false },
+        { "id": 4, "texto": "Juez de Garantías Penales", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 86,
+      "texto": "El art. 643.18 del COIP indica que la sentencia debe contener ciertos requisitos para su validez. ¿Cuál de los requisitos es incorrecto?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La suspensión condicional de la pena y señalamiento del plazo dentro del cual se pagará la multa, cuando corresponda", "es_correcta": false },
+        { "id": 2, "texto": "Cuando se determine la responsabilidad penal de la persona jurídica, la o el juzgador deberá verificar los daños a los terceros para poder imponer la pena", "es_correcta": false },
+        { "id": 3, "texto": "El extracto de las versiones rendidas ante el Fiscal", "es_correcta": true },
+        { "id": 4, "texto": "La condena a reparar integralmente los daños ocasionados por la infracción con la determinación del monto económico que pagará la persona sentenciada a la víctima y demás mecanismos necesarios para la reparación integral, con determinación de las pruebas que hayan servido para la cuantificación de los perjuicios cuando corresponda", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 87,
+      "texto": "El art. 643.15 del COIP indica que: las y los profesionales que actúan en las oficinas técnicas de los juzgados de violencia contra la mujer y la familia no requieren rendir testimonio en audiencia. Sus informes se remitirán a la o el juzgador a fin de incorporarlos al proceso, y serán valorados en la audiencia. Los informes periciales no podrán ser usados en otros procesos de distinta materia que tengan como fin la revictimización o conculcación derechos. Según este criterio, ¿cuál es el principio de prueba que contraviene?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Oportunidad de la prueba", "es_correcta": false },
+        { "id": 2, "texto": "Contradicción", "es_correcta": false },
+        { "id": 3, "texto": "Libertad probatoria", "es_correcta": true },
+        { "id": 4, "texto": "Pertinencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 88,
+      "texto": "Cuáles son los requisitos para la aplicación de la suspensión condicional de la pena",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Que la pena privativa de libertad prevista para la conducta no exceda de cinco años", "es_correcta": true },
+        { "id": 2, "texto": "Que la pena privativa de libertad prevista para la conducta exceda de cinco años. Que la persona sentenciada tenga vigente otra sentencia o proceso en curso ni haya sido beneficiada por una salida alternativa en otra causa", "es_correcta": false },
+        { "id": 3, "texto": "Que los antecedentes personales, sociales y familiares del sentenciado, así como la modalidad y gravedad de la conducta sean indicativos de que existe necesidad de la ejecución de la pena", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    }
   ]
 }

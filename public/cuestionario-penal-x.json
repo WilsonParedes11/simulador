@@ -1,0 +1,311 @@
+{
+  "materia": {
+    "nombre": "Derecho Penal",
+    "id": "penal-x"
+  },
+  "cuestionario": {
+    "titulo": "Reactivos Materia Derecho Penal"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "Llega una denuncia en contra de Pedro Luis por un presunto delito de abuso de confianza, ¿cuánto tiempo tiene el fiscal para indagar durante la fase preprocesal de investigación previa?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "1 año, 2 años", "es_correcta": true },
+        { "id": 2, "texto": "6 meses, 1 año", "es_correcta": false },
+        { "id": 3, "texto": "90 días", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "texto": "El fiscal ha reunido los elementos de convicción para establecer que Luis Alberto es el presunto autor de un delito de abuso sexual, ¿con qué audiencia se debe dar inicio a la primera etapa del proceso penal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Audiencia de Presentación y sustentación de Dictamen", "es_correcta": false },
+        { "id": 2, "texto": "Audiencia de Juicio Directo", "es_correcta": false },
+        { "id": 3, "texto": "Audiencia de Formulación de Cargos", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 3,
+      "texto": "Se formula cargos en contra de María Juana por un presunto delito de Trata de Personas, ¿qué medidas cautelares sobre los bienes de María Juana puede solicitar el fiscal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Incautación, retención, embargo y prohibición de enajenar", "es_correcta": true },
+        { "id": 2, "texto": "Prohibición de enajenar, transformación, incautación, retención", "es_correcta": false },
+        { "id": 3, "texto": "Clausura provisional de locales o establecimientos. Suspensión temporal de actividades de la persona jurídica. Intervención por parte del ente público de control competente", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "texto": "Juan es representante legal de la Compañía 'Compras', quien está siendo procesado por un delito de estafa, ¿qué medidas cautelares personales para la compañía puede solicitar el fiscal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Prohibición de ausentarse del país. Obligación de presentarse periódicamente ante la o el juzgador que conoce el proceso o ante la autoridad o institución que designe. Arresto domiciliario. Dispositivo de vigilancia electrónica. Detención. Prisión preventiva", "es_correcta": false },
+        { "id": 2, "texto": "Clausura provisional de locales o establecimientos. Suspensión temporal de actividades de la persona jurídica. Intervención por parte del ente público de control competente", "es_correcta": false },
+        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 5,
+      "texto": "El Fiscal Manuel ha investigado a Mario por un delito de violación y solicita al juez se otorgue la prisión preventiva; ¿con qué finalidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Recolectar elementos de convicción de cargo y descargo", "es_correcta": false },
+        { "id": 2, "texto": "Garantizar la comparecencia del procesado con el proceso", "es_correcta": true },
+        { "id": 3, "texto": "Detener al procesado para dictar sentencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 6,
+      "texto": "Juan es fiscal de la unidad de flagrancia, ¿sobre qué delitos no le corresponde avocar conocimiento?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Violación, peculado, femicidio", "es_correcta": false },
+        { "id": 2, "texto": "Estupro, calumnia, usurpación, lesiones que no superen los 30 días de incapacidad", "es_correcta": true },
+        { "id": 3, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 7,
+      "texto": "El fiscal Juan durante la audiencia de evaluación y preparatoria a juicio podrá presentar los siguientes dictámenes:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Acusatorio, Abstentivo y Mixto", "es_correcta": true },
+        { "id": 2, "texto": "Acusatorio, Absolutorio y Mixto", "es_correcta": false },
+        { "id": 3, "texto": "Condenatorio, Absolutorio y Mixto", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "Luis Alberto es investigado por un presunto delito de extorsión durante la audiencia de evaluación y preparatoria a juicio, el juez considera que el dictamen fiscal no reúne los requisitos necesarios, ¿qué resolución tomará?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Auto de llamamiento a juicio", "es_correcta": false },
+        { "id": 2, "texto": "Sobreseimiento", "es_correcta": true },
+        { "id": 3, "texto": "Sentencia Absolutoria", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 9,
+      "texto": "Pedro Luis cometió un delito Contra la Propiedad, acepta su responsabilidad y desea acogerse al procedimiento abreviado, ¿cuándo puede solicitarlo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Desde la audiencia de formulación de cargos hasta la audiencia de juicio", "es_correcta": false },
+        { "id": 2, "texto": "En la audiencia de Evaluación y Preparatoria de Juicio", "es_correcta": false },
+        { "id": 3, "texto": "Desde la audiencia de formulación de cargos hasta la audiencia de evaluación y preparatoria de juicio", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 10,
+      "texto": "¿Cuáles son las clases de procedimientos especiales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Apelación, Casación, Revisión, De hecho", "es_correcta": false },
+        { "id": 2, "texto": "Directo, Abreviado, Expedito, Acción Privada", "es_correcta": true },
+        { "id": 3, "texto": "Denuncia, Querella, Acusación Particular", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 11,
+      "texto": "Llega a conocimiento del fiscal Manuel una denuncia por un presunto delito de Hurto en contra de María, empleada doméstica en la casa de Luisa, solicita al señor juez la aplicación del principio de oportunidad, ¿con qué finalidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Extinguir el ejercicio de la acción penal", "es_correcta": true },
+        { "id": 2, "texto": "Extinguir la pena", "es_correcta": false },
+        { "id": 3, "texto": "Prescripción de la pena", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 12,
+      "texto": "En la audiencia de juzgamiento en contra de Juan de los Palotes, por un delito de Asesinato, ¿qué medios de prueba debe presentar el fiscal y la defensa?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Versiones, armas, documentos, testigos", "es_correcta": false },
+        { "id": 2, "texto": "Testimonial, documental, pericia", "es_correcta": true },
+        { "id": 3, "texto": "Versiones, informes periciales, denuncia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 13,
+      "texto": "Durante el interrogatorio, el fiscal Manuel, ¿qué clase de preguntas podrá formular a Pedro Luis acusado por un delito de Violación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Capciosas, sugestivas, impertinentes", "es_correcta": false },
+        { "id": 2, "texto": "Abiertas, cerradas, introducción, transición", "es_correcta": true },
+        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 14,
+      "texto": "El juez Pablo ha dictado el sobreseimiento a favor de Danilo Núñez, ¿cuáles son los efectos de esta resolución?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Revocar toda medida cautelar y de protección", "es_correcta": true },
+        { "id": 2, "texto": "Señalar día y hora para la audiencia de juicio", "es_correcta": false },
+        { "id": 3, "texto": "Dictar sentencia", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 15,
+      "texto": "Se dictó sentencia condenatoria de dos años de pena privativa de libertad en contra de Luis el 20 de enero del 2015. ¿Para el cómputo del tiempo de la sentencia se contarán?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Plazo", "es_correcta": true },
+        { "id": 2, "texto": "Término", "es_correcta": false },
+        { "id": 3, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 16,
+      "texto": "Juan es aprehendido por haber asesinado a su amigo Luis en delito flagrante y es puesto a órdenes de la autoridad, en la audiencia de control de constitucionalidad y flagrancia. ¿Qué le corresponde hacer al fiscal?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Presentar dictamen acusatorio", "es_correcta": false },
+        { "id": 2, "texto": "Presentar solicitud de procedimiento abreviado", "es_correcta": false },
+        { "id": 3, "texto": "Dar inicio a la etapa de instrucción fiscal", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 17,
+      "texto": "¿Cuándo un fiscal puede solicitar la aplicación del procedimiento directo en contra de Pedro Luis?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La persona procesada acepta el hecho fáctico y acuerda con el fiscal la pena a aplicar", "es_correcta": false },
+        { "id": 2, "texto": "En delitos que tengan pena privativa de libertad hasta 10 años", "es_correcta": false },
+        { "id": 3, "texto": "En delitos flagrantes con pena privativa de libertad hasta 5 años", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 18,
+      "texto": "El recurso de hecho procede:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Cuando no se está conforme con una sentencia dictada en primera instancia", "es_correcta": false },
+        { "id": 2, "texto": "Cuando se ha negado un recurso interpuesto oportunamente", "es_correcta": true },
+        { "id": 3, "texto": "Cuando se ha violado un derecho", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 19,
+      "texto": "El fiscal Mauricio inició la etapa de instrucción por 90 días en contra de Martha, ¿con qué finalidad?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Determinar elementos de convicción, de cargo y descargo, que permitan formular o no una acusación en contra de la persona procesada", "es_correcta": true },
+        { "id": 2, "texto": "Sentenciar a la persona procesada", "es_correcta": false },
+        { "id": 3, "texto": "Establecer el tiempo de la pena para la persona procesada", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 20,
+      "texto": "En un proceso penal, ¿cuáles son los sujetos procesales?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Víctima, persona procesada, fiscalía, defensa", "es_correcta": true },
+        { "id": 2, "texto": "Denunciante, persona procesada, fiscalía, defensa", "es_correcta": false },
+        { "id": 3, "texto": "Fiscalía, Juez de Garantías Penales, denunciante, persona procesada", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 21,
+      "texto": "Juan en una fiesta agrede a su hermano Pedro causándole una incapacidadde 15 días, que tipo de acción penal es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Privada", "es_correcta": false },
+        { "id": 2, "texto": "Pública", "es_correcta": true },
+        { "id": 3, "texto": "Particular", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 22,
+      "texto": "¿El principio de legalidad significa que?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Nadie puede sufrir una pena que no esté establecida en la ley ", "es_correcta": true },
+        { "id": 2, "texto": "Nadie es culpable sin sentencia ejecutoriada", "es_correcta": false },
+        { "id": 3, "texto": "No se puede ser juzgado por jueces de excepción ", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 23,
+      "texto": "¿El principio de juicio previo establece que?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Que el acto debe estar descrito como infracción en la ley penal", "es_correcta": false },
+        { "id": 2, "texto": "Que no se puede ser sentenciado sin probarse los hechos en un juicio", "es_correcta": true },
+        { "id": 3, "texto": "Que se presume su responsabilidad hasta demostrar lo contrario ", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 24,
+      "texto": "¿El principio de presunción de inocencia significa que?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El acto ilícito debe estar descrito en una ley ", "es_correcta": false },
+        { "id": 2, "texto": "Que la infracción debe ser declarada con anterioridad al acto ", "es_correcta": false },
+        { "id": 3, "texto": "Que todo imputado es inocente hasta que se lo declare culpable en una sentencia", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 25,
+      "texto": "El principio de contradicción establece que",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las partes deben estar presente en el juicio ", "es_correcta": false },
+        { "id": 2, "texto": "Las partes pueden conocer y controvertir las pruebas ", "es_correcta": true },
+        { "id": 3, "texto": " Las partes no pueden interrogar a testigos sino solo los jueces ", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 26,
+      "texto": "El principio de oralidad se aplica",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo en la audiencia de juzgamiento", "es_correcta": false },
+        { "id": 2, "texto": "Solo en la etapa intermedia ", "es_correcta": false },
+        { "id": 3, "texto": "En todas las etapas del proceso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 27,
+      "texto": "Toda resolución judicial que afecte los derechos de las partes debe adoptarse",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Por escrito ", "es_correcta": false },
+        { "id": 2, "texto": "Mediante audiencias", "es_correcta": true },
+        { "id": 3, "texto": "Con testigos.", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 28,
+      "texto": "En el sistema oral, en qué casos se puede utilizar documentos",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Siempre que no reemplacen a peritos y testigos ", "es_correcta": true },
+        { "id": 2, "texto": "Cuando sustituye a un peritaje ", "es_correcta": false },
+        { "id": 3, "texto": "Cuando se agrega en las audiencias ", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 29,
+      "texto": "En materia procesal penal se puede juzgar?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Solo los días hábiles, porque sábados y domingos no se trabaja ", "es_correcta": false },
+        { "id": 2, "texto": "Solo los sábados y domingos ", "es_correcta": false },
+        { "id": 3, "texto": "En cualquier día y a cualquier hora ", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 30,
+      "texto": "¿Los órganos de jurisdicción penal son:?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La Fiscalía General del Estado", "es_correcta": false },
+        { "id": 2, "texto": "La defensoría pública", "es_correcta": false },
+        { "id": 3, "texto": "Los jueces establecidos por la ley para el efecto", "es_correcta": true }
+      ]
+    }
+  ]
+}

@@ -71,6 +71,15 @@
       "color": "blue",
       "total_preguntas": 99,
       "descripcion": "Contratos, obligaciones y derechos reales avanzados"
+    },
+    {
+      "id": "penal-x",
+      "nombre": "Derecho Penal X",
+      "archivo": "cuestionario-penal-x.json",
+      "icon": "🔫",
+      "color": "purple",
+      "total_preguntas": 30,
+      "descripcion": "Derecho Penal X"
     } 
   ]
 }
