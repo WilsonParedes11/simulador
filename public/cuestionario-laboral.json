@@ -617,9 +617,9 @@
       "texto": "Indique usted cuáles son los requerimientos para ser maestro de taller:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Ser mayor de dieciocho años y tener título profesional conferido legalmente; Abrir, bajo dirección y responsabilidad personal, un taller y ponerlo al servicio del público; y Estar inscrito en la Dirección Nacional de Empleo y Recursos Humanos", "es_correcta": false },
+        { "id": 1, "texto": "Ser mayor de dieciocho años y tener título profesional conferido legalmente; Abrir, bajo dirección y responsabilidad personal, un taller y ponerlo al servicio del público; y Estar inscrito en la Dirección Nacional de Empleo y Recursos Humanos", "es_correcta": true },
         { "id": 2, "texto": "Tener la edad de veinte años y tener título profesional conferido legalmente; Abrir, bajo dirección y responsabilidad de terceros, un taller y ponerlo al servicio del público; y No es necesaria la inscripción en ninguna entidad pública", "es_correcta": false },
-        { "id": 3, "texto": "Tener título profesional conferido legalmente; Abrir, bajo dirección y responsabilidad personal, un taller y ponerlo al servicio del público; y Estar inscrito en la Dirección Nacional de Empleo y Recursos Humanos", "es_correcta": true },
+        { "id": 3, "texto": "Tener título profesional conferido legalmente; Abrir, bajo dirección y responsabilidad personal, un taller y ponerlo al servicio del público; y Estar inscrito en la Dirección Nacional de Empleo y Recursos Humanos", "es_correcta": false },
         { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
       ]
     },
@@ -695,9 +695,9 @@
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "20 a 30", "es_correcta": false },
-        { "id": 2, "texto": "8 a 40", "es_correcta": false },
+        { "id": 2, "texto": "8 a 40", "es_correcta": true },
         { "id": 3, "texto": "350 a 396", "es_correcta": false },
-        { "id": 4, "texto": "De 8 a 55", "es_correcta": true }
+        { "id": 4, "texto": "De 8 a 55", "es_correcta": false }
       ]
     },
     {
@@ -753,6 +753,83 @@
         { "id": 2, "texto": "Por falta de probidad o por conducta inmoral del trabajador", "es_correcta": true },
         { "id": 3, "texto": "Por probidad o conducta moral del trabajador", "es_correcta": false },
         { "id": 4, "texto": "Por falta de probidad o conducta inmoral del empleador", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 69,
+      "texto": "Según el artículo 177 del Código de Trabajo, el trabajador que adoleciere de enfermedad no profesional deberá comunicar este particular, por escrito, al empleador y a la inspección del trabajo respectiva, dentro de",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "5 primeros días", "es_correcta": false },
+        { "id": 2, "texto": "10 primeros días", "es_correcta": false },
+        { "id": 3, "texto": "24 horas antes", "es_correcta": false },
+        { "id": 4, "texto": "3 primeros días", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 70,
+      "texto": "Las entidades públicas o semipúblicas, las empresas o empleadores, estarán obligados a presentar toda la información requerida, que servirá para su cabal rendimiento ante:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Consejo Nacional", "es_correcta": false },
+        { "id": 2, "texto": "Inspector de trabajo", "es_correcta": false },
+        { "id": 3, "texto": "Consejo Nacional de Trabajo y Salarios", "es_correcta": true },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 71,
+      "texto": "Según el Artículo 362 del Código de Trabajo ocasiona incapacidad temporal toda lesión curada dentro del plazo de:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Un año de producida y que deja al trabajador capacitado para su trabajo habitual", "es_correcta": true },
+        { "id": 2, "texto": "Cinco años de producida y que deja al trabajador capacitado para su trabajo habitual", "es_correcta": false },
+        { "id": 3, "texto": "Dos años de producida y que deja al trabajador capacitado para su trabajo habitual", "es_correcta": false },
+        { "id": 4, "texto": "Tres años de producida y que deja al trabajador capacitado para su trabajo habitual", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 72,
+      "texto": "Al tenor del Artículo 369 del Código de Trabajo señala que, si el accidente causa la muerte del trabajador y ésta se produce dentro de los ciento ochenta días siguientes al accidente, el empleador está obligado a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Indemnizar a los derechos habientes del fallecido con una suma igual al sueldo o salario de cuatro años", "es_correcta": true },
+        { "id": 2, "texto": "Pagar la mitad del salario básico unificado a los derechohabientes", "es_correcta": false },
+        { "id": 3, "texto": "Abonar a los derechohabientes del fallecido las dos terceras partes del sueldo", "es_correcta": false },
+        { "id": 4, "texto": "Indemnizar por los daños que sufriere", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 73,
+      "texto": "¿Quiénes están obligados a prestar al trabajador la debida protección para garantizar y hacer eficaces sus derechos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los empleadores", "es_correcta": false },
+        { "id": 2, "texto": "Los funcionarios judiciales y administrativos", "es_correcta": true },
+        { "id": 3, "texto": "El comité de empresa", "es_correcta": false },
+        { "id": 4, "texto": "La directiva de la institución en que laboren", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 74,
+      "texto": "¿Cuáles son las leyes supletorias del Código del Trabajo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Código Penal", "es_correcta": false },
+        { "id": 2, "texto": "Código Orgánico General de Procesos Y Código Civil", "es_correcta": true },
+        { "id": 3, "texto": "Código Administrativo", "es_correcta": false },
+        { "id": 4, "texto": "Todas las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 75,
+      "texto": "¿El trabajo nocturno está prohibido para?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Mayores de 18 años", "es_correcta": false },
+        { "id": 2, "texto": "Menores de 18 años", "es_correcta": true },
+        { "id": 3, "texto": "Mujeres", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
       ]
     },
     {
@@ -855,6 +932,83 @@
       ]
     },
     {
+      "id": 85,
+      "texto": "En caso que el artesano no entregue la obra en la fecha pactada el contratista tendrá derecho a la rebaja del:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "20% por día de retardo", "es_correcta": false },
+        { "id": 2, "texto": "15% por semana de retardo", "es_correcta": false },
+        { "id": 3, "texto": "1% por día de retardo", "es_correcta": true },
+        { "id": 4, "texto": "-4% por día de retardo", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 86,
+      "texto": "¿En qué casos el inspector de trabajo podrá suspender la relación laboral?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En el caso de contrato colectivo", "es_correcta": false },
+        { "id": 2, "texto": "En caso de litispendencia", "es_correcta": false },
+        { "id": 3, "texto": "En caso fortuito o Fuerza mayor", "es_correcta": true },
+        { "id": 4, "texto": "En caso de visto bueno a petición del empleador", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 87,
+      "texto": "¿La incompetencia en juicios laborales solo podrá alegarse cómo?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Excepciones previas", "es_correcta": true },
+        { "id": 2, "texto": "Reconvención", "es_correcta": false },
+        { "id": 3, "texto": "En la práctica de la diligencia", "es_correcta": false },
+        { "id": 4, "texto": "En la contestación a la reconvención", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 88,
+      "texto": "¿Cómo se determina el cómputo del trabajo efectivo de ocho horas?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Trabajo efectivo es considerado como tiempo de trabajo en el que el trabajador se halla a disposición de sus superior", "es_correcta": true },
+        { "id": 2, "texto": "Trabajo efectivo es aquel que está determinado en el contrato de trabajo", "es_correcta": false },
+        { "id": 3, "texto": "Trabajo efectivo es el que la ley lo considera como tal", "es_correcta": false },
+        { "id": 4, "texto": "Trabajo efectivo es computable desde el inicio de la jornada", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 89,
+      "texto": "¿Cuál será la multa que se impondrá por una declaración falsa de utilidades?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "De diez a cuarenta salarios mínimos vitales según lo disponga el inspector de trabajo", "es_correcta": false },
+        { "id": 2, "texto": "De diez a veinte salarios mínimos vitales según la capacidad económica de la empresa", "es_correcta": true },
+        { "id": 3, "texto": "De diez a doce salarios mínimos vitales según la capacidad económica de la empresa", "es_correcta": false },
+        { "id": 4, "texto": "De veinte a treinta salarios básicos vitales según la capacidad económica de la empresa", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 90,
+      "texto": "A falta de estipulación del precio de una obra esta se lo determinará mediante:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Mediante un exhorto judicial", "es_correcta": false },
+        { "id": 2, "texto": "Mediante una sentencia en firme", "es_correcta": false },
+        { "id": 3, "texto": "Mediante un Avaluó Pericial", "es_correcta": true },
+        { "id": 4, "texto": "Normas general prevista para cada caso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 91,
+      "texto": "De acuerdo a lo previsto en la constitución el trabajo es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Un derecho y un deber social", "es_correcta": false },
+        { "id": 2, "texto": "Un deber y un deber moral", "es_correcta": false },
+        { "id": 3, "texto": "Un derecho económico", "es_correcta": false },
+        { "id": 4, "texto": "Un derecho, un deber social y un derecho económico", "es_correcta": true }
+      ]
+    },
+    {
       "id": 92,
       "texto": "Principios generales del derecho laboral están contenidos en la constitución:",
       "tipo": "opcion_multiple",
@@ -903,8 +1057,8 @@
       "texto": "En el caso de presentarse una demanda laboral en la que intervienen varios trabajadores, la cuantía se la fijará:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "En base a la suma de todas las pretensiones", "es_correcta": true },
-        { "id": 2, "texto": "Se considera solo el monto de la mayor reclamación", "es_correcta": false },
+        { "id": 1, "texto": "En base a la suma de todas las pretensiones", "es_correcta": false },
+        { "id": 2, "texto": "Se considera solo el monto de la mayor reclamación", "es_correcta": true },
         { "id": 3, "texto": "Se considera solo el monto de la menor reclamación", "es_correcta": false },
         { "id": 4, "texto": "Como son varios los actores la cuantía es indeterminada", "es_correcta": false }
       ]
@@ -980,7 +1134,7 @@
       "texto": "¿Quiénes tienen derecho al paro?",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "El empleador", "es_correcta": false },
+        { "id": 1, "texto": "El empleador", "es_correcta": true },
         { "id": 2, "texto": "Servidores públicos", "es_correcta": false },
         { "id": 3, "texto": "Alcantarillado", "es_correcta": false },
         { "id": 4, "texto": "Correos y telecomunicaciones", "es_correcta": false }
@@ -992,8 +1146,8 @@
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "2 días", "es_correcta": false },
-        { "id": 2, "texto": "3 días", "es_correcta": true },
-        { "id": 3, "texto": "5 días", "es_correcta": false },
+        { "id": 2, "texto": "3 días", "es_correcta": false },
+        { "id": 3, "texto": "5 días", "es_correcta": true },
         { "id": 4, "texto": "No tiene término", "es_correcta": false }
       ]
     },
@@ -1004,8 +1158,8 @@
       "opciones": [
         { "id": 1, "texto": "No tiene término", "es_correcta": false },
         { "id": 2, "texto": "6 días", "es_correcta": false },
-        { "id": 3, "texto": "15 días", "es_correcta": false },
-        { "id": 4, "texto": "10 días", "es_correcta": true }
+        { "id": 3, "texto": "15 días", "es_correcta": true },
+        { "id": 4, "texto": "10 días", "es_correcta": false }
       ]
     },
     {
@@ -1036,9 +1190,9 @@
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "24 horas", "es_correcta": false },
-        { "id": 2, "texto": "48 horas", "es_correcta": false },
+        { "id": 2, "texto": "48 horas", "es_correcta": true },
         { "id": 3, "texto": "15 días", "es_correcta": false },
-        { "id": 4, "texto": "30 días", "es_correcta": true }
+        { "id": 4, "texto": "30 días", "es_correcta": false }
       ]
     },
     {
