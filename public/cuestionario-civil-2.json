@@ -862,8 +862,8 @@
         { "id": 1, "texto": "Son normas que ordenan que algo sea realizado", "es_correcta": false },
         { "id": 2, "texto": "Son normas que ordenan que se realice en la mayor medida posible", "es_correcta": false },
         { "id": 3, "texto": "Son normas que ordenan se realice dentro de las posibilidades jurídicas", "es_correcta": false },
-        { "id": 4, "texto": "Son normas que ordenan se realice dentro de las posibilidades jurídicas reales existentes", "es_correcta": true },
-        { "id": 5, "texto": "Son normas que ordenan se cumplan los principios a costa de lo que sea posible", "es_correcta": false }
+        { "id": 4, "texto": "Son normas que ordenan se realice dentro de las posibilidades jurídicas reales existentes", "es_correcta": false },
+        { "id": 5, "texto": "Son normas que ordenan se cumplan los principios a costa de lo que sea posible", "es_correcta": true }
       ]
     },
     {
@@ -872,12 +872,12 @@
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Principio de protección a la familia", "es_correcta": false },
-        { "id": 2, "texto": "Principio de protección al matrimonio", "es_correcta": true },
+        { "id": 2, "texto": "Principio de protección al matrimonio", "es_correcta": false },
         { "id": 3, "texto": "Principio de igualdad (de los cónyuges y los hijos)", "es_correcta": false },
         { "id": 4, "texto": "Principio de protección del más débil (MSN y cónyuge más débil)", "es_correcta": false },
         { "id": 5, "texto": "Principio de autonomía de la voluntad", "es_correcta": false },
         { "id": 6, "texto": "Principio de intervención mínima del estado", "es_correcta": false },
-        { "id": 7, "texto": "Principio de solidaridad", "es_correcta": false }
+        { "id": 7, "texto": "Principio de solidaridad", "es_correcta": true }
       ]
     },
     {
