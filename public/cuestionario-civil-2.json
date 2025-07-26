@@ -556,6 +556,486 @@
         { "id": 3, "texto": "Requiere solemnidad", "es_correcta": false },
         { "id": 4, "texto": "Solo existe en testamentos", "es_correcta": false }
       ]
+    },
+    {
+      "id": 51,
+      "texto": "Se tramitarán por el procedimiento sumario:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La prestación de alimentos", "es_correcta": true },
+        { "id": 2, "texto": "El divorcio por mutuo acuerdo", "es_correcta": true },
+        { "id": 3, "texto": "El divorcio contencioso", "es_correcta": false },
+        { "id": 4, "texto": "Las acciones posesorias", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 52,
+      "texto": "Se tramitarán por el procedimiento sumario (escoja la opción incorrecta):",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "El despido ineficaz", "es_correcta": false },
+        { "id": 2, "texto": "El divorcio contencioso", "es_correcta": true },
+        { "id": 3, "texto": "La partición voluntaria", "es_correcta": false },
+        { "id": 4, "texto": "Las controversias generadas por acuerdo en el precio a pagar por expropiación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 53,
+      "texto": "Las reglas del procedimiento sumario se rigen por lo siguiente:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se tiene un plazo de quince días para contestar la demanda y la reconvención", "es_correcta": false },
+        { "id": 2, "texto": "Solo se admite la reconvención conexa", "es_correcta": true },
+        { "id": 3, "texto": "Para contestar la demanda y la reconvención se lo hará en el término de diez días después de la última citación al demandado", "es_correcta": false },
+        { "id": 4, "texto": "Se desarrollará en audiencia única", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 54,
+      "texto": "En materia de niñez y adolescencia, la audiencia única se desarrollará:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En el término de veinte días contados a partir de la citación", "es_correcta": false },
+        { "id": 2, "texto": "En el término máximo de veinte días contados a partir de la citación", "es_correcta": true },
+        { "id": 3, "texto": "En el término mínimo de veinte días contados a partir de la citación", "es_correcta": false },
+        { "id": 4, "texto": "En el plazo de veinte días contados a partir de la citación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 55,
+      "texto": "La audiencia en materia de niñez y adolescencia tiene:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Una fase", "es_correcta": false },
+        { "id": 2, "texto": "Dos fases", "es_correcta": true },
+        { "id": 3, "texto": "Tres fases", "es_correcta": false },
+        { "id": 4, "texto": "Cuatro fases", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 56,
+      "texto": "La audiencia en materia de niñez y adolescencia tiene dos fases: la primera fase de saneamiento y debate probatorio",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 57,
+      "texto": "La audiencia en materia de niñez y adolescencia tiene dos fases: la primera fase de saneamiento y alegato inicial",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 58,
+      "texto": "La audiencia en materia de niñez y adolescencia tiene dos fases: la primera fase de saneamiento y práctica de pruebas",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 59,
+      "texto": "La audiencia en materia de niñez y adolescencia tiene dos fases: la primera fase de saneamiento, fijación de puntos en debate y conciliación; y, la segunda, de prueba y alegatos",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": true },
+        { "id": 2, "texto": "Falso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 60,
+      "texto": "La audiencia en materia de niñez y adolescencia tiene dos fases: la segunda fase se desarrollará en el siguiente orden: conciliación, debate probatorio, alegato inicial",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 61,
+      "texto": "La audiencia en materia de niñez y adolescencia tiene dos fases: la segunda fase se desarrollará en el siguiente orden: debate probatorio, alegato inicial, práctica de pruebas y alegato final",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": true },
+        { "id": 2, "texto": "Falso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 62,
+      "texto": "En materia de niñez y adolescencia y de despido intempestivo de mujeres embarazadas o en período de lactancia, la audiencia única se realizará en el término máximo de veinte días contados a partir de la citación",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": true },
+        { "id": 2, "texto": "Falso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 63,
+      "texto": "En materia de niñez y adolescencia y de despido intempestivo de mujeres embarazadas o en período de lactancia, la audiencia única se realizará en el plazo máximo de veinte días contados a partir de la citación",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 64,
+      "texto": "En materia de niñez y adolescencia y de despido intempestivo de mujeres embarazadas o en período de lactancia, la audiencia única se realizará en el término mínimo de veinte días contados a partir de la citación",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 65,
+      "texto": "En materia de niñez y adolescencia y de despido intempestivo de mujeres embarazadas o en período de lactancia, la audiencia única se realizará en el plazo mínimo de veinte días contados a partir de la citación",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 66,
+      "texto": "En las controversias sobre alimentos, tenencia, visitas y patria potestad de niñas, niños y adolescentes, la o el juzgador para dictar la sentencia no podrá suspender la audiencia para emitir la decisión oral, conforme el Código de la Niñez y Adolescencia",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 67,
+      "texto": "En las controversias sobre alimentos, tenencia, visitas y patria potestad de niñas, niños y adolescentes, la o el juzgador para dictar la sentencia no podrá suspender la audiencia para emitir la decisión oral, conforme el Código Orgánico General de Procesos",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": true },
+        { "id": 2, "texto": "Falso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 68,
+      "texto": "Serán apelables las resoluciones dictadas en materia de alimentos, tenencia, visitas, patria potestad serán apelables solamente en efecto no suspensivo",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": true },
+        { "id": 2, "texto": "Falso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 69,
+      "texto": "El efecto suspensivo es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "No se continúa con la sustanciación del proceso hasta que el juzgador resuelva sobre la impugnación propuesta por el apelante", "es_correcta": false },
+        { "id": 2, "texto": "No se continúa con la sustanciación del proceso hasta que el juzgador evacúe las pruebas de las partes", "es_correcta": false },
+        { "id": 3, "texto": "No se continúa con la sustanciación del proceso hasta que el juzgador resuelva el incidente presentado", "es_correcta": false },
+        { "id": 4, "texto": "No se continúa con la sustanciación del proceso hasta que el tribunal resuelva sobre la impugnación propuesta por el apelante", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 70,
+      "texto": "El efecto no suspensivo es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Se cumple lo ordenado en la resolución impugnada y se remiten al tribunal de apelación las copias para conocimiento y resolución", "es_correcta": true },
+        { "id": 2, "texto": "Se cumple lo ordenado en la resolución dictada por el juez y se remiten al tribunal de apelación las copias para conocimiento y resolución", "es_correcta": false },
+        { "id": 3, "texto": "Se cumple lo ordenado en la resolución dictada por el juez y se remiten a la Corte Nacional de Justicia las copias para conocimiento y resolución", "es_correcta": false },
+        { "id": 4, "texto": "Se cumple lo ordenado en la resolución impugnada por el juez y se remiten a la Corte Nacional de Justicia las copias para conocimiento y resolución", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 71,
+      "texto": "El derecho a alimentos es connatural a la relación parento-filial y está relacionado con el derecho a la vida, la supervivencia y una vida digna. Implica la garantía de proporcionar los recursos necesarios para la satisfacción de las necesidades básicas de los alimentarios que incluye: 1. Alimentación nutritiva, equilibrada y suficiente; 2. Salud integral: prevención, atención médica y provisión de medicinas; 3. Educación; 4. Cuidado; 5. Vestuario adecuado; 6. Vivienda segura, higiénica y dotada de los servicios básicos; 7. Transporte; 8. Cultura, recreación y deportes; 9. Rehabilitación y ayudas técnicas si el derechohabiente tuviere alguna discapacidad temporal o definitiva; y, 10. Actividades de turismo",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 72,
+      "texto": "El derecho de alimentos es intransferible, intransmisible, irrenunciable, imprescriptible, inembargable y admite compensación y reembolso de lo pagado, salvo las pensiones de alimentos que han sido fijadas con anterioridad y no hayan sido pagadas y de madres que hayan efectuado gastos prenatales que no hayan sido reconocidos con anterioridad, casos en los cuales podrán compensarse y transmitirse a los herederos",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 73,
+      "texto": "Tienen derecho a reclamar alimentos: 1. Las niñas, niños y adolescentes, salvo los emancipados voluntariamente que no tengan ingresos propios, a quienes se les suspenderá el ejercicio de éste derecho de conformidad con la presente norma; 2. Los adultos o adultas hasta la edad de 21 años que demuestren que se encuentran cursando estudios en cualquier nivel educativo que les impida o dificulte dedicarse a una actividad productiva y carezcan de recursos propios y suficientes; y, 3. Las personas de cualquier edad, que padezcan de una discapacidad o sus circunstancias físicas o mentales les impida o dificulte procurarse los medios para subsistir por sí mismas, conforme conste del respectivo certificado emitido por el Consejo Nacional de Discapacidades CONADIS, o de la institución de salud que hubiere conocido del caso que para el efecto deberá presentarse",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 74,
+      "texto": "Los padres son los titulares principales de la obligación alimentaria, salvo en los casos de limitación, suspensión o privación de la patria potestad. En caso de: ausencia, impedimento, insuficiencia de recursos o discapacidad de los obligados principales, debidamente comprobado por quien lo alega, la autoridad competente ordenará que la prestación de alimentos sea pagada o completada por uno o más de los obligados subsidiarios",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 75,
+      "texto": "Los obligados subsidiarios pagarán la pensión alimenticia en atención a su capacidad económica siempre y cuando no se encuentren discapacitados, en su orden: 1. Los abuelos/as; 2. Los hermanos/as que hayan cumplido 18 años y no estén comprendidos en los casos de los numerales dos y tres del artículo anterior; y, 3. Los tíos/as",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 76,
+      "texto": "Los parientes que hubieren realizado el pago de la pensión alimenticia podrán ejercer la acción de repetición de lo pagado en contra del estado. Los jueces aplicarán de oficio los instrumentos internacionales ratificados por el Ecuador a fin de garantizar el derecho de alimentos de los niños, niñas y adolescentes, hijas e hijos de padres o madres que hubieren migrado al exterior, y dispondrán todas las medidas necesarias para asegurar el cobro efectivo de la pensión",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 77,
+      "texto": "Estarán legitimados para demandar la prestación del derecho de alimentos a favor de un niño, niña o adolescente o de las personas de cualquier edad que padezcan de una discapacidad física o mental que les impida hacerlo por sí mismas: 1. La madre o el padre bajo cuyo cuidado se encuentre el hijo o hija y a falta de ellos, la persona que ejerza su representación legal o quien esté a cargo de su cuidado; y, 2. Los y las adolescentes mayores de 14 años",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 78,
+      "texto": "Para plantear la demanda no se requerirá del auspicio de abogado. El o la reclamante la presentarán en el formulario que para este propósito diseñará y publicitará el Consejo de la Judicatura y que podrá ser presentado en el domicilio del demandado o del actor, a elección de este último. Si por la complejidad del caso, el juez/a o la parte procesal considerare que es necesario el patrocinio legal, dispondrá la participación de un defensor público o de un defensor privado, respectivamente",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 79,
+      "texto": "La pensión de alimentos se debe desde la presentación de la demanda. El aumento se debe desde la citación al demandado, pero su reducción es exigible sólo desde la fecha de la resolución que la declara",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 80,
+      "texto": "La fijación de la pensión provisional alimenticia la fijará el Juez/a de acuerdo a la Tabla de Pensiones Alimenticias Mínimas que con base en los criterios previstos en la presente ley, elaborará el Ministerio encargado de los asuntos de inclusión económica y social, al momento de expedir la sentencia",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 81,
+      "texto": "Los clásicos principios del Derecho de Familia fueron:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Matrimonio religioso e indisoluble", "es_correcta": false },
+        { "id": 2, "texto": "Incapacidad relativa de la mujer casada", "es_correcta": false },
+        { "id": 3, "texto": "Administración unitaria y concentrada en el marido de la sociedad conyugal", "es_correcta": false },
+        { "id": 4, "texto": "Patria potestad fuertemente favorecida", "es_correcta": false },
+        { "id": 5, "texto": "Filiación matrimonial fuertemente favorecida", "es_correcta": false },
+        { "id": 6, "texto": "Matrimonio civil", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 82,
+      "texto": "Para Robert Alexy, qué son los principios:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Son normas que ordenan que algo sea realizado", "es_correcta": false },
+        { "id": 2, "texto": "Son normas que ordenan que se realice en la mayor medida posible", "es_correcta": false },
+        { "id": 3, "texto": "Son normas que ordenan se realice dentro de las posibilidades jurídicas", "es_correcta": false },
+        { "id": 4, "texto": "Son normas que ordenan se realice dentro de las posibilidades jurídicas reales existentes", "es_correcta": true },
+        { "id": 5, "texto": "Son normas que ordenan se cumplan los principios a costa de lo que sea posible", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 83,
+      "texto": "¿Cuáles son los nuevos principios del Derecho de Familia?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principio de protección a la familia", "es_correcta": false },
+        { "id": 2, "texto": "Principio de protección al matrimonio", "es_correcta": true },
+        { "id": 3, "texto": "Principio de igualdad (de los cónyuges y los hijos)", "es_correcta": false },
+        { "id": 4, "texto": "Principio de protección del más débil (MSN y cónyuge más débil)", "es_correcta": false },
+        { "id": 5, "texto": "Principio de autonomía de la voluntad", "es_correcta": false },
+        { "id": 6, "texto": "Principio de intervención mínima del estado", "es_correcta": false },
+        { "id": 7, "texto": "Principio de solidaridad", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 84,
+      "texto": "Cuáles son las funciones esenciales para el desarrollo de todo ser humano que mejor cumple la familia?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La función biológica (sexual y reproductiva)", "es_correcta": false },
+        { "id": 2, "texto": "Educativa (socializa a los niños en cuanto a conductas, hábitos y valores)", "es_correcta": false },
+        { "id": 3, "texto": "Económicas (alimentación, salud, habitación, vestuario y recreación)", "es_correcta": false },
+        { "id": 4, "texto": "Función protectora (seguridad y cuidados de sus integrantes, principalmente de los más débiles: niños, ancianos e incapaces)", "es_correcta": false },
+        { "id": 5, "texto": "La función social (que permite una interrelación con toda la sociedad)", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 85,
+      "texto": "De acuerdo a la Declaración Universal de los Derechos Humanos, cómo este instrumento Internacional la considera a la familia? La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la familia, la sociedad y del Estado",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 86,
+      "texto": "Desde el neoconstitucionalismo el rol del juez en la emisión de las resoluciones en temas de Derecho de Familia, lo fundamenta en base a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Principios, valores y normas", "es_correcta": true },
+        { "id": 2, "texto": "Principios, normas y leyes", "es_correcta": false },
+        { "id": 3, "texto": "Resoluciones y sentencias", "es_correcta": false },
+        { "id": 4, "texto": "Acuerdos ministeriales y decretos presidenciales", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 87,
+      "texto": "¿Cuál de los dos criterios es el fundamento del Rol de los Jueces?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Los derechos humanos valen en la medida que los reconocen las leyes", "es_correcta": false },
+        { "id": 2, "texto": "Las leyes valen en la medida que respetan los contenidos de los derechos humanos", "es_correcta": true },
+        { "id": 3, "texto": "La cultura jurídica en la Constitución se inspira en derechos antes que en normas jurídicas", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 88,
+      "texto": "El Derecho es una obra colectiva porque inicia el constituyente, desarrolla el legislador y culmina el juez",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": true },
+        { "id": 2, "texto": "Falso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 89,
+      "texto": "En relación a la elaboración de sentencias en lo pertinente a la aplicación de las fuentes del Derecho el juez puede aplicar directamente la ley sin que sea indispensable o necesario la mediación legislativa",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 90,
+      "texto": "En los procesos sumarios cuya principal pretensión es la fijación de pensión alimenticia de NNA, la inasistencia a la audiencia única del accionante o de ninguna de las partes, obligará al juzgador a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Emitir un auto suspensivo ratificando la pensión provisional fijada en la calificación de la demanda", "es_correcta": false },
+        { "id": 2, "texto": "Emitir un auto diferido ratificando la pensión provisional fijada en la audiencia", "es_correcta": false },
+        { "id": 3, "texto": "Emitir un auto interlocutorio ratificando la pensión provisional fijada en la calificación de la demanda", "es_correcta": true },
+        { "id": 4, "texto": "Emitir un auto de sustanciación ratificando la pensión provisional fijada en la resolución", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 91,
+      "texto": "Las fases de la audiencia única del juicio sumario son:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Primera fase: saneamiento, fijación puntos de debate y conciliación", "es_correcta": false },
+        { "id": 2, "texto": "Segunda fase: prueba y alegatos - debate probatorio, alegato inicial, práctica de pruebas, alegato final", "es_correcta": false },
+        { "id": 3, "texto": "Tercera fase: resolución y recursos de apelación", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 92,
+      "texto": "En materia de niñez y adolescencia, la audiencia única se realizará en el término:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Máximo de 30 días contados a partir de la citación", "es_correcta": false },
+        { "id": 2, "texto": "Máximo 20 días contados a partir de la citación", "es_correcta": true },
+        { "id": 3, "texto": "Máximo 10 días contados a partir de la citación", "es_correcta": false },
+        { "id": 4, "texto": "Máximo 5 días contados a partir de la citación", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 93,
+      "texto": "Serán apelables las resoluciones dictadas en el procedimiento sumario relativas a alimentos, tenencia, visitas, patria potestad, despojo violento, despojo judicial solamente en efecto diferido",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 94,
+      "texto": "Los miembros de la familia ampliada que en virtud de una medida de protección dispuesta por la autoridad competente o en ejercicio de la tutela se encuentren conviviendo con niños, niñas y adolescentes titulares del derecho de alimentos, no serán obligados subsidiarios de la pensión de alimentos",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": true },
+        { "id": 2, "texto": "Falso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 95,
+      "texto": "Se admitirá la demostración de la carencia de recursos del presunto padre, madre o pariente consanguíneo obligado a sufragar los gastos que demande el examen de ADN, así como las costas procesales y los gastos del abogado defensor, cuando del estudio de la oficina técnica se probare dicho particular y de conformidad con la prueba que se actúe en la audiencia respectiva",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 96,
+      "texto": "Se puede pagar la pensión alimenticia, los subsidios y beneficios adicionales al alimentado en efectivo. Podrá además efectuarse el pago de la pensión alimenticia y de los subsidios y beneficios adicionales de la siguiente manera: a) La constitución de derechos de usufructo, la percepción de una pensión de arrendamiento u otro mecanismo similar, que aseguren rentas u otros frutos suficientes para la debida prestación de alimentos del beneficiario; y, b) El pago o satisfacción directos por parte del obligado, de las necesidades del beneficiario que determine el el padre o madre que tiene la patria potestad del menor",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 97,
+      "texto": "La condición que debe preceder para la aplicación de las medidas cautelares reales a los obligados subsidiarios son las demás medidas cautelares reales previstas en la presente ley. Se impondrán a los obligados subsidiarios siempre que hayan sido legalmente citados con la demanda y bajo prevenciones de ley",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": true },
+        { "id": 2, "texto": "Falso", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 98,
+      "texto": "Cuál es la sanción que establece el Consejo de la Judicatura para los jueces que incumplan la fijación de términos y plazos?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Suspensión de 30 a 45 días", "es_correcta": false },
+        { "id": 2, "texto": "Suspensión de 45 a 60 días", "es_correcta": false },
+        { "id": 3, "texto": "Suspensión de 60 a 90 días", "es_correcta": true },
+        { "id": 4, "texto": "Suspensión de treinta días y multa", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 99,
+      "texto": "El padre o madre que adeude dos o más pensiones de alimentos, mientras no cancele las obligaciones vencidas quedará inhabilitado para: a) Ser candidato/a a cualquier dignidad de elección popular; b) Ocupar cargo público para el cual hubiere sido seleccionado/a en concurso público o por designación; c) Enajenar bienes muebles o inmuebles, salvo que los beneficios sean directamente para el pago de alimentos adeudados, en cuyo caso se requerirá autorización del otro progenitor; y, d) Prestar garantías prendarias o hipotecarias",
+      "tipo": "verdadero_falso",
+      "opciones": [
+        { "id": 1, "texto": "Verdadero", "es_correcta": false },
+        { "id": 2, "texto": "Falso", "es_correcta": true }
+      ]
     }
   ]
 }
