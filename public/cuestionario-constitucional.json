@@ -628,8 +628,8 @@
       "texto": "De acuerdo a la Constitución de la República del Ecuador: Las personas tienen derecho a desarrollar su capacidad creativa, al ejercicio digno y sostenido de las actividades culturales y artísticas, y a beneficiarse de la:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Remuneración económica del $70% si ceden sus derechos de patente.", "es_correcta": false },
-        { "id": 2, "texto": "Protección de los derechos morales y patrimoniales que les correspondan por las producciones científicas, literarias o artísticas de su autoría.", "es_correcta": true },
+        { "id": 1, "texto": "Remuneración económica del $70% si ceden sus derechos de patente.", "es_correcta": true },
+        { "id": 2, "texto": "Protección de los derechos morales y patrimoniales que les correspondan por las producciones científicas, literarias o artísticas de su autoría.", "es_correcta": false },
         { "id": 3, "texto": "Publicidad duradera de un año en todas sus creaciones.", "es_correcta": false },
         { "id": 4, "texto": "Protección a su patrimonio cultural.", "es_correcta": false }
       ]
@@ -792,7 +792,326 @@
           "es_correcta": false
         }
         ]
-    }
+    },
+        {
+      "id": 71,
+      "texto": "De acuerdo a la CRE, los símbolos patrios e idiomas nacionales son:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "La bandera, el escudo y el himno nacional de cada una de la provincia, el castellano es el idioma oficial del Ecuador; el castellano, el kichwa, el shuar son idiomas oficiales de relación intercultural", "es_correcta": false },
+        { "id": 2, "texto": "La bandera, el escudo y el himno nacional, el castellano es el idioma oficial del Ecuador, el castellano, el kichwa, son idiomas oficiales de relación intercultural", "es_correcta": false },
+        { "id": 3, "texto": "La bandera, el escudo y el himno nacional, establecidos por la ley, son los símbolos de la patria. El castellano es el idioma oficial del Ecuador; el castellano, el kichwa y el shuar son idiomas oficiales de relación intercultural", "es_correcta": true },
+        { "id": 4, "texto": "La bandera, el escudo; el castellano es el idioma oficial del Ecuador, el castellano, el kichwa, el shuar son idiomas oficiales de relación intercultural", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 72,
+      "texto": "De acuerdo a la CRE, el Ecuador es un Estado constitucional de:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Derechos y justicia, social, democrático, soberano, independiente, unitario, intercultural, plurinacional y laico", "es_correcta": true },
+        { "id": 2, "texto": "Garantizar la ética laica como sustento del quehacer público, plurinacional y laico", "es_correcta": false },
+        { "id": 3, "texto": "Garantizar y defender la soberanía nacional, plurinacional y laico", "es_correcta": false },
+        { "id": 4, "texto": "Soberanía social, democrática, independiente, unitaria, intercultural y laico", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 73,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador, ¿en qué casos ninguna entidad pública negará la información?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "En caso de violación a los derechos humanos", "es_correcta": true },
+        { "id": 2, "texto": "Cuando son casos de abuso sexual", "es_correcta": false },
+        { "id": 3, "texto": "Por corrupción", "es_correcta": false },
+        { "id": 4, "texto": "En caso de delitos contra el Estado", "es_correcta": false }
+      ]
+    },
+    {
+  "id": 73,
+  "texto": "De acuerdo a la Constitución de la República del Ecuador en su Art. 19 vigilancia de contenidos ¿Qué prohíbe la emisión de publicidad?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Que induzca a la violencia, la discriminación, el racismo, la toxicomanía, el sexismo, la intolerancia religiosa", "es_correcta": true },
+    { "id": 2, "texto": "La emisión de novelas de narcotráfico", "es_correcta": false },
+    { "id": 3, "texto": "La emisión de canales educativos", "es_correcta": false },
+    { "id": 4, "texto": "Regular las emisiones en los distintos medios de comunicación", "es_correcta": false }
+  ]
+},
+{
+  "id": 74,
+  "texto": "De acuerdo a la Constitución de la República del Ecuador; ¿A quién garantizará el Estado la cláusula de conciencia?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "A todos los ciudadanos ecuatorianos", "es_correcta": false },
+    { "id": 2, "texto": "A las autoridades competentes dentro del ámbito de comunicación", "es_correcta": false },
+    { "id": 3, "texto": "A toda persona, y el secreto profesional y la reserva de la fuente a quienes informen", "es_correcta": true },
+    { "id": 4, "texto": "Al presidente de la República", "es_correcta": false }
+  ]
+},
+{
+  "id": 75,
+  "texto": "De acuerdo a la Constitución de la República del Ecuador; ¿Cuándo no se podrá invocar a la Cultura?",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Cuando esta sea inexistente", "es_correcta": false },
+    { "id": 2, "texto": "Cuando se atente contra los derechos reconocidos en la Constitución", "es_correcta": true },
+    { "id": 3, "texto": "Cuando esta haya sido perteneciente a otra nacionalidad", "es_correcta": false },
+    { "id": 4, "texto": "Cuando la cultura no tenga un reconocimiento histórico", "es_correcta": false }
+  ]
+},
+    {
+      "id": 76,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador, las personas que generen producciones, obras literarias o artísticas tienen derecho a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Tener una remuneración económica del 70% si ceden sus derechos de patente", "es_correcta": false },
+        { "id": 2, "texto": "Al ejercicio digno y sostenido de las actividades culturales y artísticas", "es_correcta": true },
+        { "id": 3, "texto": "A tener una publicidad duradera de un año en todas sus creaciones", "es_correcta": false },
+        { "id": 4, "texto": "Acceder a su patrimonio cultural", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 77,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador, según la cultura y ciencia, ¿a qué tienen derecho las personas?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Igualdad cultural", "es_correcta": false },
+        { "id": 2, "texto": "A construir y mantener su propia identidad cultural", "es_correcta": true },
+        { "id": 3, "texto": "Derecho a la recreación científica", "es_correcta": false },
+        { "id": 4, "texto": "Derecho a acceder y participar del espacio público", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 78,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador, las personas tienen derecho a la recreación y al:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Esparcimiento, a la práctica del deporte y al tiempo libre", "es_correcta": true },
+        { "id": 2, "texto": "Práctica de artes ancestrales", "es_correcta": false },
+        { "id": 3, "texto": "Educación intercultural", "es_correcta": false },
+        { "id": 4, "texto": "La motivación artística liberal", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 79,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador, el derecho a la educación es un derecho de quienes:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Nacionales", "es_correcta": false },
+        { "id": 2, "texto": "Extranjeros", "es_correcta": false },
+        { "id": 3, "texto": "De las personas a lo largo de su vida y un deber ineludible e inexcusable del Estado", "es_correcta": true },
+        { "id": 4, "texto": "Solo a los pueblos y nacionalidades", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 80,
+      "texto": "Según la CRE, ¿a qué interés responderá la educación?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Particular y asociado", "es_correcta": false },
+        { "id": 2, "texto": "Internacional", "es_correcta": false },
+        { "id": 3, "texto": "Universitario", "es_correcta": false },
+        { "id": 4, "texto": "Público", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 81,
+      "texto": "En materia constitucional, los Derechos y Garantías y los instrumentos internacionales de Derechos Humanos son de directa e inmediata aplicación, ¿ante qué autoridad se los presenta?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ante el secretario de la Corte", "es_correcta": false },
+        { "id": 2, "texto": "La Asamblea Nacional", "es_correcta": false },
+        { "id": 3, "texto": "Corte Constitucional", "es_correcta": false },
+        { "id": 4, "texto": "Servidor o servidora público, administrativo o judicial", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 82,
+      "texto": "El derecho de repetición establecido en la Constitución, el Estado en contra de quién ejercerá:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "De las personas responsables del daño producido, sin perjuicio de las responsabilidades civiles, penales y administrativas", "es_correcta": true },
+        { "id": 2, "texto": "Contra los particulares que presentaron la acusación particular", "es_correcta": false },
+        { "id": 3, "texto": "Contra los particulares que presentaron la acusación particular", "es_correcta": false },
+        { "id": 4, "texto": "Contra el Consejo de la Judicatura por falta de control", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 83,
+      "texto": "Actualmente en nuestro país todos los principios y los derechos son:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Inalienables, renunciables, partitivos, interdependientes y de igual jerarquía", "es_correcta": false },
+        { "id": 2, "texto": "Inalienables, irrenunciables, indivisibles, dependientes y de desigual jerarquía", "es_correcta": false },
+        { "id": 3, "texto": "Inalienables, irrenunciables, indivisibles, interdependientes y de igual jerarquía", "es_correcta": true },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 84,
+      "texto": "Según la Constitución de 2008, todas las ecuatorianas y todos los ecuatorianos son:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Personas", "es_correcta": false },
+        { "id": 2, "texto": "Ciudadanos", "es_correcta": true },
+        { "id": 3, "texto": "Seres humanos", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 85,
+      "texto": "El Estado adoptará medidas de acción afirmativa que promuevan la igualdad en favor de los titulares de derechos que se encuentren en situación de desigualdad. Indique la medida adoptada:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Real", "es_correcta": false },
+        { "id": 2, "texto": "Formal", "es_correcta": false },
+        { "id": 3, "texto": "Real y formal", "es_correcta": true },
+        { "id": 4, "texto": "Formal y real", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 86,
+      "texto": "La Constitución de 2008 establece que la naturaleza es:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Sujeto de derechos", "es_correcta": true },
+        { "id": 2, "texto": "Objeto de derechos", "es_correcta": false },
+        { "id": 3, "texto": "Excluyente de derechos", "es_correcta": false },
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 88,
+      "texto": "De acuerdo a la utilización del espacio público, existen personas que constitucionalmente tienen derecho a acceder y participar del espacio público como ámbito de:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Ejercicio digno y sostenido de las actividades culturales y artísticas", "es_correcta": false },
+        { "id": 2, "texto": "Construir y mantener su propia identidad cultural", "es_correcta": false },
+        { "id": 3, "texto": "Fomentar la creación de espacios para la difusión de la producción", "es_correcta": false },
+        { "id": 4, "texto": "Liberación, intercambio cultural, cohesión social y promoción de la igualdad en la diversidad", "es_correcta": true }
+      ]
+    },
+    {
+      "id": 89,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador, la educación es un derecho de las personas:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "A lo largo de su vida y un deber ineludible e inexcusable del Estado", "es_correcta": true },
+        { "id": 2, "texto": "Participar en el proceso docente", "es_correcta": false },
+        { "id": 3, "texto": "Gozar de los bienes y aplicaciones del progreso científico", "es_correcta": false },
+        { "id": 4, "texto": "Garantizará la libertad de cultura, la libertad de cátedra", "es_correcta": false }
+      ]
+    },
+    {
+      "id": 90,
+      "texto": "De acuerdo a la CRE, además de las políticas públicas, el Estado implementará un programa de atención dirigido a:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Personas con capacidades especiales", "es_correcta": false },
+        { "id": 2, "texto": "Mujeres", "es_correcta": false },
+        { "id": 3, "texto": "Adultas mayores", "es_correcta": true },
+        { "id": 4, "texto": "Niños y adolescentes", "es_correcta": false }
+      ]
+    },
+    {
+  "id": 91,
+  "texto": "De acuerdo a la CRE, no se considerará a ningún ser humano como ilegal por su:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Condición migratoria", "es_correcta": true },
+    { "id": 2, "texto": "Derecho a migrar", "es_correcta": false },
+    { "id": 3, "texto": "Posición económica fuera del país", "es_correcta": false },
+    { "id": 4, "texto": "Tener otra nacionalidad", "es_correcta": false }
+  ]
+},
+{
+  "id": 92,
+  "texto": "De acuerdo a la CRE, los derechos de los niños, niñas y adolescentes prevalecerán sobre:",
+  "tipo": "opcion_multiple",
+  "opciones": [
+    { "id": 1, "texto": "Los derechos de los adultos mayores", "es_correcta": false },
+    { "id": 2, "texto": "Los derechos de las mujeres embarazadas", "es_correcta": false },
+    { "id": 3, "texto": "Los derechos de las demás personas", "es_correcta": true },
+    { "id": 4, "texto": "Los derechos de las personas vulnerables", "es_correcta": false }
+  ]
+},
+      {
+      "id": 93,
+      "texto": "El estado garantiza y protege la vida desde el momento de:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Su nacimiento", "es_correcta": false },
+        { "id": 2, "texto": "Su concepción", "es_correcta": true },
+        { "id": 3, "texto": "Primer mes de gestación", "es_correcta": false },
+        { "id": 4, "texto": "Cuando inicia la educación básica", "es_correcta": false }
+      ]
+      },
+      {
+      "id": 94,
+      "texto": "De acuerdo a la CRE, las personas y familias que cuiden a personas discapacitadas recibirán del Estado:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Bono", "es_correcta": true },
+        { "id": 2, "texto": "Capacitación periódica", "es_correcta": false },
+        { "id": 3, "texto": "Seguro de vida", "es_correcta": false },
+        { "id": 4, "texto": "Seguro de alimentación", "es_correcta": false }
+      ]
+      },
+      {
+      "id": 95,
+      "texto": "¿Qué establece la Constitución de la República del Ecuador para las personas con enfermedades catastróficas?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Obtención de créditos", "es_correcta": false },
+        { "id": 2, "texto": "Derecho a la atención especializada", "es_correcta": true },
+        { "id": 3, "texto": "Derecho a una vivienda", "es_correcta": false },
+        { "id": 4, "texto": "Acceso a bienes y servicios", "es_correcta": false }
+      ]
+      },
+      {
+      "id": 96,
+      "texto": "De acuerdo a la Constitución de la República del Ecuador, ¿para proteger los derechos de las personas integrantes de la familia, se deberá?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Reconocer el patrimonio familiar inembargable en la cuantía y con las condiciones y limitaciones que establezca la ley", "es_correcta": true },
+        { "id": 2, "texto": "Garantizar el derecho de no testar y de no heredar", "es_correcta": false },
+        { "id": 3, "texto": "Una vida libre de violencia en el ámbito legal", "es_correcta": false },
+        { "id": 4, "texto": "Derecho a la igualdad formal y no discriminación", "es_correcta": false }
+      ]
+      },
+      {
+      "id": 97,
+      "texto": "Por qué principios se regirá la seguridad social de acuerdo a la Constitución de la República del Ecuador?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "De universalidad, justicia, eficiencia, suficiencia, transparencia y participación, para la atención de las necesidades individuales y colectivas", "es_correcta": false },
+        { "id": 2, "texto": "De solidaridad, obligatoriedad, universalidad, equidad, eficiencia, subsidiaridad, suficiencia, transparencia y participación, para la atención de las necesidades individuales y colectivas", "es_correcta": true },
+        { "id": 3, "texto": "De solidaridad, exigencia, equidad, eficiencia, subsidiaridad, transparencia y participación, para la atención de las necesidades individuales y colectivas", "es_correcta": false },
+        { "id": 4, "texto": "De solidaridad, requerimiento, eficiencia, subsidiaridad, suficiencia, transparencia y participación, para la atención de las necesidades personales", "es_correcta": false }
+      ]
+      },
+      {
+      "id": 98,
+      "texto": "Existen personas que constitucionalmente se ha establecido que recibirán atención prioritaria y especializada en los ámbitos público y privado. ¿Cuál de las siguientes personas pertenecen a este grupo de atención prioritaria?",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Las personas jurídicas", "es_correcta": false },
+        { "id": 2, "texto": "Quienes adolezcan de enfermedades catastróficas", "es_correcta": true },
+        { "id": 3, "texto": "Las y los extranjeros", "es_correcta": false },
+        { "id": 4, "texto": "Las y los mestizos", "es_correcta": false }
+      ]
+      },
+      {
+      "id": 99,
+      "texto": "La Constitución de la República del Ecuador reconoce derechos colectivos a grupos específicos determinados en el texto constitucional tales como las comunas, comunidades, pueblos y nacionalidades indígenas. De las siguientes opciones determine el requisito necesario para realizar planes y programas de prospección, explotación y comercialización de recursos naturales no renovables en los territorios de comunas, comunidades, pueblos y nacionalidades indígenas:",
+      "tipo": "opcion_multiple",
+      "opciones": [
+        { "id": 1, "texto": "Estudio de Impacto Ambiental", "es_correcta": false },
+        { "id": 2, "texto": "Consulta popular", "es_correcta": false },
+        { "id": 3, "texto": "La consulta previa, libre e informada", "es_correcta": true },
+        { "id": 4, "texto": "Contar únicamente con la aprobación del Ministerio del ramo", "es_correcta": false }
+      ]
+      }
   ]
   
 }
