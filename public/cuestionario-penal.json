@@ -409,8 +409,8 @@
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Existe desistimiento involuntario", "es_correcta": false },
-        { "id": 2, "texto": "Responde por desistimiento voluntario", "es_correcta": false },
-        { "id": 3, "texto": "Se castiga la tentativa", "es_correcta": true },
+        { "id": 2, "texto": "Responde por desistimiento voluntario", "es_correcta": true },
+        { "id": 3, "texto": "Se castiga la tentativa", "es_correcta": false },
         { "id": 4, "texto": "Ninguna de las opciones de respuesta", "es_correcta": false }
       ]
     },
@@ -454,8 +454,8 @@
       "opciones": [
         { "id": 1, "texto": "Instrucción, evaluación y preparatoria de juicio, juicio, impugnación", "es_correcta": false },
         { "id": 2, "texto": "Investigación previa, instrucción, evaluación y preparatoria de juicio, juicio", "es_correcta": false },
-        { "id": 3, "texto": "Indagación previa, instrucción, evaluación y preparatoria de juicio, juicio", "es_correcta": true },
-        { "id": 4, "texto": "Instrucción, evaluación y preparatoria de juicio, juicio", "es_correcta": false }
+        { "id": 3, "texto": "Indagación previa, instrucción, evaluación y preparatoria de juicio, juicio", "es_correcta": false },
+        { "id": 4, "texto": "Instrucción, evaluación y preparatoria de juicio, juicio", "es_correcta": true }
       ]
     },
     {
@@ -595,9 +595,9 @@
       "texto": "¿Qué plazo tiene el juez para señalar día y hora para realizar la audiencia de juicio directo?:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo en cinco días", "es_correcta": true },
+        { "id": 1, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo en cinco días", "es_correcta": false },
         { "id": 2, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo en tres días", "es_correcta": false },
-        { "id": 3, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo de veinte días", "es_correcta": false },
+        { "id": 3, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo de veinte días", "es_correcta": true },
         { "id": 4, "texto": "El juzgador señalará día y hora para la audiencia de juicio en un plazo máximo en diez días", "es_correcta": false }
       ]
     },
@@ -848,10 +848,10 @@
       "texto": "La suspensión condicional de la pena es:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Suspender la ejecución de la pena privativa de libertad impuesta en sentencia de primera instancia", "es_correcta": false },
+        { "id": 1, "texto": "Suspender la ejecución de la pena privativa de libertad impuesta en sentencia de primera instancia", "es_correcta": true },
         { "id": 2, "texto": "Suspender la ejecución de la pena privativa de libertad impuesta en sentencia de segunda instancia", "es_correcta": false },
         { "id": 3, "texto": "Extinguir definitivamente la pena privativa de libertad impuesta en sentencia de primera instancia", "es_correcta": false },
-        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": true }
+        { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
       ]
     },
     {
