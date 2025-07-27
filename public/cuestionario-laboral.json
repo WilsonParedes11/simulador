@@ -606,9 +606,9 @@
       "texto": "Los agentes de comercio o agentes viajeros son considerados:",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "Empleados privados", "es_correcta": false },
+        { "id": 1, "texto": "Empleados privados", "es_correcta": true },
         { "id": 2, "texto": "Empleados públicos", "es_correcta": false },
-        { "id": 3, "texto": "Trabajadores privados", "es_correcta": true },
+        { "id": 3, "texto": "Trabajadores privados", "es_correcta": false },
         { "id": 4, "texto": "Ninguna de las anteriores", "es_correcta": false }
       ]
     },
@@ -949,8 +949,8 @@
       "opciones": [
         { "id": 1, "texto": "En el caso de contrato colectivo", "es_correcta": false },
         { "id": 2, "texto": "En caso de litispendencia", "es_correcta": false },
-        { "id": 3, "texto": "En caso fortuito o Fuerza mayor", "es_correcta": true },
-        { "id": 4, "texto": "En caso de visto bueno a petición del empleador", "es_correcta": false }
+        { "id": 3, "texto": "En caso fortuito o Fuerza mayor", "es_correcta": false },
+        { "id": 4, "texto": "En caso de visto bueno a petición del empleador", "es_correcta": true }
       ]
     },
     {

@@ -559,18 +559,18 @@
     },
     {
       "id": 51,
-      "texto": "Se tramitarán por el procedimiento sumario:",
+      "texto": "Se tramitarán por el procedimiento sumario: opcion incorrecta",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "La prestación de alimentos", "es_correcta": false },
         { "id": 2, "texto": "El divorcio por mutuo acuerdo", "es_correcta": true },
         { "id": 3, "texto": "El divorcio contencioso", "es_correcta": false },
-        { "id": 4, "texto": "Las acciones posesorias", "es_correcta": true }
+        { "id": 4, "texto": "Las acciones posesorias", "es_correcta": false }
       ]
     },
     {
       "id": 52,
-      "texto": "Se tramitarán por el procedimiento sumario (escoja la opción incorrecta):",
+      "texto": "Se tramitarán por el procedimiento sumario: (escoja la opción correcta):",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "El despido ineficaz", "es_correcta": false },
@@ -581,7 +581,7 @@
     },
     {
       "id": 53,
-      "texto": "Las reglas del procedimiento sumario se rigen por lo siguiente:",
+      "texto": "Las reglas del procedimiento sumario se rigen por lo siguiente: (escoja la opcion incorrecta):",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Se tiene un plazo de quince días para contestar la demanda y la reconvención", "es_correcta": true },
@@ -592,7 +592,7 @@
     },
     {
       "id": 54,
-      "texto": "En materia de niñez y adolescencia, la audiencia única se desarrollará:",
+      "texto": "En materia de niñez y adolescencia, la audiencia única se desarrollará:(opción correcta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "En el término de veinte días contados a partir de la citación", "es_correcta": false },
@@ -603,7 +603,7 @@
     },
     {
       "id": 55,
-      "texto": "La audiencia en materia de niñez y adolescencia tiene:",
+      "texto": "La audiencia en materia de niñez y adolescencia tiene: (opción correcta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Una fase", "es_correcta": false },
@@ -731,18 +731,18 @@
     },
     {
       "id": 69,
-      "texto": "El efecto suspensivo es:",
+      "texto": "El efecto suspensivo es: (escoja la opción correcta)",
       "tipo": "opcion_multiple",
       "opciones": [
-        { "id": 1, "texto": "No se continúa con la sustanciación del proceso hasta que el juzgador resuelva sobre la impugnación propuesta por el apelante", "es_correcta": false },
+        { "id": 1, "texto": "No se continúa con la sustanciación del proceso hasta que el juzgador resuelva sobre la impugnación propuesta por el apelante", "es_correcta": true },
         { "id": 2, "texto": "No se continúa con la sustanciación del proceso hasta que el juzgador evacúe las pruebas de las partes", "es_correcta": false },
         { "id": 3, "texto": "No se continúa con la sustanciación del proceso hasta que el juzgador resuelva el incidente presentado", "es_correcta": false },
-        { "id": 4, "texto": "No se continúa con la sustanciación del proceso hasta que el tribunal resuelva sobre la impugnación propuesta por el apelante", "es_correcta": true }
+        { "id": 4, "texto": "No se continúa con la sustanciación del proceso hasta que el tribunal resuelva sobre la impugnación propuesta por el apelante", "es_correcta": false }
       ]
     },
     {
       "id": 70,
-      "texto": "El efecto no suspensivo es:",
+      "texto": "El efecto no suspensivo es: (escoja la opción correcta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Se cumple lo ordenado en la resolución impugnada y se remiten al tribunal de apelación las copias para conocimiento y resolución", "es_correcta": true },
@@ -843,7 +843,7 @@
     },
     {
       "id": 81,
-      "texto": "Los clásicos principios del Derecho de Familia fueron:",
+      "texto": "Los clásicos principios del Derecho de Familia fueron:(opción incorrecta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Matrimonio religioso e indisoluble", "es_correcta": false },
@@ -856,7 +856,7 @@
     },
     {
       "id": 82,
-      "texto": "Para Robert Alexy, qué son los principios:",
+      "texto": "Para Robert Alexy, qué son los principios: (opción incorrecta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Son normas que ordenan que algo sea realizado", "es_correcta": false },
@@ -868,7 +868,7 @@
     },
     {
       "id": 83,
-      "texto": "¿Cuáles son los nuevos principios del Derecho de Familia?",
+      "texto": "¿Cuáles son los nuevos principios del Derecho de Familia?: (opción incorrecta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Principio de protección a la familia", "es_correcta": false },
@@ -882,7 +882,7 @@
     },
     {
       "id": 84,
-      "texto": "Cuáles son las funciones esenciales para el desarrollo de todo ser humano que mejor cumple la familia?",
+      "texto": "Cuáles son las funciones esenciales para el desarrollo de todo ser humano que mejor cumple la familia?: (opción incorrecta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "La función biológica (sexual y reproductiva)", "es_correcta": false },
@@ -903,7 +903,7 @@
     },
     {
       "id": 86,
-      "texto": "Desde el neoconstitucionalismo el rol del juez en la emisión de las resoluciones en temas de Derecho de Familia, lo fundamenta en base a:",
+      "texto": "Desde el neoconstitucionalismo el rol del juez en la emisión de las resoluciones en temas de Derecho de Familia, lo fundamenta en base a: (opcion correcta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Principios, valores y normas", "es_correcta": true },
@@ -942,7 +942,7 @@
     },
     {
       "id": 90,
-      "texto": "En los procesos sumarios cuya principal pretensión es la fijación de pensión alimenticia de NNA, la inasistencia a la audiencia única del accionante o de ninguna de las partes, obligará al juzgador a:",
+      "texto": "En los procesos sumarios cuya principal pretensión es la fijación de pensión alimenticia de NNA, la inasistencia a la audiencia única del accionante o de ninguna de las partes, obligará al juzgador a: (escoja la opción correcta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Emitir un auto suspensivo ratificando la pensión provisional fijada en la calificación de la demanda", "es_correcta": false },
@@ -953,7 +953,7 @@
     },
     {
       "id": 91,
-      "texto": "Las fases de la audiencia única del juicio sumario son:",
+      "texto": "Las fases de la audiencia única del juicio sumario son: (opción incorrecta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Primera fase: saneamiento, fijación puntos de debate y conciliación", "es_correcta": false },
@@ -963,7 +963,7 @@
     },
     {
       "id": 92,
-      "texto": "En materia de niñez y adolescencia, la audiencia única se realizará en el término:",
+      "texto": "En materia de niñez y adolescencia, la audiencia única se realizará en el término: (opción correcta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Máximo de 30 días contados a partir de la citación", "es_correcta": false },
@@ -1019,7 +1019,7 @@
     },
     {
       "id": 98,
-      "texto": "Cuál es la sanción que establece el Consejo de la Judicatura para los jueces que incumplan la fijación de términos y plazos?",
+      "texto": "Cuál es la sanción que establece el Consejo de la Judicatura para los jueces que incumplan la fijación de términos y plazos?: (opción correcta)",
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Suspensión de 30 a 45 días", "es_correcta": false },

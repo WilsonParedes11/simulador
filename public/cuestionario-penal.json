@@ -959,8 +959,8 @@
       "tipo": "opcion_multiple",
       "opciones": [
         { "id": 1, "texto": "Oportunidad de la prueba", "es_correcta": false },
-        { "id": 2, "texto": "Contradicción", "es_correcta": false },
-        { "id": 3, "texto": "Libertad probatoria", "es_correcta": true },
+        { "id": 2, "texto": "Contradicción", "es_correcta": true },
+        { "id": 3, "texto": "Libertad probatoria", "es_correcta": false },
         { "id": 4, "texto": "Pertinencia", "es_correcta": false }
       ]
     },
